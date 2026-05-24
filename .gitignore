@@ -1,0 +1,27 @@
+# Environment
+.env
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# SDM preprocessing outputs (regenerated locally)
+**/pp/
+**/analysis_*/
+**/sdmpsi_params.xml
+**/sdm_maps.txt
+**/sdm_mask.nii.gz
+**/sdm_nd.txt
+**/fwe/
+
+# Extraction logs and caches
+data_extraction/logs/
+data_extraction/raw_extractions/_failed/
+data_extraction/raw_extractions/_pre_integration/
+
+# IDE
+*.code-workspace
+.cursor/
+
+# OS
+Trash/
