@@ -1,0 +1,333 @@
+{
+  "study": {
+    "pmid": "35096130",
+    "doi": "10.1155/2022/4295985",
+    "trial_registration": "not_reported",
+    "title": "Functional Magnetic Resonance Imaging Study of Electroacupuncture Stimulating Uterine Acupoints",
+    "first_author": "ChengChao Xu",
+    "year": "2022",
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "article_type": "Research Article",
+    "study_design": "Within-subject pre-post design; 20 healthy female subjects underwent fMRI before and after electroacupuncture at bilateral uterine points (EX-CA1)",
+    "randomization": "not_reported",
+    "blinding": "not_reported",
+    "n_total_enrolled": 20,
+    "n_total_randomized": null,
+    "n_total_analyzed_clinical": null,
+    "n_total_analyzed_neuroimaging": 20,
+    "population": "Healthy female volunteers aged 20-40 years",
+    "disease_condition": "Healthy volunteers; no disease condition",
+    "healthy_volunteers": true,
+    "inclusion_criteria": "(1) age 20-40 years; (2) female, all right-handed; (3) no history of mental or nervous system diseases; (4) menstruation is generally normal; (5) no drug-taking history and acupuncture treatment history within the first two weeks of participating in this project; and (6) those who sign the informed consent form",
+    "exclusion_criteria": "(1) those with contraindications to MRI scanning, such as foreign bodies such as metal products, cardiac pacemakers, and metal dentures (which cannot be removed), those with claustrophobia, or those who cannot accept MRI scanning for other reasons; (2) pregnant and lactating women; (3) have a history of alcohol or drug abuse; and (4) those with contraindications to acupuncture and moxibustion"
+  },
+  "arms": [
+    {
+      "arm_id": "arm_verum_ea",
+      "arm_label_exact": "Electroacupuncture at bilateral uterine points (EX-CA1)",
+      "arm_type_coded": "verum_acupuncture",
+      "n_assigned": 20,
+      "n_completed": 20,
+      "n_analyzed_clinical": null,
+      "n_analyzed_neuroimaging": 20,
+      "dropouts": "not_reported"
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "cond_pre_acupuncture",
+      "arm_id": "arm_verum_ea",
+      "condition_label_exact": "Before acupuncture",
+      "condition_type": "pre_treatment",
+      "timepoint_exact": "Before acupuncture treatment",
+      "scan_context": "Resting-state fMRI (rs-fMRI) scan performed before electroacupuncture; subjects instructed to relax, not fall asleep, and not do any thinking activities; eye masks worn",
+      "dose_or_intensity_label": "not_reported"
+    },
+    {
+      "condition_id": "cond_post_acupuncture",
+      "arm_id": "arm_verum_ea",
+      "condition_label_exact": "After acupuncture",
+      "condition_type": "post_treatment",
+      "timepoint_exact": "After acupuncture treatment (following 20 min needle retention with electroacupuncture)",
+      "scan_context": "Resting-state fMRI (RS fMRI) scan performed after electroacupuncture at bilateral uterine points",
+      "dose_or_intensity_label": "not_reported"
+    }
+  ],
+  "interventions": [
+    {
+      "intervention_id": "interv_ea_uterine",
+      "arm_id": "arm_verum_ea",
+      "condition_id": "cond_post_acupuncture",
+      "procedure_label_exact": "Electroacupuncture stimulation at bilateral uterine points (EX-CA1)",
+      "stimulation_type": "electroacupuncture",
+      "acupuncture_modality": "electroacupuncture",
+      "acupoints_used_exact": [
+        "EX-CA1 (bilateral uterine points)"
+      ],
+      "non_acupoint_locations_exact": [],
+      "anatomical_location_exact": "Less abdomen, outside the uterus",
+      "laterality_exact": "Bilateral",
+      "needle_type_exact": "Huatuo brand disposable acupuncture needle",
+      "needle_size_exact": "0.25 * 40 mm",
+      "penetration_exact": "directly inserted into the skin for about 25 mm",
+      "depth_exact": "about 25 mm",
+      "depth_mm_numeric": 25,
+      "manipulation_exact": "After needling qi, connect the Huatuo brand electroacupuncture instrument to both uterine points",
+      "deqi_intended_exact": "After needling qi (implies deqi was elicited)",
+      "electrical_stimulation": true,
+      "electrical_frequency_exact": "continuous wave, frequency 1 Hz",
+      "electrical_intensity_exact": "not_reported",
+      "needle_retention_exact": "keep the needle for 20 min",
+      "needle_retention_min_numeric": 20,
+      "session_duration_exact": "20 min",
+      "session_duration_min_numeric": 20,
+      "number_of_sessions_exact": "not_reported (single session implied)",
+      "number_of_sessions_numeric": null,
+      "treatment_period_exact": "not_reported",
+      "practitioner_description_exact": "All 20 volunteers were operated by the same acupuncturist",
+      "participant_instructions_exact": "Volunteers lie flat on the treatment bed and expose their small abdomen",
+      "treatment_rationale_given_exact": "Uterine acupoint (ex-ca1) has the effects of warming the uterus and regulating menstruation, promoting qi and relieving pain, raising Yang, and lifting depression. It is widely used to treat gynecological diseases such as irregular menstruation, dysmenorrhea, infertility, and uterine prolapse.",
+      "sham_details": {
+        "sham_subtype_exact": "not_applicable",
+        "sham_device_exact": "not_applicable",
+        "sham_penetration_exact": "not_applicable",
+        "sham_location_exact": "not_applicable",
+        "sham_manipulation_exact": "not_applicable",
+        "sham_deqi_intended_exact": "not_applicable",
+        "sham_credibility_procedure_exact": "not_applicable"
+      }
+    }
+  ],
+  "sensory_interoceptive_responses": [
+    {
+      "response_id": "sens_01",
+      "arm_id": "arm_verum_ea",
+      "condition_id": "cond_post_acupuncture",
+      "timepoint_exact": "During/after electroacupuncture",
+      "response_domain": "deqi",
+      "instrument_name_exact": "not_reported",
+      "item_or_subscale_exact": "not_reported",
+      "reporting_format": "narrative",
+      "value_exact": "After needling qi (deqi was obtained as part of the procedure)",
+      "n_analyzed": null,
+      "between_group_difference_exact": "not_reported",
+      "within_group_change_exact": "not_reported",
+      "statistical_test_exact": "not_reported",
+      "p_value_exact": "not_reported",
+      "notes": "The paper mentions 'after needling qi' as a procedural step but does not report any quantitative deqi or sensation ratings. No formal sensory/deqi assessment instrument was used or reported."
+    }
+  ],
+  "neuroimaging_methods": {
+    "modality": "rs-fMRI",
+    "scanner_manufacturer_model_exact": "Philips Ingenia 3.0 T MRI scanner",
+    "field_strength_tesla": 3.0,
+    "sequence_exact": "FE-EPI sequence (resting-state fMRI); also T1WI, T2WI, FLAIR, DWI, and 3D structural data acquisition",
+    "TR_exact": "TR = 2000 ms",
+    "TE_exact": "TE = 30 ms",
+    "voxel_size_exact": "resampled to 3 mm × 3 mm × 3 mm voxel",
+    "scan_duration_exact": "180 time points collected (at TR = 2000 ms = 360 s = 6 min)",
+    "preprocessing_software_exact": "DPABI software based on MATLAB 2018b platform",
+    "analysis_software_exact": "DPARSF, SPM8, and other toolkits based on MATLAB platform",
+    "normalization_template_exact": "EPI template (registered on the EPI template for spatial standardization)",
+    "coordinate_space_reported_exact": "MNI (Montreal Neurological Institute, Montreal Institute)",
+    "smoothing_exact": "Gaussian smoothing kernel with half height and width of 6 mm",
+    "motion_exclusion_exact": "excluding subjects with average head movement amplitude > 1 mm or rotation parameter > 1° in the X-, Y-, and Z-axes",
+    "filtering_exact": "band-pass filter with a filtering range of 0.01-0.1 Hz",
+    "global_signal_regression_exact": "The 24 friston head movement parameters, cerebrospinal fluid, white matter, and whole brain mean signals were removed as covariates",
+    "primary_neuroimaging_metrics": [
+      "ReHo (regional homogeneity)",
+      "Kendall concordance coefficient (KCC)"
+    ],
+    "statistical_thresholds_exact": [
+      "voxel P < 0.05",
+      "cluster P < 0.05"
+    ],
+    "multiple_comparison_correction_exact": "Gaussian random field theory (GRF) correction (voxel P < 0.05, cluster P < 0.05)"
+  },
+  "neural_results": {
+    "contrasts": [
+      {
+        "contrast_id": "contrast_01",
+        "contrast_label_exact": "After acupuncture < before acupuncture (decreased ReHo)",
+        "contrast_type_exact": "Within-subject paired comparison: post-acupuncture minus pre-acupuncture (decrease direction)",
+        "arm_1": "arm_verum_ea",
+        "arm_2": "not_applicable",
+        "condition_1": "cond_post_acupuncture",
+        "condition_2": "cond_pre_acupuncture",
+        "timepoint_exact": "Post-acupuncture vs. pre-acupuncture",
+        "analysis_method_exact": "Regional homogeneity (ReHo) whole brain analysis; paired t-test; Kendall concordance coefficient (KCC) calculated between each voxel and its adjacent 26 voxels; GRF correction",
+        "neuroimaging_metric_exact": "ReHo (regional homogeneity)",
+        "analysis_scope": "whole_brain",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "Paired t-test",
+        "covariates_exact": "24 friston head movement parameters, cerebrospinal fluid, white matter, and whole brain mean signals",
+        "thresholding_method_exact": "GRF correction (voxel P < 0.05, cluster P < 0.05)",
+        "correction_method_exact": "Gaussian random field theory (GRF)",
+        "direction_exact": "Decrease (After acupuncture < before acupuncture)",
+        "result_level": "cluster_table",
+        "coordinates_or_clusters": [
+          {
+            "row_id": "row_01",
+            "brain_region_exact": "Precuneus; Posterior gyrus (cluster also includes central posterior gyrus and superior parietal lobule)",
+            "hemisphere_exact": "Left",
+            "x": -27,
+            "y": -66,
+            "z": 48,
+            "coordinate_triplet_exact": "-27 -66 48",
+            "coordinate_space_reported_exact": "MNI",
+            "coordinate_space_inference_note": "not_applicable",
+            "conversion_status_exact": "not_reported",
+            "statistic_type_exact": "Peak t",
+            "statistic_value_exact": "-5.3196",
+            "p_value_exact": "voxel P < 0.05, cluster P < 0.05 (GRF corrected)",
+            "cluster_size_exact": "456",
+            "cluster_extent_unit_exact": "voxels (inferred; unit not explicitly stated)",
+            "peak_or_cluster_level": "both",
+            "brodmann_area_exact": "not_reported",
+            "atlas_label_exact": "not_reported",
+            "direction_exact": "Decrease (After acupuncture < before acupuncture)",
+            "coordinate_source": "table"
+          },
+          {
+            "row_id": "row_02",
+            "brain_region_exact": "Calcarine; Lingual gyrus (cluster also includes lingual gyrus, middle occipital gyrus, and inferior occipital gyrus)",
+            "hemisphere_exact": "Bilateral (Calcarine bilateral; Lingual gyrus Left)",
+            "x": 0,
+            "y": -93,
+            "z": 0,
+            "coordinate_triplet_exact": "0 -93 0",
+            "coordinate_space_reported_exact": "MNI",
+            "coordinate_space_inference_note": "not_applicable",
+            "conversion_status_exact": "not_reported",
+            "statistic_type_exact": "Peak t",
+            "statistic_value_exact": "-5.7168",
+            "p_value_exact": "voxel P < 0.05, cluster P < 0.05 (GRF corrected)",
+            "cluster_size_exact": "327",
+            "cluster_extent_unit_exact": "voxels (inferred; unit not explicitly stated)",
+            "peak_or_cluster_level": "both",
+            "brodmann_area_exact": "not_reported",
+            "atlas_label_exact": "not_reported",
+            "direction_exact": "Decrease (After acupuncture < before acupuncture)",
+            "coordinate_source": "table"
+          },
+          {
+            "row_id": "row_03",
+            "brain_region_exact": "Cerebellum",
+            "hemisphere_exact": "Bilateral",
+            "x": -6,
+            "y": -72,
+            "z": -18,
+            "coordinate_triplet_exact": "-6 -72 -18",
+            "coordinate_space_reported_exact": "MNI",
+            "coordinate_space_inference_note": "not_applicable",
+            "conversion_status_exact": "not_reported",
+            "statistic_type_exact": "Peak t",
+            "statistic_value_exact": "-5.4967",
+            "p_value_exact": "voxel P < 0.05, cluster P < 0.05 (GRF corrected)",
+            "cluster_size_exact": "357",
+            "cluster_extent_unit_exact": "voxels (inferred; unit not explicitly stated)",
+            "peak_or_cluster_level": "both",
+            "brodmann_area_exact": "not_reported",
+            "atlas_label_exact": "not_reported",
+            "direction_exact": "Decrease (After acupuncture < before acupuncture)",
+            "coordinate_source": "table"
+          }
+        ],
+        "network_edges_or_connectivity_results": [],
+        "model_performance_results": [],
+        "n_analyzed": 20
+      }
+    ]
+  },
+  "clinical_behavioral_outcomes": [],
+  "expectancy_blinding_credibility": [
+    {
+      "measure_id": "exp_01",
+      "arm_id": "arm_verum_ea",
+      "condition_id": "not_applicable",
+      "construct": "expectancy",
+      "instrument_name_exact": "not_reported",
+      "timepoint_exact": "not_reported",
+      "value_exact": "not_reported",
+      "reporting_format": "not_reported",
+      "n_analyzed": null,
+      "statistical_result_exact": "not_reported"
+    }
+  ],
+  "adverse_events": [
+    {
+      "arm_id": "arm_verum_ea",
+      "adverse_event_exact": "not_reported",
+      "n_events": null,
+      "n_participants": null,
+      "severity_exact": "not_reported",
+      "relatedness_exact": "not_reported"
+    }
+  ],
+  "funding_conflicts_registration": {
+    "funding_exact": "This work was supported by Shandong Provincial TCM High-level Personnel Training Program supported by special Funds, Qilu Health and Health Leading Talents Training Project, and Shandong Traditional Chinese Medicine Science and Technology Development Plan Project (No. 2019-0335).",
+    "conflict_of_interest_exact": "The authors declare that they have no conflicts of interest.",
+    "ethics_approval_exact": "This study was approved by the ethics committee of the Third Hospital of Shandong Province (ethics No.: kyll-2021038).",
+    "trial_registration_exact": "not_reported",
+    "data_availability_exact": "The datasets are available at http://www.oasis-brains.org/."
+  },
+  "extraction_notes": [
+    {
+      "note_type": "missing_information",
+      "note": "No sham acupuncture or control condition was included in this study. The design is a single-arm within-subject pre-post comparison only. No control group exists for neural contrasts."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No formal deqi or sensory rating instrument was used or reported. The paper only mentions 'after needling qi' as a procedural step. Quantitative sensation/deqi data are absent."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Expectancy, blinding success, credibility, and allocation guessing were not assessed or reported."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Adverse events are not mentioned anywhere in the paper. No statement of safety outcomes was provided."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No clinical outcome measures (e.g., pain scales, hormone levels, symptom scores) were assessed in this study. The study is purely neuroimaging-focused in healthy volunteers."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "The cluster extent unit for the cluster_size values (456, 327, 357) is not explicitly stated in the paper. It is inferred to be voxels based on standard neuroimaging reporting conventions, but this is not confirmed by the text."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "Table 1 lists 'Precuneus' and 'Posterior gyrus' as separate rows but with the same MNI coordinates (-27 -66 48), hemisphere (Left), condition, cluster size (456), and Peak t (-5.3196). The table note states 'The cluster of precuneus also includes functional brain areas such as the central posterior gyrus and superior parietal lobule.' These appear to be sub-regions within the same cluster, extracted as one coordinate row here."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "Table 1 lists 'Calcarine' (Bilateral) and 'Lingual gyrus' (Left) as separate rows but with the same MNI coordinates (0 -93 0), condition, cluster size (327), and Peak t (-5.7168). The table note states 'The cluster of the talform sulcus also includes functional brain regions such as the lingual gyrus, middle occipital gyrus, and inferior occipital gyrus.' These appear to be sub-regions within the same cluster, extracted as one coordinate row here."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "The paper uses 'talform sulcus' and 'calcarine' interchangeably in the text and table, likely referring to the calcarine sulcus. 'Talform sulcus' appears to be a translation artifact from Chinese."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "The paper states that only results with After acupuncture < Before acupuncture (decreases in ReHo) were found. There is no mention of brain regions showing increased ReHo after acupuncture. It is unclear whether increases were absent or simply not reported."
+    },
+    {
+      "note_type": "inference_warning",
+      "note": "The paper reports the data availability link as http://www.oasis-brains.org/, which is the OASIS brain database. This appears inconsistent with the study's own collected fMRI data. It is unclear whether the actual study data are deposited at OASIS or whether this is an error in the paper."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "The paper does not report a formal trial registration number."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "The scanning parameters include number of layers = 24 and layer thickness = 3 mm with thickness interval = 1 mm, FA = 90°, FOV = 220 mm × 220 mm, matrix = 64 × 64. These are extracted in neuroimaging_methods but some parameters (FA, FOV, matrix) are not individually fielded in the schema and are included in sequence_exact."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "The paper does not specify the number of sessions; a single session (one pre-scan, one electroacupuncture treatment, one post-scan) is implied but not explicitly stated as 'one session.'"
+    }
+  ]
+}

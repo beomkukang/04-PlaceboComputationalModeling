@@ -1,0 +1,114 @@
+pmid,outcome_domain,arm_type,disease_condition,R_within,total_n,POMP_change,R_controlled,n_outcomes
+24459533,quality_of_life,healthy_control,Functional diarrhea (FD),0.06641439619463017,36,0.3049999999999997,,2
+24459533,quality_of_life,verum_acupuncture,Functional diarrhea (FD),0.10630956183992327,36,0.634999999999998,,2
+24915066,pain,sham_acupuncture,migraine without aura,0.32504530627038825,40,5.900000000000006,,1
+24915066,pain,verum_acupuncture,migraine without aura,0.7341,40,13.100000000000009,-0.5776527199334894,1
+24915066,quality_of_life,sham_acupuncture,migraine without aura,1.1624501631025739,40,,,1
+24915066,quality_of_life,verum_acupuncture,migraine without aura,1.5624082232011751,40,,1.2564060459447954,1
+24915066,symptom_severity,sham_acupuncture,migraine without aura,0.5816742730259654,80,,,2
+24915066,symptom_severity,verum_acupuncture,migraine without aura,0.55375850639817,80,,-0.12499189058657384,2
+25916336,pain,verum_acupuncture,Migraine without aura (MWoA),2.0036,12,28.0,,1
+26839078,mood,sham_acupuncture,Migraine without aura (MwoA),0.6673190661850641,22,12.15833333333333,,2
+26839078,mood,verum_acupuncture,Migraine without aura (MwoA),0.48203431592109003,162,8.749999999999996,0.34467438545068574,8
+26839078,mood,waitlist,Migraine without aura (MwoA),0.5181489118015621,32,9.383333333333336,,2
+26839078,pain,sham_acupuncture,Migraine without aura (MwoA),0.6281556627734779,11,11.399999999999999,,1
+26839078,pain,verum_acupuncture,Migraine without aura (MwoA),1.637345393197509,81,20.775000000000002,-0.12822613172204947,4
+26839078,pain,waitlist,Migraine without aura (MwoA),-0.05637390857729802,16,-0.6000000000000014,,1
+26839078,symptom_severity,sham_acupuncture,Migraine without aura (MwoA),0.0,11,,,1
+26839078,symptom_severity,verum_acupuncture,Migraine without aura (MwoA),0.35361621346356,81,,-0.2379199037955534,4
+26839078,symptom_severity,waitlist,Migraine without aura (MwoA),-1.435118644067797,16,,,1
+27688791,quality_of_life,sham_acupuncture,"Essential hypertension (mild or moderate arterial hypertension, grade 1 or 2)",0.36604391611689324,70,,,5
+27688791,quality_of_life,verum_acupuncture,"Essential hypertension (mild or moderate arterial hypertension, grade 1 or 2)",0.06789160281808097,182,1.2362500000000036,-0.3045238664095081,13
+27812501,symptom_severity,sham_acupuncture,Major depressive disorder (MDD),1.1036200708267976,36,20.83333333333334,,2
+27812501,symptom_severity,verum_acupuncture,Major depressive disorder (MDD),2.6884564926076306,36,35.004999999999995,0.9996988863132076,2
+27857211,quality_of_life,verum_acupuncture,Crohn's disease (remission period),0.5918151530989101,34,,,2
+27857211,symptom_severity,verum_acupuncture,Crohn's disease (remission period),0.679933910461668,34,,,2
+29204113,quality_of_life,verum_acupuncture,Crohn's disease (CD) in remission,0.6036249921614021,38,,,2
+29204113,symptom_severity,verum_acupuncture,Crohn's disease (CD) in remission,0.6757610186092066,38,,,2
+29563830,function,verum_acupuncture,Unilateral chronic shoulder pain (CSP); left-sided shoulder pain,0.8526009401259648,20,10.079999999999998,,2
+29563830,pain,verum_acupuncture,Unilateral chronic shoulder pain (CSP); left-sided shoulder pain,1.1212052659655538,20,145.85000000000002,,2
+29951105,function,usual_care,Ischemic stroke,0.4569862715864125,10,5.32,,1
+29951105,function,verum_acupuncture,Ischemic stroke,0.8782,11,12.513999999999996,,1
+30034336,function,sham_acupuncture,Parkinson's disease with tremor,0.1868589418096882,12,,,1
+30034336,function,verum_acupuncture,Parkinson's disease with tremor,0.5728900255754475,14,,1.093615729735317,1
+30034336,function,waitlist,Parkinson's disease with tremor,-0.1655365910685059,11,,,1
+30034336,symptom_severity,sham_acupuncture,Parkinson's disease with tremor,0.02117354201810401,60,,,5
+30034336,symptom_severity,verum_acupuncture,Parkinson's disease with tremor,0.25786435582311545,70,,0.2692444710485361,5
+30034336,symptom_severity,waitlist,Parkinson's disease with tremor,-0.13164972126918334,55,,,5
+32807158,symptom_severity,sham_acupuncture,Primary insomnia (PI),1.1138112395064592,86,18.34523809523809,,2
+32807158,symptom_severity,verum_acupuncture,Primary insomnia (PI),1.8989175604459991,172,27.876488095238095,0.578550134373526,4
+33013312,pain,sham_acupuncture,Primary dysmenorrhea (PDM),0.38459167950693407,15,4.800000000000004,,1
+33013312,pain,verum_acupuncture,Primary dysmenorrhea (PDM),2.7345,20,28.200000000000003,2.1289339095524795,1
+33146953,symptom_severity,verum_acupuncture,Primary insomnia (PI),3.868227373582854,60,39.88839285714286,,4
+34720908,mood,verum_acupuncture,Diarrhea-Predominant Irritable Bowel Syndrome (IBS-D),0.7630893352382554,42,12.160714285714292,,1
+34720908,quality_of_life,verum_acupuncture,Diarrhea-Predominant Irritable Bowel Syndrome (IBS-D),1.1807532625458947,42,5.656,,1
+34720908,symptom_severity,verum_acupuncture,Diarrhea-Predominant Irritable Bowel Syndrome (IBS-D),1.0367610070386166,210,4.9305,,5
+35048524,cognition,verum_acupuncture,Chronic neck and shoulder pain (CNSP),0.22985132407296482,60,2.0166666666666657,,2
+35048524,function,verum_acupuncture,Chronic neck and shoulder pain (CNSP),1.762046103698351,60,45.0,,2
+35048524,mood,verum_acupuncture,Chronic neck and shoulder pain (CNSP),0.3979577625983351,60,,,2
+35048524,pain,verum_acupuncture,Chronic neck and shoulder pain (CNSP),3.1079,30,43.400000000000006,,1
+35048524,symptom_severity,verum_acupuncture,Chronic neck and shoulder pain (CNSP),0.5102505694760819,30,13.26923076923077,,1
+35153654,symptom_severity,verum_acupuncture,chronic tinnitus,1.1175850561528122,56,8.344999999999999,,4
+35557556,mood,active_control,Chronic stable angina pectoris (CSAP),0.12574047439116548,28,1.1916666666666664,,2
+35557556,mood,other,Chronic stable angina pectoris (CSAP),0.2725546876941299,58,2.174999999999999,,2
+35557556,mood,verum_acupuncture,Chronic stable angina pectoris (CSAP),0.41731029832722266,30,3.099999999999998,,2
+35557556,pain,active_control,Chronic stable angina pectoris (CSAP),1.3368983957219251,14,8.333333333333332,,1
+35557556,pain,other,Chronic stable angina pectoris (CSAP),0.9603696961209914,29,8.466666666666669,,1
+35557556,pain,verum_acupuncture,Chronic stable angina pectoris (CSAP),0.7667,15,8.577777777777778,,1
+35557556,symptom_severity,active_control,Chronic stable angina pectoris (CSAP),0.08344451182534865,14,,,1
+35557556,symptom_severity,other,Chronic stable angina pectoris (CSAP),0.24032665759284472,29,,,1
+35557556,symptom_severity,verum_acupuncture,Chronic stable angina pectoris (CSAP),0.42020202020202024,15,,,1
+35585920,mood,verum_acupuncture,functional dyspepsia (FD),0.8031025398099455,66,13.183333333333334,,4
+35585920,quality_of_life,verum_acupuncture,functional dyspepsia (FD),1.2919672095070212,33,,,2
+35585920,symptom_severity,verum_acupuncture,functional dyspepsia (FD),1.5848415221140058,66,,,4
+36051643,mood,sham_acupuncture,Primary dysmenorrhea (PDM),0.39468551256565276,28,6.325000000000008,,2
+36051643,mood,verum_acupuncture,Primary dysmenorrhea (PDM),1.2732848076575425,40,12.541666666666671,0.923555605707963,2
+36051643,pain,sham_acupuncture,Primary dysmenorrhea (PDM),0.42,14,5.399999999999999,,1
+36051643,pain,verum_acupuncture,Primary dysmenorrhea (PDM),2.7442424242424237,20,28.299999999999997,0.11213412064051717,1
+36051643,symptom_severity,sham_acupuncture,Primary dysmenorrhea (PDM),0.2856021231000055,28,,,2
+36051643,symptom_severity,verum_acupuncture,Primary dysmenorrhea (PDM),0.6155127777159601,40,,0.46013112582457305,2
+36890655,function,verum_acupuncture,Knee osteoarthritis (KOA) with knee pain,0.6338886631450631,28,17.361111111111114,1.2685933096996196,1
+36890655,pain,medication,Knee osteoarthritis (KOA) with knee pain,0.8027027027027027,29,18.33333333333333,0.5077471863672907,1
+36890655,pain,placebo,Knee osteoarthritis (KOA) with knee pain,0.4382608695652173,30,6.666666666666664,,1
+36890655,pain,sham_acupuncture,Knee osteoarthritis (KOA) with knee pain,0.878048780487805,32,13.333333333333336,,1
+36890655,pain,verum_acupuncture,Knee osteoarthritis (KOA) with knee pain,1.0710955573615062,116,14.197530864197532,0.8138452105212023,3
+36890655,pain,waitlist,Knee osteoarthritis (KOA) with knee pain,0.6026086956521739,30,9.166666666666664,,1
+36890655,quality_of_life,verum_acupuncture,Knee osteoarthritis (KOA) with knee pain,0.37705446342249477,28,2.0833333333333357,1.0544229257686564,1
+37383656,function,sham_acupuncture,ischemic stroke with motor dysfunction,0.25394620884150854,42,7.2309744503862134,,3
+37383656,function,verum_acupuncture,ischemic stroke with motor dysfunction,0.253128701000604,78,7.885133689839573,0.08590242141984848,3
+37383656,symptom_severity,sham_acupuncture,ischemic stroke with motor dysfunction,0.3312,14,2.7142857142857135,,1
+37383656,symptom_severity,verum_acupuncture,ischemic stroke with motor dysfunction,0.40070122714750817,26,2.3809523809523805,0.30322837782096224,1
+37721727,symptom_severity,verum_acupuncture,Internet addiction (IA),1.3123,27,,,1
+38027487,function,active_control,post-stroke dysphagia,-1.5338928470796598,72,-3.2407407407407414,,3
+38027487,function,verum_acupuncture,post-stroke dysphagia,-2.1828187227347495,72,-5.870370370370369,,3
+38245739,function,verum_acupuncture,Non-menstrual migraine without aura (MWoA),0.8607087294727744,50,,,1
+38245739,pain,verum_acupuncture,Non-menstrual migraine without aura (MWoA),1.3185,50,22.466666666666665,,1
+38249582,function,verum_acupuncture,Ischemic stroke with motor dysfunction,0.07890565470079536,30,0.3000000000000019,,3
+38249582,symptom_severity,verum_acupuncture,Ischemic stroke with motor dysfunction,0.07062783720067575,30,0.39682539682539836,,3
+38585348,symptom_severity,verum_acupuncture,Subjective tinnitus (ST),1.2082,34,24.62,,1
+38681626,symptom_severity,sham_acupuncture,First-episode major depressive disorder (MDD),1.8224027289771236,28,14.096840659340659,,2
+38681626,symptom_severity,verum_acupuncture,First-episode major depressive disorder (MDD),3.5436068399452805,28,22.692307692307693,1.2025062192781928,2
+40584525,cognition,sham_acupuncture,amnestic mild cognitive impairment (aMCI),0.14535909090909083,30,1.1166666666666742,,2
+40584525,cognition,verum_acupuncture,amnestic mild cognitive impairment (aMCI),1.0953059516116292,70,7.100000000000001,0.7776653696967243,2
+40634927,function,sham_acupuncture,knee osteoarthritis (KOA),0.48248120300751873,25,5.381944444444446,,1
+40634927,function,verum_acupuncture,knee osteoarthritis (KOA),1.0550970873786407,27,6.708333333333334,0.6542180143498614,1
+40634927,mood,sham_acupuncture,knee osteoarthritis (KOA),0.047897177255348616,25,,,1
+40634927,mood,verum_acupuncture,knee osteoarthritis (KOA),0.12482662968099885,27,,-0.2852815283848559,1
+40634927,pain,sham_acupuncture,knee osteoarthritis (KOA),0.8715789473684211,25,16.666666666666664,,1
+40634927,pain,verum_acupuncture,knee osteoarthritis (KOA),1.7476,27,26.666666666666664,0.051751101436897304,1
+40847552,mood,verum_acupuncture,Neck pain (NP),0.4753735744746022,160,3.5152777777777775,,4
+40847552,pain,verum_acupuncture,Neck pain (NP),2.303106951871658,80,17.366666666666664,,2
+40881782,function,sham_acupuncture,Bilateral basal ganglia ischemic stroke (BBGIS),0.9025832555244319,31,10.0,,1
+40881782,function,verum_acupuncture,Bilateral basal ganglia ischemic stroke (BBGIS),1.61,31,20.199999999999996,0.8731836386400824,1
+40950284,mood,active_control,Peripheral facial paralysis (Bell's palsy),1.688627997675862,200,15.191666666666674,,2
+40950284,mood,verum_acupuncture,Peripheral facial paralysis (Bell's palsy),1.9006543258038937,204,16.06666666666667,,2
+41069516,function,verum_acupuncture,acute Bell's palsy (BP); acute idiopathic peripheral facial paralysis,1.0905354735422987,110,,,2
+41069516,quality_of_life,verum_acupuncture,acute Bell's palsy (BP); acute idiopathic peripheral facial paralysis,0.38081796311146787,55,,,1
+41310834,mood,verum_acupuncture,Chronic insomnia disorder (CID),0.5320055489496633,46,8.583333333333336,,2
+41310834,symptom_severity,verum_acupuncture,Chronic insomnia disorder (CID),2.161270689655173,46,28.750000000000004,,2
+41351443,cognition,sham_acupuncture,Subjective cognitive decline (SCD),0.3769331928109755,31,,,1
+41351443,cognition,verum_acupuncture,Subjective cognitive decline (SCD),1.0714,35,,0.4761003722065378,1
+41834818,function,verum_acupuncture,poststroke motor dysfunction,1.2301490527729033,56,16.3,,2
+41834818,symptom_severity,verum_acupuncture,poststroke motor dysfunction,1.486,28,7.571428571428571,,1
+42131703,pain,sham_acupuncture,mechanical neck pain,1.2277,49,11.600000000000009,,1
+42131703,pain,verum_acupuncture,mechanical neck pain,2.8949799815214043,49,30.0,1.870558937400615,1

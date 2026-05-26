@@ -1,0 +1,20 @@
+2026-05-26 13:25:53  ============================================================
+2026-05-26 13:25:53  STEP 2: Mean Analysis (mi, 50 imputations)
+2026-05-26 13:25:53  ============================================================
+2026-05-26 13:25:53  
+2026-05-26 13:25:53    SKIP: sham_gt_rest — already done (sentinel found). Use --force to rerun.
+2026-05-26 13:25:53    SKIP: verum_gt_sham — already done (sentinel found). Use --force to rerun.
+2026-05-26 13:25:53    SKIP: verum_gt_rest — already done (sentinel found). Use --force to rerun.
+2026-05-26 13:25:53    SKIP: sham_gt_rest_penetrating — already done (sentinel found). Use --force to rerun.
+2026-05-26 13:25:53    SKIP: sham_gt_rest_nonpenetrating — already done (sentinel found). Use --force to rerun.
+2026-05-26 13:25:53    SKIP: verum_post_gt_pre — already done (sentinel found). Use --force to rerun.
+2026-05-26 13:25:53    SKIP: sham_post_gt_pre — already done (sentinel found). Use --force to rerun.
+2026-05-26 13:25:53    deactivation — cleaning up partial previous run...
+2026-05-26 13:25:59    Mean analysis: deactivation (50 studies, 50 imputations)...
+2026-05-26 15:23:24    ERROR: Mean analysis failed for deactivation
+2026-05-26 15:23:24    Mean analysis: group_comparison (51 studies, 50 imputations)...
+2026-05-26 15:23:24    ERROR: Mean analysis failed for group_comparison
+2026-05-26 15:23:24    Mean analysis: correlation_clinical (10 studies, 50 imputations)...
+2026-05-26 15:23:24    ERROR: Mean analysis failed for correlation_clinical
+2026-05-26 15:23:24  
+2026-05-26 15:23:24  Step 2 complete: 7 ok, 3 failed

@@ -1,0 +1,7 @@
+outcome_domain,mean_R,sd_R,n_observations,n_studies
+cognition,0.584,0.464,5,3
+function,0.464,0.939,20,13
+mood,0.64,0.524,17,10
+pain,1.269,0.878,26,13
+quality_of_life,0.646,0.522,12,9
+symptom_severity,0.923,1.06,33,21

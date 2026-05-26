@@ -1,0 +1,858 @@
+{
+  "study": {
+    "pmid": "35310583",
+    "doi": "10.1155/2022/8112375",
+    "trial_registration": "ChiCTR2000036959",
+    "title": "Electroacupuncture Alters BCI-Based Brain Network in Stroke Patients",
+    "first_author": "Zuoting Song",
+    "year": "2022",
+    "journal": "Computational Intelligence and Neuroscience",
+    "article_type": "Research Article",
+    "study_design": "Within-subject observational/experimental study; three patient groups stratified by duration of flaccid paralysis; single session electroacupuncture with EEG recorded before, during, and after treatment",
+    "randomization": "not_reported",
+    "blinding": "not_reported",
+    "n_total_enrolled": 18,
+    "n_total_randomized": null,
+    "n_total_analyzed_clinical": null,
+    "n_total_analyzed_neuroimaging": 18,
+    "population": "Stroke patients with unilateral upper limb hemiplegia and symptoms of weak muscle tone, aged 18-80 years, from the Department of Rehabilitation Medicine, Huashan Hospital, and Shanghai Third Rehabilitation Hospital",
+    "disease_condition": "Stroke with flaccid paralysis (upper limb hemiplegia)",
+    "healthy_volunteers": false,
+    "inclusion_criteria": "(1) were diagnosed with stroke by Computed Tomography (CT) and Magnetic Resonance Imaging (MRI); (2) have no obvious cognitive impairment; (3) have unilateral upper limb hemiplegia and symptoms of weak muscle tone; (4) have no serious comorbidity of osteoarthrosis; (5) are not allergic to EEG electrodes and conductive paste; (6) did not participate in clinical drug trials",
+    "exclusion_criteria": "not_reported explicitly as exclusion criteria; inclusion criteria imply exclusion of those with cognitive impairment, serious osteoarthrosis comorbidity, allergy to EEG electrodes/conductive paste, or participation in clinical drug trials"
+  },
+  "arms": [
+    {
+      "arm_id": "G1",
+      "arm_label_exact": "the first group, which is the short-term flaccid paralysis group, and their duration was less than two months",
+      "arm_type_coded": "verum_acupuncture",
+      "n_assigned": 6,
+      "n_completed": null,
+      "n_analyzed_clinical": null,
+      "n_analyzed_neuroimaging": 6,
+      "dropouts": "not_reported"
+    },
+    {
+      "arm_id": "G2",
+      "arm_label_exact": "the second group, which is the mid-term flaccid paralysis group, whose duration was 2-6 months",
+      "arm_type_coded": "verum_acupuncture",
+      "n_assigned": 6,
+      "n_completed": null,
+      "n_analyzed_clinical": null,
+      "n_analyzed_neuroimaging": 6,
+      "dropouts": "not_reported"
+    },
+    {
+      "arm_id": "G3",
+      "arm_label_exact": "the third group, which is the long-term flaccid paralysis group, and their duration was more than 6 months",
+      "arm_type_coded": "verum_acupuncture",
+      "n_assigned": 6,
+      "n_completed": null,
+      "n_analyzed_clinical": null,
+      "n_analyzed_neuroimaging": 6,
+      "dropouts": "not_reported"
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "C_pre",
+      "arm_id": "not_applicable",
+      "condition_label_exact": "before the electroacupuncture treatment",
+      "condition_type": "pre_treatment",
+      "timepoint_exact": "5-minute EEG acquisition before the electroacupuncture treatment",
+      "scan_context": "resting EEG recorded prior to electroacupuncture",
+      "dose_or_intensity_label": "not_reported"
+    },
+    {
+      "condition_id": "C_during",
+      "arm_id": "not_applicable",
+      "condition_label_exact": "during the electroacupuncture treatment",
+      "condition_type": "during_stimulation",
+      "timepoint_exact": "20-minute EEG acquisition during the electroacupuncture treatment",
+      "scan_context": "EEG recorded while electroacupuncture was being delivered",
+      "dose_or_intensity_label": "not_reported"
+    },
+    {
+      "condition_id": "C_post",
+      "arm_id": "not_applicable",
+      "condition_label_exact": "after the electroacupuncture treatment",
+      "condition_type": "post_treatment",
+      "timepoint_exact": "5-minute EEG acquisition after the electroacupuncture treatment",
+      "scan_context": "resting EEG recorded after completion of electroacupuncture",
+      "dose_or_intensity_label": "not_reported"
+    }
+  ],
+  "interventions": [
+    {
+      "intervention_id": "INT_G1",
+      "arm_id": "G1",
+      "condition_id": "C_during",
+      "procedure_label_exact": "electroacupuncture at Shousanli, Hegu, and Quchi acupoints",
+      "stimulation_type": "electroacupuncture",
+      "acupuncture_modality": "electroacupuncture",
+      "acupoints_used_exact": [
+        "Shousanli",
+        "Hegu",
+        "Quchi"
+      ],
+      "non_acupoint_locations_exact": [],
+      "anatomical_location_exact": "not_reported",
+      "laterality_exact": "not_reported",
+      "needle_type_exact": "acupuncture needles",
+      "needle_size_exact": "not_reported",
+      "penetration_exact": "inserted vertically",
+      "depth_exact": "not_reported",
+      "depth_mm_numeric": null,
+      "manipulation_exact": "After the acupuncture needle was inserted, electrical stimulation was performed at a frequency of 2 Hz",
+      "deqi_intended_exact": "not_reported",
+      "electrical_stimulation": true,
+      "electrical_frequency_exact": "2 Hz",
+      "electrical_intensity_exact": "not_reported",
+      "needle_retention_exact": "not_reported",
+      "needle_retention_min_numeric": null,
+      "session_duration_exact": "20 minutes",
+      "session_duration_min_numeric": 20,
+      "number_of_sessions_exact": "one session per subject",
+      "number_of_sessions_numeric": 1,
+      "treatment_period_exact": "not_reported",
+      "practitioner_description_exact": "not_reported",
+      "participant_instructions_exact": "not_reported",
+      "treatment_rationale_given_exact": "based on the theory 'treating flaccid paralysis by yangming alone' (referenced from [25])",
+      "sham_details": {
+        "sham_subtype_exact": "not_applicable",
+        "sham_device_exact": "not_applicable",
+        "sham_penetration_exact": "not_applicable",
+        "sham_location_exact": "not_applicable",
+        "sham_manipulation_exact": "not_applicable",
+        "sham_deqi_intended_exact": "not_applicable",
+        "sham_credibility_procedure_exact": "not_applicable"
+      }
+    },
+    {
+      "intervention_id": "INT_G2",
+      "arm_id": "G2",
+      "condition_id": "C_during",
+      "procedure_label_exact": "electroacupuncture at Shousanli, Hegu, and Quchi acupoints",
+      "stimulation_type": "electroacupuncture",
+      "acupuncture_modality": "electroacupuncture",
+      "acupoints_used_exact": [
+        "Shousanli",
+        "Hegu",
+        "Quchi"
+      ],
+      "non_acupoint_locations_exact": [],
+      "anatomical_location_exact": "not_reported",
+      "laterality_exact": "not_reported",
+      "needle_type_exact": "acupuncture needles",
+      "needle_size_exact": "not_reported",
+      "penetration_exact": "inserted vertically",
+      "depth_exact": "not_reported",
+      "depth_mm_numeric": null,
+      "manipulation_exact": "After the acupuncture needle was inserted, electrical stimulation was performed at a frequency of 2 Hz",
+      "deqi_intended_exact": "not_reported",
+      "electrical_stimulation": true,
+      "electrical_frequency_exact": "2 Hz",
+      "electrical_intensity_exact": "not_reported",
+      "needle_retention_exact": "not_reported",
+      "needle_retention_min_numeric": null,
+      "session_duration_exact": "20 minutes",
+      "session_duration_min_numeric": 20,
+      "number_of_sessions_exact": "one session per subject",
+      "number_of_sessions_numeric": 1,
+      "treatment_period_exact": "not_reported",
+      "practitioner_description_exact": "not_reported",
+      "participant_instructions_exact": "not_reported",
+      "treatment_rationale_given_exact": "based on the theory 'treating flaccid paralysis by yangming alone' (referenced from [25])",
+      "sham_details": {
+        "sham_subtype_exact": "not_applicable",
+        "sham_device_exact": "not_applicable",
+        "sham_penetration_exact": "not_applicable",
+        "sham_location_exact": "not_applicable",
+        "sham_manipulation_exact": "not_applicable",
+        "sham_deqi_intended_exact": "not_applicable",
+        "sham_credibility_procedure_exact": "not_applicable"
+      }
+    },
+    {
+      "intervention_id": "INT_G3",
+      "arm_id": "G3",
+      "condition_id": "C_during",
+      "procedure_label_exact": "electroacupuncture at Shousanli, Hegu, and Quchi acupoints",
+      "stimulation_type": "electroacupuncture",
+      "acupuncture_modality": "electroacupuncture",
+      "acupoints_used_exact": [
+        "Shousanli",
+        "Hegu",
+        "Quchi"
+      ],
+      "non_acupoint_locations_exact": [],
+      "anatomical_location_exact": "not_reported",
+      "laterality_exact": "not_reported",
+      "needle_type_exact": "acupuncture needles",
+      "needle_size_exact": "not_reported",
+      "penetration_exact": "inserted vertically",
+      "depth_exact": "not_reported",
+      "depth_mm_numeric": null,
+      "manipulation_exact": "After the acupuncture needle was inserted, electrical stimulation was performed at a frequency of 2 Hz",
+      "deqi_intended_exact": "not_reported",
+      "electrical_stimulation": true,
+      "electrical_frequency_exact": "2 Hz",
+      "electrical_intensity_exact": "not_reported",
+      "needle_retention_exact": "not_reported",
+      "needle_retention_min_numeric": null,
+      "session_duration_exact": "20 minutes",
+      "session_duration_min_numeric": 20,
+      "number_of_sessions_exact": "one session per subject",
+      "number_of_sessions_numeric": 1,
+      "treatment_period_exact": "not_reported",
+      "practitioner_description_exact": "not_reported",
+      "participant_instructions_exact": "not_reported",
+      "treatment_rationale_given_exact": "based on the theory 'treating flaccid paralysis by yangming alone' (referenced from [25])",
+      "sham_details": {
+        "sham_subtype_exact": "not_applicable",
+        "sham_device_exact": "not_applicable",
+        "sham_penetration_exact": "not_applicable",
+        "sham_location_exact": "not_applicable",
+        "sham_manipulation_exact": "not_applicable",
+        "sham_deqi_intended_exact": "not_applicable",
+        "sham_credibility_procedure_exact": "not_applicable"
+      }
+    }
+  ],
+  "sensory_interoceptive_responses": [],
+  "neuroimaging_methods": {
+    "modality": "EEG",
+    "scanner_manufacturer_model_exact": "BrainCap 32-channel EEG electrodes",
+    "field_strength_tesla": null,
+    "sequence_exact": "not_applicable",
+    "TR_exact": "not_applicable",
+    "TE_exact": "not_applicable",
+    "voxel_size_exact": "not_applicable",
+    "scan_duration_exact": "30 minutes total (5 minutes before, 20 minutes during, 5 minutes after electroacupuncture treatment)",
+    "preprocessing_software_exact": "EEGLAB toolbox of Matlab R2020a",
+    "analysis_software_exact": "MATLAB R2020a; SIFT toolbox (for spectral coherence, PLV, and PLI)",
+    "normalization_template_exact": "not_applicable",
+    "coordinate_space_reported_exact": "not_applicable",
+    "smoothing_exact": "not_reported",
+    "motion_exclusion_exact": "not_reported",
+    "filtering_exact": "bandpass filters to divide the frequency bands: alpha band (8-13 Hz) and beta band (14-30 Hz)",
+    "global_signal_regression_exact": "not_reported",
+    "primary_neuroimaging_metrics": [
+      "Pearson correlation coefficient",
+      "spectral coherence",
+      "mutual information (normalized mutual information)",
+      "phase locking value (PLV)",
+      "phase lag index (PLI)",
+      "partial directed coherence (PDC)",
+      "directed transfer function (DTF)"
+    ],
+    "statistical_thresholds_exact": [
+      "connections that exceed the set threshold are considered as the significant connections",
+      "thresholds of different functional connectivity indicators were selected according to the specific conditions of patients in the three groups",
+      "the general threshold for the PDC indicator is 0.1"
+    ],
+    "multiple_comparison_correction_exact": "not_reported",
+    "additional_details": {
+      "electrode_placement": "international 10-20 system",
+      "sampling_rate": "1000 Hz",
+      "number_of_channels": 32,
+      "reference": "computed average reference",
+      "artifact_removal": "independent component analysis (ICA) for removing EOG artifacts; artifact components are automatically identified and removed",
+      "MVAR_model": "multivariable autoregressive (MVAR) model; order p calculated by Akaike information criterion; coefficients obtained with Yule-Walker equation"
+    }
+  },
+  "neural_results": {
+    "contrasts": [
+      {
+        "contrast_id": "NR_01",
+        "contrast_label_exact": "Pearson correlation coefficient brain network in the beta band - all three groups before, during, and after electroacupuncture",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "G1",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "Pearson correlation coefficient functional connectivity brain network",
+        "neuroimaging_metric_exact": "Pearson correlation coefficient",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "not_reported",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "threshold set according to specific conditions of patients in the three groups",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "not_reported",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_01_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on Pearson correlation coefficient",
+            "direction_exact": "number of significant connections and node strength slightly decreased during and after electroacupuncture compared to before",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_01_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on Pearson correlation coefficient",
+            "direction_exact": "second group has fewer significant connections after electroacupuncture than those before the treatment",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_01_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on Pearson correlation coefficient",
+            "direction_exact": "the third group has stronger nodes in the central region and more significant connections during and after the electroacupuncture treatment than those before electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      },
+      {
+        "contrast_id": "NR_02",
+        "contrast_label_exact": "Spectral coherence brain network in the alpha band - all three groups before, during, and after electroacupuncture",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "spectral coherence functional connectivity brain network",
+        "neuroimaging_metric_exact": "spectral coherence",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "not_reported",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "threshold set according to specific conditions of patients in the three groups",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "not_reported",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_02_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on spectral coherence",
+            "direction_exact": "number of significant connections has less change during electroacupuncture compared to those before; decreased after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_02_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on spectral coherence",
+            "direction_exact": "obvious increase in the number of significant connections during and after electroacupuncture relative to before electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_02_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on spectral coherence",
+            "direction_exact": "certain decrease in the number of significant connections during and after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      },
+      {
+        "contrast_id": "NR_03",
+        "contrast_label_exact": "Spectral coherence brain network in the beta band - all three groups before, during, and after electroacupuncture (Figure 1)",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "spectral coherence functional connectivity brain network",
+        "neuroimaging_metric_exact": "spectral coherence",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "not_reported",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "threshold set according to specific conditions of patients in the three groups",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "numbers of the significant spectral coherence connections of all three groups in the beta band firstly increased during the electroacupuncture treatment and then decreased after the treatment compared to those before electroacupuncture; stronger nodes concentrated in central region",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_03_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on spectral coherence",
+            "direction_exact": "number of the significant connections during electroacupuncture increased compared to before (less increase than G2 and G3); returned to smaller number after electroacupuncture than before",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_03_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on spectral coherence",
+            "direction_exact": "number of significant connections increased significantly during electroacupuncture; returned to smaller number after electroacupuncture than before",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_03_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on spectral coherence",
+            "direction_exact": "number of significant connections increased significantly during electroacupuncture; returned to smaller number after electroacupuncture than before",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      },
+      {
+        "contrast_id": "NR_04",
+        "contrast_label_exact": "Mutual information brain network in the alpha band - all three groups before, during, and after electroacupuncture",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "mutual information (normalized mutual information) functional connectivity brain network",
+        "neuroimaging_metric_exact": "normalized mutual information",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "not_reported",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "threshold set according to specific conditions of patients in the three groups",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "not_reported",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_04_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on mutual information",
+            "direction_exact": "number of significant connections during electroacupuncture is distinctly smaller than before electroacupuncture, strength of nodes also obviously reduced; returned to similar state as before, only slightly reduced, after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_04_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on mutual information",
+            "direction_exact": "nodes at left-edged area decrease in strength during electroacupuncture; most nodes at central and right-edged areas increase in strength during electroacupuncture; left-edged connections decrease slightly during electroacupuncture; after electroacupuncture, node strength and connections in left and central regions similar to before; strength of majority of nodes in right-edged area obviously increases after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_04_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on mutual information",
+            "direction_exact": "fewest number of significant functional connections based on MI in the brain networks before, during, and after electroacupuncture relative to the other two groups; no obvious changes in brain activity based on MI in the alpha band",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      },
+      {
+        "contrast_id": "NR_05",
+        "contrast_label_exact": "Phase lag index brain network in the alpha band - all three groups before, during, and after electroacupuncture (Figure 2)",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "phase lag index (PLI) functional connectivity brain network",
+        "neuroimaging_metric_exact": "phase lag index (PLI)",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "not_reported",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "threshold set according to specific conditions of patients in the three groups",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "all three groups had fewer significant connections based on PLI in the alpha band after the electroacupuncture treatment compared with those before the treatment",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_05_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group); important nodes mostly concentrated in the left parietal lobe and the left central region",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on PLI",
+            "direction_exact": "number of significant connections based on PLI and strength of nodes both increase during electroacupuncture compared with before; number and node strength both return to state similar to before electroacupuncture treatment after electroacupuncture; fewer significant connections after treatment than before",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_05_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group); largest number of PLI-based significant connections before, during, and after electroacupuncture; important nodes mostly concentrated in the left parietal lobe and the left central region",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on PLI",
+            "direction_exact": "number of significant connections and strength of nodes decrease during and after electroacupuncture treatment compared to those before electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_05_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on PLI",
+            "direction_exact": "number of significant connections and strength of nodes decrease during and after electroacupuncture treatment compared to those before electroacupuncture (similar results as second group)",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      },
+      {
+        "contrast_id": "NR_06",
+        "contrast_label_exact": "Phase locking value brain network in the beta band - all three groups before, during, and after electroacupuncture",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "phase locking value (PLV) functional connectivity brain network",
+        "neuroimaging_metric_exact": "phase locking value (PLV)",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "not_reported",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "threshold set according to specific conditions of patients in the three groups",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "not_reported",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_06_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on PLV",
+            "direction_exact": "number of significant connections and strength of nodes have not changed a lot, just slightly decreased during and after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_06_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on PLV",
+            "direction_exact": "number of significant PLV connections decreased during and after the electroacupuncture treatment",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_06_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on PLV",
+            "direction_exact": "number of significant connections based on PLV and strength of nodes both increased during and after the electroacupuncture treatment compared with those before electroacupuncture; third group has the most significant connections during the electroacupuncture treatment",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      },
+      {
+        "contrast_id": "NR_07",
+        "contrast_label_exact": "Directed transfer function brain network in the alpha band - all three groups before, during, and after electroacupuncture (Figure 3)",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "directed transfer function (DTF) functional connectivity brain network; based on Granger causality; directional",
+        "neuroimaging_metric_exact": "directed transfer function (DTF)",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "multivariable autoregressive (MVAR) model; order by Akaike information criterion; coefficients by Yule-Walker equation",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "threshold set according to specific conditions of patients in the three groups",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "not_reported",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_07_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group); most significant connections and stronger nodes across all three groups",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on DTF",
+            "direction_exact": "numbers of significant connections decreased after electroacupuncture treatment relative to before; strength of nodes changed a lot during and after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_07_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on DTF",
+            "direction_exact": "numbers of significant connections decreased after electroacupuncture treatment relative to before; strength of nodes changed a lot during and after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_07_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "alpha band brain network based on DTF",
+            "direction_exact": "more significant DTF connections and stronger nodes during and after electroacupuncture treatment than before; number of significant connections is largest after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      },
+      {
+        "contrast_id": "NR_08",
+        "contrast_label_exact": "Partial directed coherence brain network in the beta band - all three groups before, during, and after electroacupuncture (Figure 4)",
+        "contrast_type_exact": "within-group change across timepoints (pre vs during vs post electroacupuncture)",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "C_pre",
+        "condition_2": "C_post",
+        "timepoint_exact": "before, during, and after electroacupuncture",
+        "analysis_method_exact": "partial directed coherence (PDC) functional connectivity brain network; based on Granger causality; directional; MVAR model",
+        "neuroimaging_metric_exact": "partial directed coherence (PDC)",
+        "analysis_scope": "network",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "multivariable autoregressive (MVAR) model; order by Akaike information criterion; coefficients by Yule-Walker equation",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "general threshold for the PDC indicator is 0.1",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "three groups all had more significant connections and more important nodes based on PDC in the beta band during and after the electroacupuncture treatment than those before the electroacupuncture treatment",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [
+          {
+            "edge_id": "NR_08_G1",
+            "seed_or_node_1_exact": "all channels (G1 - short-term flaccid paralysis group); most significant PDC connections before electroacupuncture among three groups; important nodes changed from Cz and FC2 to Fz and FC2 during electroacupuncture",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on PDC",
+            "direction_exact": "number of significant connections has not changed during electroacupuncture relative to before; after electroacupuncture, number of significant connections increased a little and important nodes have not changed compared to those during electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_08_G2",
+            "seed_or_node_1_exact": "all channels (G2 - mid-term flaccid paralysis group); second group showed greatest increase in brain activity based on PDC in the beta band after electroacupuncture",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on PDC",
+            "direction_exact": "more significant PDC connections and important strong nodes during and after electroacupuncture than before; number of significant connections and strength of nodes both decreased after electroacupuncture compared to during electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          },
+          {
+            "edge_id": "NR_08_G3",
+            "seed_or_node_1_exact": "all channels (G3 - long-term flaccid paralysis group)",
+            "node_2_exact": "all channels",
+            "network_name_exact": "beta band brain network based on PDC",
+            "direction_exact": "does not have any significant connections based on PDC before and during the electroacupuncture treatment; small number of significant connections after electroacupuncture; strength of nodes changed a little after electroacupuncture",
+            "statistic_type_exact": "not_reported",
+            "statistic_value_exact": "not_reported",
+            "p_value_exact": "not_reported",
+            "correction_method_exact": "not_reported",
+            "value_exact": "not_reported"
+          }
+        ],
+        "model_performance_results": [],
+        "n_analyzed": 18
+      }
+    ]
+  },
+  "clinical_behavioral_outcomes": [],
+  "expectancy_blinding_credibility": [
+    {
+      "measure_id": "EB_01",
+      "arm_id": "not_applicable",
+      "condition_id": "not_applicable",
+      "construct": "expectancy",
+      "instrument_name_exact": "not_reported",
+      "timepoint_exact": "not_reported",
+      "value_exact": "not_reported",
+      "reporting_format": "not_reported",
+      "n_analyzed": null,
+      "statistical_result_exact": "not_reported"
+    }
+  ],
+  "adverse_events": [
+    {
+      "arm_id": "not_reported",
+      "adverse_event_exact": "not_reported",
+      "n_events": null,
+      "n_participants": null,
+      "severity_exact": "not_reported",
+      "relatedness_exact": "not_reported"
+    }
+  ],
+  "funding_conflicts_registration": {
+    "funding_exact": "National Natural Science Foundation of China (grant nos. 61904038, U1913216, 9194830003, and 82021002); National Key Research and Development Program of China (grant nos. 2021YFC0122702, 2018YFC2002300, and 2018YFC2002301); Shanghai Sailing Program (grant no. 19YF1403600); Shanghai Municipal Science and Technology Commission (grant nos. 19441907600, 19441908200, and 19511132000); Fudan University-CIOMP Joint Fund (grant no. FC2019-002); Opening Project of Shanghai Robot Industry R&D and Transformation Functional Platform; Opening Project of Zhejiang Lab (grant no. 2021MC0AB01); Ji Hua Laboratory (grant no. X190021TB190); Yiwu Research Institute of Fudan University (grant no. 20-1-16) and Shanghai Municipal Science and Technology Major Project (grant nos. 2021SHZDZX0103 2018SHZDZX01)",
+    "conflict_of_interest_exact": "The authors report that there are no conflicts of interest.",
+    "ethics_approval_exact": "The experiment was approved by the Medical Ethics Committee of Jing'an District Central Hospital of Shanghai (Ethics reference number: 2020-29).",
+    "trial_registration_exact": "ChiCTR2000036959",
+    "data_availability_exact": "The data that support the findings of this study are available upon request from the corresponding author. The data are not publicly available because it would compromise the privacy of the patients involved in the treatment."
+  },
+  "extraction_notes": [
+    {
+      "note_type": "supplement_needed",
+      "note": "Figure S1 (Pearson correlation coefficient in beta band), Figure S2 (spectral coherence in alpha band), Figure S3 (mutual information in alpha band), Figure S4 (PLV in beta band), and Table S1 (demographic data) are referenced as supporting documents but are not included in the provided PDF pages. The neural results for these figures were extracted from the text descriptions only."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No sensory/deqi responses were measured or reported. No clinical outcome scales were administered or reported. No adverse events section is present in the paper."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No expectancy, credibility, or blinding assessment was conducted or reported."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "The paper does not report specific numeric values (mean, SD, effect sizes, p-values, exact connectivity values) for any of the functional connectivity results. All results are described qualitatively in terms of 'more/fewer significant connections' and 'stronger/weaker nodes.'"
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Specific threshold values for each indicator (except PDC threshold of 0.1) are not reported; thresholds were 'selected according to the specific conditions of patients in the three groups.' This limits reproducibility."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No information is given about whether EEG was analyzed for the full 20 minutes of the during-electroacupuncture period or a subset. Epoch length and segmentation approach are not described."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Laterality of acupuncture needling is not reported. The paper states 'unilateral upper limb hemiplegia' but does not specify which side was treated or whether all patients had the same affected side."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "The number of acupuncture sessions per subject is inferred as 1 from the description 'each subject receiving only one session of electroacupuncture rehabilitation' stated in the limitations section."
+    },
+    {
+      "note_type": "inference_warning",
+      "note": "The study design is described as within-subject (each subject received electroacupuncture and was their own control), with three parallel groups stratified by duration of flaccid paralysis. There is no separate sham or control arm. The 'arms' in this extraction represent patient subgroups, not randomized treatment arms."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Demographic data (age, sex, stroke type, lesion location, time since stroke) are stated to be in Table S1 of supporting documents, which are not provided in the PDF."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "The paper describes the value in brain network graphs as 'the mean of each group' for the Pearson coefficient, but it is unclear whether group-level averaging was applied across all subjects and time segments for all seven metrics. Analysis approach (individual vs. group-level averaging) is not fully specified."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No statistical tests (e.g., t-tests, ANOVA) comparing before, during, and after timepoints or comparing between groups are reported. All results are descriptive/visual comparisons from brain network diagrams."
+    },
+    {
+      "note_type": "ambiguity",
+      "note": "The paper references a previous study [54] using only PDC metrics in overlapping patients; it is unclear whether there is overlap in the subject sample between that prior study and the present one."
+    },
+    {
+      "note_type": "figure_only",
+      "note": "Figures 1, 2, 3, and 4 show brain network diagrams with colormaps but no numeric coordinate data, quantitative edge weights, or tabulated statistics. Brain regions mentioned in text (e.g., Cz, FC2, Fz, left parietal lobe, left central region) were identified only qualitatively from figure inspection by the study authors."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No information on whether EEG artifact removal (ICA) was performed identically across all sessions or whether ICA was applied to the combined recording or per segment."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+pmid,verum_arm_id,sham_arm_id,verum_deqi,sham_deqi,disease_condition
+23152865,arm_A,arm_C,Mean (SD) 14.25 (7.44); 95% CI 8.96–18.35,Mean (SD) 4.23 (5.01); 95% CI 2.57–7.38,myopia
+23152865,arm_A,arm_D,Mean (SD) 14.25 (7.44); 95% CI 8.96–18.35,Mean (SD) 3.77 (3.58); 95% CI 2.09–6.88,myopia
+23152865,arm_B,arm_C,Mean (SD) 12.46 (7.02); 95% CI 6.45–16.91,Mean (SD) 4.23 (5.01); 95% CI 2.57–7.38,myopia
+23152865,arm_B,arm_D,Mean (SD) 12.46 (7.02); 95% CI 6.45–16.91,Mean (SD) 3.77 (3.58); 95% CI 2.09–6.88,myopia
+24062782,arm_acup,arm_tactile,1.61 ± 0.31,0.35 ± 0.19,healthy subjects
+24915066,arm_A,arm_B,10.62 ± 4.45,10.42 ± 4.42,migraine without aura
+29343693,real,phnt,"2.88±1.80, p<0.05","0.61±1.30, p<0.05",non-specific low back pain (LBP)
+30914909,arm_XNKQ,arm_pns,4.17 95%CI[3.34;5.01],3.52[2.65;4.39],Healthy volunteers (no disease condition)
+30914909,arm_XNKQ,arm_npws,4.17 95%CI[3.34;5.01],3.44[2.54;4.34],Healthy volunteers (no disease condition)
+30914909,arm_XNKQ,arm_npns,4.17 95%CI[3.34;5.01],2.29[1.58;3.00],Healthy volunteers (no disease condition)
+31636536,arm_REAL,arm_PHNT,"Greater overall acupuncture sensation (Mass Index), soreness, tingling, and sharp pain than non-specific components (referenced from Lee et al., 2014)","Needling credibility induces parasympathetic activation and vicarious acupuncture (deqi) sensations (deep pressure, heaviness, fullness, and numbness) (Lee et al., 2014)",Non-specific low back pain
+33013312,arm_real,arm_sham,"deqi was obtained (soreness, numbness, distension and heaviness)",deqi sensation was not obtained,Primary dysmenorrhea (PDM)
+33560579,arm_effective,arm_sham,significant needle reaction (Deqi) was achieved before commencing 15-min session,without achieving Deqi,Healthy volunteers (no disease condition)
+34671239,TA,SA,"Stimulation was repeated one to three times to achieve the Deqi sensation (a sensation of soreness, numbness, distention, or radiating that indicates effective needling)",subjects in the SA group did not experience Deqi,Menstrual migraine without aura (MMoA)
+36890655,arm_VA,arm_SA,not_reported,not_reported,Knee osteoarthritis (KOA) with knee pain
+37383656,TATG,SATG,"patients obtained De qi; a combination of sensations including soreness, dullness, numbness, heaviness, and other feelings",We would avoid De qi sensations in the manipulation in the SATG group,ischemic stroke with motor dysfunction
+37408438,TA,SA,"Rotating or lifting–thrusting manipulation was performed for Deqi sensation (a sensation of soreness, numbness, distention, or radiation that indicated effective needling) after needle insertion","shallow acupuncture with a depth of 2 mm was performed at the five non-acupoints, without manual stimulation to yield the Deqi sensation",Chronic neck pain (CNP)
+37415858,arm_REAL,arm_PHNT,4.32 ± 2.43,1.23 ± 1.18,Healthy volunteers
+39089662,AG,SG,"Twirling, lifting, and thrusting manipulations were performed to achieve 'de qi' sensation (soreness, numbness, distension, or heaviness)",No manipulations were performed for sham acupuncture intervention with no attempt to induce 'de qi' sensation,chronic sciatica (chronic neuropathic pain)
+40634927,AG,SG,Acupuncturists manually stimulated the needles to achieve de qi,Sham needles did not penetrate the skin and did not require the 'De Qi' sensation,knee osteoarthritis (KOA)
+41591775,arm_real_acu,arm_sham_acu,"deqi was intended and elicited through twirling, lifting, and thrusting",Manipulation matched real acupuncture but omitted deqi,Migraine without aura (MWOA)
+42131703,VA,SA,"deqi sensation elicited by rotational manipulation (180° amplitude, 2 Hz frequency) for 1 min",no manipulation was performed to elicit the deqi sensation,mechanical neck pain

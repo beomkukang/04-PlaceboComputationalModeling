@@ -1,0 +1,246 @@
+pmid,arm_id,arm_type,construct,value,instrument,timepoint
+16407533,not_applicable,,expectancy,12.6 ± 3.3,expectation scale (0–20; 0 = very negative expectation of pain relief; 20 = very positive expectation of pain relief),before placebo acupuncture treatment; session 2
+16407533,not_applicable,,expectancy,18.4 ± 1.5,expectation scale (0–20),after expectancy manipulation procedure; session 2
+16407533,not_applicable,,expectancy,17.3 ± 2.4,expectation scale (0–20),before expectancy manipulation; session 3
+16407533,not_applicable,,expectancy,18.1 ± 1.5,expectation scale (0–20),after expectancy manipulation; session 3
+16407533,not_applicable,,prior_acupuncture_experience,naive to acupuncture,not_reported,baseline/enrollment
+16790551,not_applicable,,other,not_reported,not_reported,not_reported
+17240066,not_applicable,,prior_acupuncture_experience,subjects were acupuncture-naive,not_reported,at enrollment
+17240066,not_applicable,,blinding_success,"subjects were not informed of a sham acupuncture condition, only that there would be 'different forms' of acupuncture during fMRI",not_reported,during scanning
+19559684,arm_tactile,active_control,blinding_success,"The participant was blinded to the study, being told that acupuncture was to be performed at different acupuncture points using different techniques, and the tests being performed could not be seen from the subject's supine position in the scanner",not_reported,Before stimulation
+19559684,arm_acupuncture,verum_acupuncture,prior_acupuncture_experience,Acupuncture-naïve subjects,not_reported,Screening/enrollment
+20423216,all_arms,,blinding_success,Participants did not know which doctor was performing acupuncture/sham and they were told that they would get acupuncture stimulations 4 times during fMRI scanning,not_reported,not_reported
+20423216,arm_acupuncture,verum_acupuncture,prior_acupuncture_experience,"All subjects had previously experienced acupuncture treatments, since such treatments are very common in Korea",not_reported,Baseline/inclusion criterion
+20838644,all_arms,,blinding_success,subjects could not differentiate between placebo (laser off) and verum laser (laser on) due to absence of skin sensation from low intensity laser,not_reported,not_reported
+20838644,not_applicable,,prior_acupuncture_experience,Eight were acupuncture naive and two had had needle acupuncture more than 3 months previously and did not know what to expect from laser intervention,not_reported,baseline/screening
+21080967,arm_genuine_HE,verum_acupuncture,expectancy,high expectancy; subjects surreptitiously received decreased temperatures to elicit reduced pain ratings and give subjects an unmistakable experience of analgesia during Session 2 to manipulate high expectancy,not_reported,Session 2 and Session 3; expectancy manipulation established prior to fMRI session
+21080967,arm_genuine_LE,verum_acupuncture,expectancy,low expectancy; subjects received same pre-treatment heat stimuli as pre-treatment without temperature manipulation,not_reported,Session 2 and Session 3
+21080967,not_applicable,,expectancy,no significant differences in connectivity between different contrasts of the two expectancy levels,not_reported,during EA stimulation
+21080967,not_applicable,,prior_acupuncture_experience,all subjects were acupuncture naive,not_reported,baseline/enrollment
+21794103,not_applicable,,blinding_success,Participants were prevented from viewing insertion and stimulation procedures through use of an opaque screen; told they would receive 'two different types' of acupuncture; no formal blinding assessment reported,not_reported,not_reported
+21794103,not_applicable,,expectancy,not_reported,not_reported,not_reported
+21794103,not_applicable,,credibility,not_reported,not_reported,not_reported
+21794103,not_applicable,,other,Intentionally lacked control for attention and did not utilize concurrent sensory (i.e. non-EA or non-AP) stimuli,not_reported,not_reported
+22291848,not_applicable,,expectancy,not_reported,not_reported,not_reported
+22291848,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+22291848,not_applicable,,prior_acupuncture_experience,not_reported,not_reported,not_reported
+22761766,not_applicable,,blinding_success,subjects were not informed of the order in which the two runs would be carried out; subjects were asked to keep their eyes closed to prevent them from actually observing the procedures,not_reported,not_reported
+22761766,not_applicable,,prior_acupuncture_experience,All subjects were naïve to acupuncture,not_reported,screening
+22916152,not_applicable,,expectancy,not_reported,not_reported,not_reported
+23152865,arm_A arm_C,,credibility,not_reported (individual values not given; p = 0.42 for between-group comparison),credibility rating (0–6 Likert scale); QB: How confident are you that this treatment can alleviate your complaint?,before MRI scan (before treatment)
+23152865,arm_A arm_C,,credibility,not_reported (individual values not given; p = 0.56 for between-group comparison),credibility rating (0–6 Likert scale); QA: How confident would you be in recommending this treatment to a friend who suffered from the same complaint?,after treatment
+23152865,arm_A arm_C,,expectancy,not_reported,treatment instruction (TI): told they would receive acupuncture treatment which would surely benefit their myopia,before MRI scan
+23152865,arm_B arm_D,,expectancy,not_reported,non-treatment instruction (NI): told they were participating in an experiment to estimate a medical machine's sensitivity of detecting tactile signals,before MRI scan
+23152865,not_applicable,,prior_acupuncture_experience,all were acupuncture naive,acupuncture naive status,baseline (inclusion criterion)
+23316257,all_arms,,prior_acupuncture_experience,All subjects were acupuncture-naive,not_reported,Screening/baseline
+23316257,arm_tactile,active_control,blinding_success,"Because the subjects were acupuncture naive, they would be unable to discriminate the tactile stimulation control from real acupuncture until they experienced real acupuncture",not_reported,Pre-stimulation
+23666154,not_applicable,,expectancy,not_reported,not_reported,not_reported
+23691237,not_applicable,,prior_acupuncture_experience,All of them were acupuncture naïve,not_reported,screening
+23840533,not_applicable,,prior_acupuncture_experience,participants naïve to acupuncture,not_reported,enrollment
+23935686,not_applicable,,expectancy,not_reported,not_reported,not_reported
+24062782,all_arms,,expectancy,not_reported,not_reported,not_reported
+24062782,all_arms,,prior_acupuncture_experience,acupuncture-naïve,screening,pre-study screening
+24459533,not_applicable,,expectancy,not_reported,not_reported,not_reported
+24603951,not_applicable,,expectancy,not_reported,not_reported,not_reported
+24734108,not_applicable,,prior_acupuncture_experience,All subjects were acupuncture naïve,not_reported,baseline
+24734108,not_applicable,,blinding_success,All subjects were not informed of the presumed acupuncture effects,not_reported,during acupuncture run
+24734113,not_applicable,,other,not_reported,not_reported,not_reported
+24821143,arm_verum,verum_acupuncture,other,No sham acupuncture control was adopted; authors state the objective was to study characteristics of brain responses to acupuncture stimulation rather than specificity of acupoints,not_reported,not_reported
+24915066,not_applicable,,blinding_success,Patients were blinded to group assignment throughout the study; patients were informed they would receive one of two types of acupuncture treatment depending on different traditional Chinese acupuncture theories; treatment achieved in large independent single-room with screen dividers,not_reported,not_reported
+24915066,not_applicable,,expectancy,not assessed; authors acknowledge this as a limitation: Lack of an index to access and quantify the expectancy during the acupuncture treatment session is another limitation,not_reported,not_reported
+24963329,not_applicable,,blinding_success,These volunteers were not told the order of true or sham acupuncture.,not_reported,not_reported
+24963329,not_applicable,,expectancy,not_reported,not_reported,not_reported
+24968124,not_applicable,,prior_acupuncture_experience,all subjects were acupuncture naive,not_reported,screening/enrollment
+25220656,not_applicable,,prior_acupuncture_experience,All healthy volunteers and patients with PD were familiar with acupuncture stimulation to control for the acupuncture experience in the study,not_reported,baseline/pre-study
+25228908,arm_verum,verum_acupuncture,expectancy,not_reported,not_reported,not_reported
+25452777,not_applicable,,prior_acupuncture_experience,All subjects were right-handed and had no acupuncture therapy experience,not_reported,screening/enrollment
+25525442,not_applicable,,expectancy,not_reported,not_reported,not_reported
+25741269,healthy_subjects,healthy_control,prior_acupuncture_experience,Participants had no medical knowledge about acupuncture and all except one had never been treated with acupuncture before the study.,not_reported,baseline
+25741269,healthy_subjects,healthy_control,blinding_success,subjects were blinded regarding the character of the different point locations and the researchers were blinded during the pre-processing of the data and during the first steps of data interpretation,not_reported,not_reported
+25821486,all_arms,,guessed_allocation,not_reported,not_reported,after anatomical scan and postscan
+25821486,arm_ACU,verum_acupuncture,prior_acupuncture_experience,All subjects were acupuncture naïve,not_reported,screening
+25916336,not_applicable,,expectancy,not_reported,not_reported,not_reported
+26161117,arm_ALBP,other,blinding_success,not_reported; subjects were purposely misguided that they would receive two different forms of acupuncture; eyes and ears covered to prevent discrimination,not_reported,not_reported
+26161117,arm_ALBP,other,prior_acupuncture_experience,All participants had some knowledge of acupuncture due to previous cultural exposure; had never received acupuncture treatment,not_reported,screening/inclusion
+26211895,arm_pseudo,sham_acupuncture,blinding_success,no participant expressed suspicions about the administration of electrical stimulation in the pseudo-stimulation session,debriefing,post-experiment debriefing
+26211895,not_applicable,,expectancy,expectancy was not formally assessed; authors acknowledge brain response to bodily attention during pseudo-stimulation might be related to expectation or placebo effects; participants were informed they would receive one of two active treatments (manual or electro-acupuncture stimulation),not_reported,not_reported
+26467429,arm_KI3,verum_acupuncture,blinding_success,all volunteers were blind to the interventions they received,not_reported,not_reported
+26839078,not_applicable,,expectancy,not_reported,not_reported,not_reported
+27242492,not_applicable,,expectancy,not_reported,not_reported,not_reported
+27242911,arm_included_studies,other,blinding_success,not_reported,not_reported,not_reported
+27242911,arm_included_studies,other,other,only 4 articles described the psychological assessment performed on the participants,self-rating depression scale (SDS); self-rating anxiety scale (SAS); Beck Depression Inventory (BDI); State Trait Anxiety Inventory (STAI),not_reported
+27242911,arm_included_studies,other,prior_acupuncture_experience,81 articles described the acupuncture experience of participants; 73 articles described the participants as acupuncture naive; participants in 44.04% of the studies were acupuncture naive,not_reported,prior to study
+27688791,not_applicable,,other,not_reported,State Trait Anxiety Inventory (STAI),before MRI scan (pre-treatment)
+27803655,not_applicable,,prior_acupuncture_experience,"All except one had never been treated with acupuncture before the study; eight subjects participated in both EEG and fMRI experiments, thus were not completely naïve to acupuncture when performing the fMRI measurement",not_reported,baseline / prior to study
+27803655,not_applicable,,blinding_success,"We tried to come as close as possible to a double-blind study (Nierhaus et al., 2015) but of course the person applying the acupuncture stimulation knew about the 'meaning' of the different points",not_reported,not_reported
+27803655,not_applicable,,expectancy,not_reported,not_reported,not_reported
+27812501,not_applicable,,expectancy,not_reported,not_reported,not_reported
+27812501,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+27857211,not_applicable,,expectancy,not_reported,not_reported,not_reported
+28053642,not_applicable,,expectancy,not_reported,not_reported,not_reported
+28334999,not_applicable,,perceived_treatment,"no significant differences between local, distal, or sham groups; Fisher's exact test, n = 64, P = 0.29",not_reported,after the first treatment
+28334999,not_applicable,,perceived_treatment,"no significant differences between groups; Fisher's exact test, n = 62, P = 0.51; ~85% of subjects across all groups reporting that they indeed thought they had received active acupuncture",not_reported,after the final acupuncture session
+28334999,not_applicable,,blinding_success,"subjects, study physician, and experimenters were blinded to group allocation; all data capture forms used neutral group codes 'ektorp,' 'klobo,' 'poang'",not_reported,not_reported
+28443010,not_applicable,,expectancy,not_reported,not_reported,not_reported
+28480365,not_applicable,,expectancy,not_reported,not_reported,not_reported
+28480365,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+29204113,not_applicable,,expectancy,not_reported,not_reported,not_reported
+29343693,all_arms,,expectancy,"REAL=3.67±0.38, PHNT=3.77±0.37, p = 0.36",acupuncture efficacy expectation scores,Before the fMRI runs
+29343693,phnt,sham_acupuncture,credibility,needling credibility was reported in ≃82% of the PHNT group,in-depth interview and a questionnaire that assessed the credibility of the acupuncture procedure,After finishing the experiment
+29343693,all_arms,,perceived_treatment,Patients were told that they would receive real acupuncture treatment during this experiment.,not_reported,during this experiment
+29563830,not_applicable,,expectancy,not_reported,not_reported,not_reported
+29563830,not_applicable,,blinding_success,Researchers responsible for clinical assessment were blinded to the treatment group allocation,not_reported,not_reported
+29763448,not_applicable,,expectancy,not_reported,not_reported,not_reported
+29763448,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+29904344,arm_pms_eas,verum_acupuncture,other,not_reported,not_reported,not_reported
+29951105,all_arms,,blinding_success,The group assignment was unknown for patients,not_reported,not_reported
+30034336,not_applicable,,other,not_reported,not_reported,not_reported
+30105065,not_applicable,,expectancy,not_reported,not_reported,not_reported
+30719061,not_applicable,,expectancy,not_reported,not_reported,not_reported
+30881095,arm_CLBP,verum_acupuncture,blinding_success,There was no significant difference of local needling sensations reported between the two interventions,numerical rate scale (NRS) for local needling sensation,after each intervention and after each scan period
+30914909,not_applicable,,blinding_success,Subjects were blinded regarding the point specificity (acupuncture points vs. non-acupuncture points),not_reported,not_reported
+30914909,not_applicable,,blinding_success,"subjects were informed that they would receive acupuncture with five needles at the lower leg, the forearm, and above the upper lip on four separate days, on 2 days with stimulation of the needle and on the other two without",not_reported,before informed consent
+30914919,arm_responder,other,credibility,"17.5 (95% CI, 15.9–19.1)",questionnaire for acupuncture credibility,baseline
+30914919,arm_nonresponder,other,credibility,"17.9 (95% CI, 15.9–19.9)",questionnaire for acupuncture credibility,baseline
+30914919,arm_responder,other,expectancy,"13.6 (95% CI, 11.9–15.2)",questionnaire for acupuncture expectancy,baseline
+30914919,arm_nonresponder,other,expectancy,"12.6 (95% CI, 9.9–15.3)",questionnaire for acupuncture expectancy,baseline
+30914919,arm_responder,other,other,"39.9 (95% CI, 31.9–47.9)",Perception of Bodily Sensation (PBS),baseline
+30914919,arm_nonresponder,other,other,"37.0 (95% CI, 31.0–43.0)",Perception of Bodily Sensation (PBS),baseline
+30914919,arm_responder,other,other,"25.0 (95% CI, 19.3–30.7)",Acupuncture Fear Scale (AFS),baseline
+30914919,arm_nonresponder,other,other,"32.3 (95% CI, 22.6–42.0)",Acupuncture Fear Scale (AFS),baseline
+30914919,arm_acupuncture,verum_acupuncture,blinding_success,"Bang's blinding index = 0.75 (95% CI, 0.52–0.98)",Bang's blinding index,end of study
+30914919,arm_placebo,sham_acupuncture,blinding_success,"Bang's blinding index = 0 (95% CI, -0.39 to 0.39)",Bang's blinding index,end of study
+30914919,not_applicable,,prior_acupuncture_experience,Participants had more than one experience with acupuncture,not_reported,screening/baseline
+31011330,not_applicable,,expectancy,not_reported,not_reported,not_reported
+31636536,arm_PHNT,sham_acupuncture,credibility,18 of 23 PHNT patients had needling credibility; 4 were excluded due to absence of needling credibility; most patients who received PHNT believed they had been treated with REAL and reported vicarious acupuncture (deqi) sensations,In-depth interview conducted at the end of the experiment,End of experiment (retrospective)
+31636536,arm_REAL,verum_acupuncture,credibility,Patients who reported doubt or strong belief that stimulation was not actual were classified as non-credible and removed; none excluded from REAL for absence of needling credibility,In-depth interview conducted at the end of the experiment,End of experiment (retrospective)
+31636536,not_applicable,,expectancy,Both REAL and PHNT groups were told that they would be stimulated with acupuncture needles,Verbal instruction from acupuncturist before stimulation run,Before acupuncture stimulation run
+31636536,not_applicable,,credibility,"A video recording the patient body was projected onto the screen in real time to consolidate the video-body link (setup); during REAL run, procedure was video-recorded and simultaneously played on screen; during PHNT run, previously recorded video from another patient in REAL group (with real needles) was displayed on screen",Visual feedback via video display,During setup and stimulation run
+32194493,not_applicable,,expectancy,not_reported,not_reported,not_reported
+32377180,not_applicable,,blinding_success,Patients were told that they will receive an effective intervention randomized after enrolment,not_reported,not_reported
+32807158,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+32908491,not_applicable,,expectancy,not_reported,not_reported,not_reported
+33013312,not_applicable,,blinding_success,All patients and study staff were blinded to the treatment groups.,not_reported,not_reported
+33013312,not_applicable,,prior_acupuncture_experience,All the participants did not have any acupuncture experience.,not_reported,baseline
+33146953,not_applicable,,expectancy,not_reported,not_reported,not_reported
+33314799,not_applicable,,credibility,Treatment credibility was equal across both groups,Credibility Questionnaire (Supplementary Methods D),after first treatment and after last treatment
+33314799,not_applicable,,blinding_success,"Participants were not informed about a sham or placebo at consent, so all participants were led to believe that both EA and ML are viable treatments for FM. All participants were fully debriefed after the final MRI visit.",IRB authorized deception procedure,throughout study; debriefed after final MRI visit
+33314799,not_applicable,,blinding_success,participants blindfolded during all treatments to avoid visual afference,blindfolding procedure,during all treatment sessions
+33384580,not_applicable,,expectancy,not_reported,not_reported,not_reported
+33551385,not_applicable,,expectancy,not_reported,not_reported,not_reported
+33560579,all_arms,,blinding_success,The sequence of acupuncture was blinded to all participants,not_reported,not_reported
+33560579,all_arms,,expectancy,not_reported,not_reported,not_reported
+33560579,all_arms,,prior_acupuncture_experience,"Prior to the present study, none of the subjects had undergone acupuncture",not_reported,prior to study enrollment
+33776442,arm_EA,verum_acupuncture,blinding_success,not_reported,not_reported,not_reported
+33776442,arm_EA,verum_acupuncture,expectancy,not_reported,not_reported,not_reported
+34108856,not_applicable,,blinding_success,patients blinded to groupings; patients had not previously received acupuncture and could not distinguish which acupoints were being stimulated,not_reported,not_reported
+34108856,not_applicable,,blinding_success,assessors and statisticians blinded to groupings,not_reported,not_reported
+34108856,not_applicable,,expectancy,not_reported,not_reported,not_reported
+34122321,not_applicable,,expectancy,not_reported,not_reported,not_reported
+34431029,not_applicable,,expectancy,not_reported,not_reported,not_reported
+34483822,arm_acupuncture,verum_acupuncture,prior_acupuncture_experience,"All subjects in this study were naive to acupuncture, having never experienced an acupuncture treatment",not_reported,screening/inclusion
+34671239,not_applicable,,expectancy,not_reported,not_reported,not_reported
+34720908,not_applicable,,expectancy,not_reported,not_reported,not_reported
+34949986,not_applicable,,blinding_success,Blinding success was validated at the end of the study,not_reported,end of study
+34949986,not_applicable,,prior_acupuncture_experience,participants were acupuncture naïve,not_reported,baseline
+34949986,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35048524,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35096130,arm_verum_ea,verum_acupuncture,expectancy,not_reported,not_reported,not_reported
+35115998,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35153654,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35310583,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35312785,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35312785,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+35464313,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35557556,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+35585920,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35734477,not_applicable,,expectancy,not_reported,not_reported,not_reported
+35832324,not_applicable,,blinding_success,both groups did not know their grouping until the needling was performed,not_reported,not_reported
+35959405,arm_01,verum_acupuncture,expectancy,not_reported,not_reported,not_reported
+35965072,not_applicable,,expectancy,not_reported,not_reported,not_reported
+36051643,not_applicable,,expectancy,not_reported,not_reported,not_reported
+36102803,not_applicable,,expectancy,not_reported,not_reported,not_reported
+36530615,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+36530635,not_applicable,,expectancy,not_reported,not_reported,not_reported
+36530635,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+36744205,not_applicable,,expectancy,not_reported,not_reported,not_reported
+36890655,arm_VA,verum_acupuncture,expectancy,no significant difference in AES scores between VA and SA groups (p = 0.777),acupuncture expectancy scale (AES),not_reported
+36890655,arm_SA,sham_acupuncture,expectancy,no significant difference in AES scores between VA and SA groups (p = 0.777),acupuncture expectancy scale (AES),not_reported
+36890655,arm_SC,medication,other,neither KOA patients in the celecoxib nor placebo groups received nocebo-related psychological assessments in this study,nocebo-related psychological assessments,not_reported
+36922926,not_applicable,,expectancy,not_reported,not_reported,not_reported
+37025199,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+37206312,not_applicable,,other,not_reported,not_reported,not_reported
+37274194,not_applicable,,expectancy,not_reported,not_reported,not_reported
+37305743,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+37383656,not_applicable,,expectancy,not_reported,not_reported,not_reported
+37408438,not_applicable,,expectancy,not_reported,not_reported,not_reported
+37415858,all_arms,,expectancy,average score of 'general belief' items (five-point Likert-type scale) — exact group values not reported in text,"acupuncture efficacy expectation questionnaire (Dennehy et al., 2002)",before fMRI scans
+37415858,arm_PHNT,sham_acupuncture,credibility,19 of 25 participants (76%) reported needling credibility,structural interview (needling credibility assessment),end of experiment
+37415858,arm_PHNT,sham_acupuncture,perceived_treatment,1.23 ± 1.18,Massachusetts General Hospital Acupuncture Sensation Scale (MASS) index,after fMRI scan
+37415858,all_arms,,other,"no learning effect of REAL to the brain response of PHNT: IC9: p = 0.299, IC22: p = 0.855, IC23: p = 0.223, IC29: p = 0.148",two-sample t-test for order effect,across crossover sessions
+37584456,not_applicable,,expectancy,not_reported,not_reported,not_reported
+37721727,not_applicable,,expectancy,not_reported,not_reported,not_reported
+37804240,arm_VA,other,expectancy,not_reported,not_reported,during experiment
+37804240,not_applicable,,prior_acupuncture_experience,MASS: 3.81 ± 0.36,training session with actual needle stimulation and MASS questionnaire,training session prior to fMRI scan
+37901421,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+38027487,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+38034817,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+38245739,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+38249582,not_applicable,,expectancy,not_reported,not_reported,not_reported
+38585348,not_applicable,,expectancy,not_reported,not_reported,not_reported
+38651018,not_applicable,,expectancy,not_reported,not_reported,not_reported
+38681626,not_applicable,,expectancy,not_reported,not_reported,not_reported
+38681626,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+39089662,all_arms,,blinding_success,"James' blinding index was .58, and the upper bound of the 95% confidence interval (CI) was .70 (> .5), suggesting there was insufficient evidence to show unblinding between the AG and SG",James blinding index,week 4 after randomization
+39089662,all_arms,,guessed_allocation,"all participants were asked to guess which type of acupuncture (acupuncture, sham acupuncture, and uncertain) they received at week 4 after randomization",not_reported,week 4 after randomization
+39368604,not_applicable,,expectancy,not_reported,not_reported,not_reported
+39368604,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+39468590,not_applicable,,expectancy,not_reported,not_reported,not_reported
+39499594,not_applicable,,expectancy,not_reported,not_reported,not_reported
+39543627,arm_RA and arm_SA,,blinding_success,not_reported,not_reported,not_reported
+39648209,not_applicable,,expectancy,"mean (SD): SSRIs=2.8 (1.0), SSRIs+SIA=3.1 (0.9), SSRIs+AIA=3.2 (0.8), all participants=3.0 (0.9)",acupuncture expectancy (5-point method),baseline
+39648209,not_applicable,,blinding_success,not_reported (stated no statistically significant differences in blind evaluation),IA blind success rate,end of treatment (week 6)
+39654647,arm_sham_acu,sham_acupuncture,credibility,overall quality of reporting is suboptimal,"fake needle report list (SHARE guidelines referenced: Ma et al., 2023)",not_reported
+39877657,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40022556,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40584525,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40634927,not_applicable,,prior_acupuncture_experience,"AG: Yes 8(29.63%), No 19(70.37%); SG: Yes 7(28.00%), No 18(72.00%); WG: Yes 2(9.10%), No 20(90.91%)",not_reported,baseline
+40634927,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40642213,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+40642213,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40642213,not_applicable,,credibility,not_reported,not_reported,not_reported
+40660313,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40772121,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40800108,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40847552,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40881782,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+40881782,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40950284,not_applicable,,expectancy,not_reported,not_reported,not_reported
+40963943,not_applicable,,other,not_reported,not_reported,not_reported
+40974865,BC_HF,verum_acupuncture,blinding_success,not_reported,not_reported,not_reported
+40995472,not_applicable,,expectancy,not_reported,not_reported,not_reported
+41069516,not_applicable,,expectancy,not_reported,not_reported,not_reported
+41069516,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+41310834,not_applicable,,expectancy,not_reported,not_reported,not_reported
+41310834,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+41351443,not_applicable,,blinding_success,both the patients and the evaluators were blinded to the group allocation,not_reported,not_reported
+41351443,not_applicable,,credibility,not_reported,not_reported,not_reported
+41520025,not_applicable,,credibility,Treatment credibility was found to be equal across both the EA and ML groups,Credibility Questionnaire,after first and last treatment sessions
+41520025,not_applicable,,blinding_success,"ML sham control (inactive laser) has been considered a credible placebo in prior methodological work, and has been used as a sham control in RCTs with successful blinding of participants and practitioners",not_reported,not_reported
+41520025,arm_ML,sham_acupuncture,perceived_treatment,participants were told they would receive acupoint stimulation using a laser device; authorized deception approved by the University of Michigan IRB; participants fully debriefed after the study,not_reported,not_reported
+41591775,not_applicable,,expectancy,No baseline differences in improvement expectation were observed,Acupuncture Expectancy Scale,baseline
+41591775,arm_real_acu,verum_acupuncture,blinding_success,"BBI = 0.60 (95% CI, 0.35-0.85)",Bang Blinding Index (BBI),after treatment
+41591775,arm_sham_acu,sham_acupuncture,blinding_success,"BBI = −0.40 (95% CI, −0.59 to −0.29)",Bang Blinding Index (BBI),after treatment
+41591775,not_applicable,,other,Participants who received real acupuncture showed better but nonsignificant compliance than those who received sham acupuncture,"compliance (completion of ≥10 of 12 sessions, ≥80%)",week 4
+41601526,not_applicable,,other,not_reported,not_reported,not_reported
+41602988,arm_BP_acupuncture,verum_acupuncture,expectancy,not_reported,not_reported,not_reported
+41641330,not_applicable,,expectancy,not_reported,not_reported,not_reported
+41657421,not_applicable,,blinding_success,not assessed; open-label trial without sham acupuncture; patients not blinded,not_reported,not_reported
+41657421,not_applicable,,blinding_success,not assessed; acupuncturists not blinded,not_reported,not_reported
+41657421,not_applicable,,expectancy,not assessed,not_reported,not_reported
+41834818,not_applicable,,expectancy,not_reported,not_reported,not_reported
+41834818,not_applicable,,blinding_success,not_reported,not_reported,not_reported
+41999225,AG,verum_acupuncture,blinding_success,single-blinding for the VA/SA group; no formal blinding assessment instrument reported,not_reported,not_reported
+41999225,not_applicable,,blinding_success,participant-investigator double-blinding for the SC/PB group; no formal blinding assessment instrument reported,not_reported,not_reported
+42077350,not_applicable,,credibility,not_reported,not_reported,not_reported
+42131703,not_applicable,,blinding_success,not_reported,not_reported,not_reported

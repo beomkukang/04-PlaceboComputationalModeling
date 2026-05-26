@@ -1,0 +1,160 @@
+file_pmid,actual_pmid,status,similarity,extracted_author,extracted_year,extracted_title
+12098499,24459533,remapped,1.0,Siyuan Zhou,2013,Influence of Acupuncture Stimulation on Cerebral Network in Functional Diarrhea
+12202090,35153654,remapped,1.0,Wei,2022,Acupuncture Treatment Decreased Temporal Variability of Dynamic Functional Connectivity in Chronic Tinnitus
+15193624,40634927,remapped,1.0,Wei,2025,Effect of acupuncture treatment for patients with knee osteoarthritis on brain fluctuation amplitude and functional conn
+15499576,39089662,remapped,1.0,Wei,2024,Acupuncture Modulation of Chronic Neuropathic Pain and Its Association With Brain Functional Properties
+15825843,33776442,remapped,1.0,Xiang-yu Wei,2021,The Instant and Sustained Effect of Electroacupuncture in Postgraduate Students with Depression: An fMRI Study
+15876491,40974865,remapped,1.0,Zhuo-Nan Wang,2025,Acupuncture effect on brain default mode network connectivity in breast cancer patients with hot flashes: A randomized c
+16046146,29343693,remapped,1.0,Meena M. Makary,2018,Phantom Acupuncture Induces Placebo Credibility and Vicarious Sensations: A Parallel fMRI Study of Low Back Pain Patient
+16407533,28334999,remapped,1.0,Maeda,2017,Rewiring the primary somatosensory cortex in carpal tunnel syndrome with acupuncture
+16790551,16790551,correct,1.0,"Cho, Z. H.",1998,New findings of the correlation between acupoints and corresponding brain cortices using functional MRI
+17240066,21080967,remapped,1.0,Zyloney,2010,Imaging the functional connectivity of the Periaqueductal Gray during genuine and sham electroacupuncture treatment
+17604556,31011330,remapped,1.0,Yan Zou,2019,Acupuncture Reversible Effects on Altered Default Mode Network of Chronic Migraine Accompanied with Clinical Symptom Rel
+17990299,26467429,remapped,1.0,Zhu,2015,Acupuncture at KI3 in healthy volunteers induces specific cortical functional activity: an fMRI study
+18054726,38249582,remapped,1.0,Zhou,2024,Immediate neural effects of acupuncture manipulation time for stroke with motor dysfunction: a fMRI pilot study
+18337009,36890655,remapped,1.0,Zhou,2023,Modulation effects of different treatments on periaqueductal gray resting state functional connectivity in knee osteoart
+18571795,41351443,remapped,1.0,"Zhou, Hang",2025,Brain Connectivity and Topological Reorganization of Multiple Functional Networks in Subjective Cognitive Decline After 
+18606019,27688791,remapped,1.0,Yu Zheng,2016,"Acupuncture Decreases Blood Pressure Related to Hypothalamus Functional Connectivity with Frontal Lobe, Cerebellum, and "
+18684074,28480365,remapped,1.0,Yu Zheng,2016,IMAGING OF BRAIN FUNCTION BASED ON THE ANALYSIS OF FUNCTIONAL CONNECTIVITY - IMAGING ANALYSIS OF BRAIN FUNCTION BY FMRI 
+19014532,29763448,remapped,1.0,Zheng,2018,Modulation of functional activity and connectivity by acupuncture in patients with Alzheimer disease as measured by rest
+19061937,34720908,remapped,1.0,Zhao,2021,Networks Are Associated With Acupuncture Treatment in Patients With Diarrhea-Predominant Irritable Bowel Syndrome: A Res
+19159691,24915066,remapped,1.0,Zhao,2014,Effects of Long-Term Acupuncture Treatment on Resting-State Brain Activity in Migraine Patients: A Randomized Controlled
+19345268,41601526,remapped,1.0,Zhang,2026,Localization of brain networks activated by acupuncture at anatomically adjacent acupoints in healthy participants: neur
+19427842,39468590,remapped,1.0,Zhang,2024,Acupuncture-assisted lifestyle intervention improve the metabolic status and spontaneous brain activity of type 2 diabet
+19500677,36530635,remapped,1.0,Zhang Y,2022,Acupuncture decreases amygdala functional connectivity in subjective tinnitus
+19501656,34671239,remapped,1.0,Zhang,2021,Regulatory Effects of Acupuncture on Emotional Disorders in Patients With Menstrual Migraine Without Aura: A Resting-Sta
+19559684,19559684,correct,1.0,Hui,2009,Acupuncture mobilizes the brain's default mode and its anti-correlated network in healthy subjects
+19595739,24734113,remapped,1.0,Yong Zhang,2014,Acupuncture Modulates the Functional Connectivity of the Default Mode Network in Stroke Patients
+19666085,40963943,remapped,1.0,Zhang,2025,Tension-type headache patients' brain responses to instant acupuncture stimulation: a functional magnetic resonance imag
+20027574,41591775,remapped,1.0,"Zhang, Xinyu",2026,Acupuncture for Migraine Without Aura and Connection-Based Efficacy Prediction: A Randomized Clinical Trial
+20071124,29563830,remapped,1.0,Zhang,2018,Different mechanisms of contralateral- or ipsilateral-acupuncture to modulate the brain activity in patients with unilat
+20423216,30719061,remapped,1.0,Jiping Zhang,2019,Different Brain Activation after Acupuncture at Combined Acupoints and Single Acupoint in Hypertension Patients: An Rs-f
+20573575,40881782,remapped,1.0,Chunxia Zhang,2025,Interactive dynamic scalp acupuncture enhances brain functional connectivity in bilateral basal ganglia ischemic stroke 
+20838644,38585348,remapped,1.0,Zha,2024,Modulations of resting-static functional connectivity on insular by electroacupuncture in subjective tinnitus
+20953400,42077350,remapped,1.0,Yu,2026,Cerebral blood flow and functional connectivity immediate changes following intradermal acupuncture in major depressive 
+21080967,41602988,remapped,1.0,Yu,2026,Alterations in neuroplasticity and functional connectivity of striatal subregions in Bell's palsy patients after acupunc
+21616623,33013312,remapped,1.0,Yu,2020,Resting-State Functional Connectivity Patterns Predict Acupuncture Treatment Response in Primary Dysmenorrhea
+22197696,40022556,remapped,1.0,Liyong Yu,2025,Cerebral Blood Flow Changes and Their Spatial Correlations With GABAa and Dopamine-D1 Receptor Explaining Individual Dif
+22291848,22291848,correct,1.0,Fang,2012,The Limbic-Prefrontal Network Modulated by Electroacupuncture at CV4 and CV12
+22504841,39499594,remapped,1.0,Haitao Yu,2024,Spatiotemporal Dynamics of Periodic and Aperiodic Brain Activity Under Peripheral Nerve Stimulation With Acupuncture
+22761766,23691237,remapped,1.0,You,2013,Altered Hub Configurations within Default Mode Network following Acupuncture at ST36: A Multimodal Investigation Combini
+22800833,37804240,remapped,1.0,Da-Eun Yoon,2023,Graded brain fMRI response to somatic and visual acupuncture stimulation
+22837879,40584525,remapped,1.0,Han Yingmei,2025,Exploring the changes in functional connectivity of the limbic system in Patients with amnestic mild cognitive impairmen
+23152865,37584456,remapped,1.0,Tao Yin,2023,Clinical-functional brain connectivity signature predicts longitudinal symptom improvement after acupuncture treatment i
+23222890,32908491,remapped,1.0,Yin,2020,Machine Learning in Neuroimaging: A New Approach to Understand Acupuncture for Neuroplasticity
+23666154,35965072,remapped,1.0,Tao Yin,2023,Predicting acupuncture efficacy for functional dyspepsia based on functional brain network features: a machine learning 
+23691237,28053642,remapped,1.0,Yeo,2016,Ipsilateral Putamen and Insula Activation by Both Left and Right GB34 Acupuncture Stimulation: An fMRI Study on Healthy 
+23762172,25220656,remapped,1.0,Yeo,2014,Acupuncture on GB34 activates the precentral gyrus and prefrontal cortex in Parkinson's disease
+23823818,20423216,remapped,1.0,"Yeo, S.",2010,Consecutive Acupuncture Stimulations Lead to Significantly Decreased Neural Responses
+23840533,38245739,remapped,1.0,Yang,2024,Modulation of temporal and occipital cortex by acupuncture in non-menstrual MWoA patients: a rest BOLD fMRI study
+23843881,32194493,remapped,1.0,Yang,2020,Baseline Brain Gray Matter Volume as a Predictor of Acupuncture Outcome in Treating Migraine
+23853664,36922926,remapped,1.0,Yang,2023,Increased low frequency fluctuation in the brain after acupuncture treatment in CSVDCI patients: A randomized control tr
+24023568,23935686,remapped,1.0,Jie Yang,2013,Visualized Characterization for Cerebral Response of Acupuncture Deqi: Paradox Underway
+24734108,32377180,remapped,1.0,Chao-Qun Yan,2020,Different Degree Centrality Changes in the Brain after Acupuncture on Contralateral or Ipsilateral Acupoint in Patients 
+24927275,41069516,remapped,1.0,Xu,2025,Exploring the potential central regulatory mechanisms of acupuncture for acute-stage Bell's palsy: an fMRI-based investi
+24963329,36846148,remapped,1.0,Xu,2023,Corrigendum: Modulations of static and dynamic functional connectivity among brain networks by electroacupuncture in pos
+25024729,36530615,remapped,1.0,Xu,2022,Modulations of static and dynamic functional connectivity among brain networks by electroacupuncture in post-stroke apha
+25206576,40950284,remapped,1.0,Jingyan Xu,2025,Yin-Yang Harmony Acupuncture Therapy improves facial motor function and resting state facial appearance in peripheral fa
+25206815,35048524,remapped,1.0,Hui Xu,2022,Modulation effect of acupuncture treatment on chronic neck and shoulder pain in female patients: Evidence from periaqued
+25258037,35096130,remapped,1.0,ChengChao Xu,2022,Functional Magnetic Resonance Imaging Study of Electroacupuncture Stimulating Uterine Acupoints
+25452777,25452777,correct,1.0,Yanling Gao,2015,Evidence of timing effects on acupuncture: A functional magnetic resonance imaging study
+25516481,24734108,remapped,1.0,Xie,2014,Acupuncture Enhances Effective Connectivity between Cerebellum and Primary Sensorimotor Cortex in Patients with Stable R
+25525442,30881095,remapped,1.0,Xiang,2019,The low-frequency BOLD signal oscillation response in the insular associated to immediate analgesia of ankle acupuncture
+25538761,34949986,remapped,1.0,Xiang,2021,Frequency-Specific Blood Oxygen Level Dependent Oscillations Associated With Pain Relief From Ankle Acupuncture in Patie
+25601007,40329319,remapped,1.0,Wu,2025,Potential scalp acupuncture and brain stimulation targets for common neurological disorders: evidence from neuroimaging 
+25741269,39648209,remapped,1.0,Xiaoting Wu,2024,The efficacy and cerebral mechanism of intradermal acupuncture for major depressive disorder: a multicenter randomized c
+25821486,41999225,remapped,1.0,Sai Wu,2026,GABRB3 Gene Polymorphisms Influences the Analgesic Response to Acupuncture Treatment in Patients With Chronic Knee Pain:
+26064166,29951105,remapped,1.0,Ping Wu,2018,Structural Changes Induced by Acupuncture in the Recovering Brain after Ischemic Stroke
+26161117,40772121,remapped,1.0,Nan Wu,2025,Effect of Acupuncture on Functional Connectivity of the Limbic Network in Patients with Knee Osteoarthritis: A Resting S
+26446439,24963329,remapped,1.0,Chunxiao Wu,2014,Correlation between the Effects of Acupuncture at Taichong (LR3) and Functional Brain Areas: A Resting-State Functional 
+26467429,34431029,remapped,1.0,Yat Kwan Wong,2021,Antidepressant Monotherapy and Combination Therapy with Acupuncture in Depressed Patients: A Resting-State Functional Ne
+26511911,37025199,remapped,1.0,Wong,2023,Functional magnetic resonance imaging providing the brain effect mechanism of acupuncture and moxibustion treatment for 
+26594625,21794103,remapped,1.0,Witzel,2011,Differences in cortical response to acupressure and electroacupuncture stimuli
+26839078,22916152,remapped,1.0,Wang,2012,Effect of Acupuncture in Mild Cognitive Impairment and Alzheimer Disease: A Functional MRI Study
+26896073,24603951,remapped,1.0,Wang,2014,Acupuncture Modulates Resting State Hippocampal Functional Connectivity in Alzheimer Disease
+27053062,32807158,remapped,1.0,Wang,2020,Effectiveness and cerebral responses of multi-points acupuncture for primary insomnia: a preliminary randomized clinical
+27242492,27242492,correct,1.0,Demao Deng,2016,"Modulation of the Default Mode Network in First-Episode, Drug-Naïve Major Depressive Disorder via Acupuncture at Baihui "
+27438091,34108856,remapped,1.0,Wang,2021,Immediate Analgesic Effect of Acupuncture in Patients With Primary Dysmenorrhea: A fMRI Study
+27548054,35734477,remapped,1.0,"Wang, Yue",2022,Sensorimotor Responses in Post-Stroke Hemiplegic Patients Modulated by Acupuncture at Yanglingquan (GB34): A fMRI Study 
+27688791,37721727,remapped,1.0,Yang Wang,2023,Acupuncture modulates the functional connectivity among the subcortical nucleus and fronto-parietal network in adolescen
+27693978,37383656,remapped,1.0,Yahui Wang,2023,Acupuncture Alters Brain's Dynamic Functional Network Connectivity in Stroke Patients with Motor Dysfunction: A Randomis
+27803655,27812501,remapped,1.0,"Wang, Xiaoyun",2016,Repeated acupuncture treatments modulate amygdala resting state functional connectivity of depressive patients
+27812501,37408438,remapped,1.0,Wang,2024,Modulatory effects of acupuncture on raphe nucleus-related brain circuits in patients with chronic neck pain: A randomiz
+27857211,27857211,correct,1.0,Chunhui Bao,2016,Different brain responses to electro-acupuncture and moxibustion treatment in patients with Crohn's disease
+28334999,38681626,remapped,1.0,XiaoLing Wang,2024,Altered functional brain activity in first-episode major depressive disorder treated with electro-acupuncture: A resting
+28400807,41022570,remapped,1.0,Xiaotong Wang,2025,Immediate and sustained effects of acupuncture on the default mode network
+28480365,24062782,remapped,1.0,Xiaoling Wang,2013,Neural Encoding of Acupuncture Needling Sensations: Evidence from a fMRI Study
+28580293,41657421,remapped,1.0,Wang,2026,Effect of acupuncture Baihui acupoint-Yintang acupoint-Neiguan acupoint combined with conventional Western medicine trea
+28868952,39877657,remapped,1.0,Junkai Wang,2025,Effects of acupuncture at the Taichong (LIV3) and Hegu (LI4) points on functional connectivity with the retrosplenial co
+29204113,29204113,correct,1.0,Bao,2017,Effect of Electro-Acupuncture and Moxibustion on Brain Connectivity in Patients with Crohn's Disease: A Resting-State fM
+29305037,33560579,remapped,1.0,Wang F,2021,Cerebral areas affected by unilateral acupuncture on SP3 in healthy volunteers: An explorative resting-state fMRI study
+29325883,25821486,remapped,1.0,Karen M. von Deneen,2015,"Connectivity Study of the Neuromechanism of Acute Acupuncture Needling during fMRI in ""Overweight"" Subjects"
+29343693,25228908,remapped,1.0,Dai-Shi Tian,2014,"De Qi, a Threshold of the Stimulus Intensity, Elicits the Specific Response of Acupoints and Intrinsic Change of Human B"
+30034336,35464313,remapped,1.0,Teng,2022,The Role of Medial Prefrontal Cortex in Acupuncture Treatment for Functional Dyspepsia
+30105065,23316257,remapped,1.0,Jinbo Sun,2012,Impact of Global Normalization in fMRI Acupuncture Studies
+30137262,41520025,remapped,1.0,Apeksha Sridhar,2026,Brain sensory network activity underlies reduced nociceptive initiated and nociplastic pain via acupuncture in fibromyal
+30914909,35310583,remapped,1.0,Zuoting Song,2022,Electroacupuncture Alters BCI-Based Brain Network in Stroke Patients
+31176295,34483822,remapped,1.0,Si,2021,Acupuncture With deqi Modulates the Hemodynamic Response and Functional Connectivity of the Prefrontal-Motor Cortical Ne
+31636536,26161117,remapped,1.0,Yu Shi,2015,Brain Network Response to Acupuncture Stimuli in Experimental Acute Low Back Pain: An fMRI Study
+31964691,33146953,remapped,1.0,Xiao-Hua Shi,2021,Gender-related difference in altered fractional amplitude of low-frequency fluctuations after electroacupuncture on prim
+32114310,25525442,remapped,1.0,Yi Shan,2014,An fMRI Study of Neuronal Specificity in Acupuncture: The Multiacupoint Siguan and Its Sham Point
+32503194,30105065,remapped,1.0,Yi Shan,2018,Neuronal Specificity of Acupuncture in Alzheimer's Disease and Mild Cognitive Impairment Patients: A Functional MRI Stud
+32682992,20838644,remapped,1.0,Quah-Smith,2010,The Brain Effects of Laser Acupuncture in Healthy Individuals: An fMRI Investigation
+32807158,27242911,remapped,1.0,Ke Qiu,2016,The Status of the Quality Control in Acupuncture-Neuroimaging Studies
+33013312,39543627,remapped,1.0,Peng,2024,The altered hypothalamic network functional connectivity in chronic insomnia disorder and regulation effect of acupunctu
+33381165,36744205,remapped,1.0,Peng,2023,Altered Functional Activity and Functional Connectivity of Seed Regions Based on ALFF Following Acupuncture Treatment in
+33551385,33664320,remapped,1.0,Ji-Yeun Park,2021,Peripheral ERK modulates acupuncture-induced brain neural activity and its functional connectivity
+33560579,29904344,remapped,1.0,Pang Y,2018,Altered Brain Regional Homogeneity Following Electro-Acupuncture Stimulation at Sanyinjiao (SP6) in Women With Premenstr
+34108856,35959405,remapped,1.0,Ning,2022,The altered intrinsic functional connectivity after acupuncture at shenmen (HT7) in acute sleep deprivation
+34292206,28443010,remapped,1.0,Ning,2017,Enhanced Functional Connectivity between the Bilateral Primary Motor Cortices after Acupuncture at Yanglingquan (GB34) i
+34671239,25741269,remapped,1.0,Till Nierhaus,2015,Differential cerebral response to somatosensory stimulation of an acupuncture point vs. two non-acupuncture points measu
+34682857,30914909,remapped,1.0,Nierhaus,2019,Somatosensory Stimulation With XNKQ Acupuncture Modulates Functional Connectivity of Motor Areas
+34777225,40660313,remapped,1.0,Nie,2025,Effects of transcranial direct current stimulation combined with acupuncture therapy on brain network functional connect
+34813773,17240066,remapped,1.0,Napadow,2007,Hypothalamus and Amygdala Response to Acupuncture Stimuli in Carpal Tunnel Syndrome
+35115998,35115998,correct,1.0,Gao,2022,Acupuncture Enhances Dorsal Raphe Functional Connectivity in Knee Osteoarthritis With Chronic Pain
+35312785,35312785,correct,1.0,Ishiyama,2022,The Modifying of Functional Connectivity Induced by Peripheral Nerve Field Stimulation using Electroacupuncture for Migr
+35585920,35585920,correct,1.0,Dong,2022,Neural Responses of Acupuncture for Treating Functional Dyspepsia: An fMRI Study
+35832324,33551385,remapped,1.0,Tomokazu Murase,2021,Investigation of Acupuncture-specific BOLD Signal Changes Using Multiband Acquisition and Deconvolution Analysis
+36051643,23666154,remapped,1.0,Tomokazu Murase,2013,Deconvolution Analyses with Tent Functions Reveal Delayed and Long-sustained Increases of BOLD Signals with Acupuncture 
+36067612,30914919,remapped,1.0,Min,2019,Acupuncture for Histamine-Induced Itch: Association With Increased Parasympathetic Tone and Connectivity of Putamen-Midc
+36102803,36102803,correct,1.0,Jiahao Du,2023,Analgesic Electrical Stimulation Combined with Wrist-Ankle Acupuncture Reduces the Cortical Response to Pain in Patients
+36427258,33314799,remapped,0.954,Ishtiaq Mawla,2021,Greater Somatosensory Afference with Acupuncture Increases Primary Somatosensory Connectivity and Alleviates Fibromyalgi
+36749304,39368604,remapped,1.0,Lan Ma,2024,Integration patterns of functional brain networks can predict the response to abdominal acupuncture in patients with maj
+36827004,33384580,remapped,1.0,Ma K,2020,Brain Functional Interaction of Acupuncture Effects in Diarrhea-Dominant Irritable Bowel Syndrome
+36890655,37274194,remapped,1.0,Mengxin Lu,2023,Neuroimaging mechanisms of acupuncture on functional reorganization for post-stroke motor improvement: a machine learnin
+37152608,27803655,remapped,1.0,Long,2016,Sustained Effects of Acupuncture Stimulation Investigated with Centrality Mapping Analysis
+37206312,37206312,correct,1.0,Cao,2023,The regulations on cortical activation and functional connectivity of the dorsolateral prefrontal cortex-primary somatos
+37383656,24968124,remapped,1.0,Liu Z,2014,Exploring the Patterns of Acupuncture on Mild Cognitive Impairment Patients Using Regional Homogeneity
+37408438,34122321,remapped,1.0,Liu,2021,Differential Modulating Effect of Acupuncture in Patients With Migraine Without Aura: A Resting Functional Magnetic Reso
+37415858,40800108,remapped,1.0,Liu,2025,Resting-State fMRI Reveals the Neural Correlates of Acupuncture in the Treatment of Vascular Cognitive Impairment
+37454266,36051643,remapped,1.0,Liu,2022,Acupuncture modulates the frequency-specific functional connectivity density in primary dysmenorrhea
+37901421,37901421,correct,1.0,Chang,2023,The effects of laser acupuncture dosage at PC6 (Neiguan) on brain reactivity: a pilot resting-state fMRI study
+38027487,38027487,correct,1.0,Fu,2023,Electroacupuncture at HT5 + GB20 promotes brain remodeling and significantly improves swallowing function in patients wi
+38034817,38034817,correct,1.0,Xuefeng Fu,2023,Electroacupuncture at HT5 + GB20 produces stronger activation effect on swallowing cortex and muscle than single points
+38336368,23152865,remapped,1.0,Hua Liu,2012,Determining the Precise Cerebral Response to Acupuncture: An Improved fMRI Study
+38521736,22761766,remapped,1.0,Liu B,2012,Altered Small-World Efficiency of Brain Functional Networks in Acupuncture at ST36: A Functional MRI Study
+38681626,41310834,remapped,1.0,Lin,2025,Neuroinflammation-informed neuroimaging-transcriptomic signatures explaining acupuncture's therapeutic effects in chroni
+39089662,37305743,remapped,1.0,Lin,2023,Scalp acupuncture regulates functional connectivity of cerebral hemispheres in patients with hemiplegia after stroke
+39169368,35968386,remapped,0.995,Lin,2022,Modulation of entorhinal cortex–hippocampus connectivity and recognition memory following electroacupuncture on 3×Tg-AD 
+39368604,26839078,remapped,1.0,Zhengjie Li,2016,Altered periaqueductal gray resting state functional connectivity in migraine and the modulation effect of treatment
+39468590,30034336,remapped,1.0,Zhe Li,2018,Acupuncture Modulates the Cerebello-Thalamo-Cortical Circuit and Cognitive Brain Regions in Patients of Parkinson's Dise
+39543627,25916336,remapped,1.0,Kuangshi Li,2015,The effects of acupuncture treatment on the right frontoparietal network in migraine without aura patients
+39617712,41834818,remapped,1.0,Dongxia Li,2026,Neural Effects of Low-Frequency Acupoint Electrical Stimulation Therapy on Patients With Poststroke Motor Dysfunction: A
+39648209,24821143,remapped,1.0,Chuanfu Li,2014,Prolonged Repeated Acupuncture Stimulation Induces Habituation Effects in Pain-Related Brain Areas: An fMRI Study
+39654647,39654647,correct,1.0,"Ke, Chao",2024,Overview of evidence-based research on acupuncture for stroke treatment using magnetic resonance imaging technology
+40341810,35832324,remapped,1.0,Chunlin Li,2022,Effects of Acupuncture at Neiguan in Neural Activity of Related Brain Regions: A Resting-State fMRI Study in Anxiety
+40567885,31636536,remapped,1.0,Lee,2019,Differential Influence of Acupuncture Somatosensory and Cognitive/Affective Components on Functional Brain Connectivity 
+40584525,38651018,remapped,1.0,Lee,2024,Neural Biomarkers for Identifying Atopic Dermatitis and Assessing Acupuncture Treatment Response Using Resting-State fMR
+40634927,32612281,remapped,1.0,Der-Yen Lee,2020,Electroacupuncture at Zusanli and at Neiguan characterized point specificity in the brain by metabolomic analysis
+40642213,40642213,correct,1.0,Hu,2025,"Shared and distinct brain activation patterns of acupoints HT7, ST36, and KI4: a task-based fMRI study"
+40772121,35557556,remapped,1.0,Lan,2022,Acupuncture Modulates the Spontaneous Activity and Functional Connectivity of Calcarine in Patients With Chronic Stable 
+40847552,40847552,correct,1.0,Zhen Gao,2025,Predicting acupuncture efficacy for neck pain based on functional connectivity features: a machine learning study
+40881782,16407533,remapped,1.0,Kong,2006,Brain Activity Associated with Expectancy-Enhanced Placebo Analgesia as Measured by Functional Magnetic Resonance Imagin
+40995472,40995472,correct,1.0,Chu,2025,Gender differences in brain activity underlying acupuncture sensations at LR3: a task-based fMRI study
+41282118,41520025,remapped,0.992,Apeksha Sridhar,2025,Brain Sensory Network Activity Underlies Reduced Nociceptive-Initiated and Nociplastic Pain via Acupuncture in Fibromyal
+41351443,40904730,remapped,1.0,Kang,2025,Understanding the multifaceted brain mechanisms of acupuncture based on neuroimaging studies: findings and insights from
+41520025,26211895,remapped,1.0,"Jung, Won-Mo",2015,Cortical Activation Patterns of Bodily Attention triggered by Acupuncture Stimulation
+41591775,37415858,remapped,0.992,Jung,2023,Cognitive and affective interaction with somatosensory afference in acupuncture–a specific brain response to compound st
+41626073,23840533,remapped,1.0,Jiang Y,2013,Manipulation of and Sustained Effects on the Human Brain Induced by Different Modalities of Acupuncture: An fMRI Study
+41641330,41641330,correct,1.0,Dou,2026,Electroacupuncture rewires interhemispheric homotopic connectivity to promote motor recovery after ischemic stroke
+42131703,42131703,correct,1.0,Gao,2026,Functional connectivity changes in the thalamocortical network due to neck pain and the multiscale regulatory effects of

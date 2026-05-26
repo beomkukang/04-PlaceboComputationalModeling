@@ -1,0 +1,7 @@
+r_obs,p_value,n_items,n_perms,test,status
+0.0008653836428682612,0.45365463453654636,59,10000,Perturbation(combined) vs Clinical,complete
+0.07334162608079228,0.1777822217778222,59,10000,Perturbation(axisA) vs Clinical,complete
+-0.1018940748227812,0.9414058594140586,59,10000,Perturbation(axisB) vs Clinical,complete
+-0.074671058593448,0.7663233676632337,44,10000,Perturbation(combined) vs Sensory,complete
+0.06933471639163713,0.1065893410658934,108,10000,Perturbation(combined) vs Neural,complete
+-0.1403126358823948,0.9143085691430857,44,10000,Neural vs Clinical,complete

@@ -1,0 +1,62 @@
+pmid,arm_type,disease_condition,global_R,method,variance_explained,n_domains
+24915066,sham_acupuncture,migraine without aura,-0.6152088753190712,PCA_PC1,0.5257211941597963,3
+24915066,verum_acupuncture,migraine without aura,-0.32772620891240606,PCA_PC1,0.5257211941597963,3
+26839078,sham_acupuncture,Migraine without aura (MwoA),-0.7277513332507373,PCA_PC1,0.5257211941597963,3
+26839078,verum_acupuncture,Migraine without aura (MwoA),0.22848298691905292,PCA_PC1,0.5257211941597963,3
+26839078,waitlist,Migraine without aura (MwoA),-2.1306035703309627,PCA_PC1,0.5257211941597963,3
+27857211,verum_acupuncture,Crohn's disease (remission period),0.1303760978225791,PCA_PC1,0.5257211941597963,2
+29204113,verum_acupuncture,Crohn's disease (CD) in remission,0.12777416902084504,PCA_PC1,0.5257211941597963,2
+29563830,verum_acupuncture,Unilateral chronic shoulder pain (CSP); left-sided shoulder pain,-0.03896670225014282,PCA_PC1,0.5257211941597963,2
+30034336,sham_acupuncture,Parkinson's disease with tremor,-0.3864891665545707,PCA_PC1,0.5257211941597963,2
+30034336,verum_acupuncture,Parkinson's disease with tremor,-0.14850330063727418,PCA_PC1,0.5257211941597963,2
+30034336,waitlist,Parkinson's disease with tremor,-0.5650531170011058,PCA_PC1,0.5257211941597963,2
+34720908,verum_acupuncture,Diarrhea-Predominant Irritable Bowel Syndrome (IBS-D),0.36945128406438194,PCA_PC1,0.5257211941597963,3
+35048524,verum_acupuncture,Chronic neck and shoulder pain (CNSP),1.6858042792106784,PCA_PC1,0.5257211941597963,5
+35557556,active_control,Chronic stable angina pectoris (CSAP),-0.1916659753739501,PCA_PC1,0.5257211941597963,3
+35557556,other,Chronic stable angina pectoris (CSAP),-0.36523829924539897,PCA_PC1,0.5257211941597963,3
+35557556,verum_acupuncture,Chronic stable angina pectoris (CSAP),-0.3880246779623653,PCA_PC1,0.5257211941597963,3
+35585920,verum_acupuncture,functional dyspepsia (FD),0.7076054857551953,PCA_PC1,0.5257211941597963,3
+36051643,sham_acupuncture,Primary dysmenorrhea (PDM),-0.7318118199484718,PCA_PC1,0.5257211941597963,3
+36051643,verum_acupuncture,Primary dysmenorrhea (PDM),1.2838843279992873,PCA_PC1,0.5257211941597963,3
+36890655,verum_acupuncture,Knee osteoarthritis (KOA) with knee pain,-0.12712463526355014,PCA_PC1,0.5257211941597963,3
+37383656,sham_acupuncture,ischemic stroke with motor dysfunction,-0.18065172654146094,PCA_PC1,0.5257211941597963,2
+37383656,verum_acupuncture,ischemic stroke with motor dysfunction,-0.13833600336903598,PCA_PC1,0.5257211941597963,2
+38245739,verum_acupuncture,Non-menstrual migraine without aura (MWoA),0.11069232522052985,PCA_PC1,0.5257211941597963,2
+38249582,verum_acupuncture,Ischemic stroke with motor dysfunction,-0.38230318964284704,PCA_PC1,0.5257211941597963,2
+40634927,sham_acupuncture,knee osteoarthritis (KOA),-0.3520815658831952,PCA_PC1,0.5257211941597963,3
+40634927,verum_acupuncture,knee osteoarthritis (KOA),0.4484612601377332,PCA_PC1,0.5257211941597963,3
+40847552,verum_acupuncture,Neck pain (NP),0.7968268839241951,PCA_PC1,0.5257211941597963,2
+41069516,verum_acupuncture,acute Bell's palsy (BP); acute idiopathic peripheral facial paralysis,0.10768875743731753,PCA_PC1,0.5257211941597963,2
+41310834,verum_acupuncture,Chronic insomnia disorder (CID),1.0390679873737438,PCA_PC1,0.5257211941597963,2
+41834818,verum_acupuncture,poststroke motor dysfunction,0.7614243226010067,PCA_PC1,0.5257211941597963,2
+24459533,healthy_control,Functional diarrhea (FD),0.06641439619463017,mean_R_within,,1
+24459533,verum_acupuncture,Functional diarrhea (FD),0.10630956183992327,mean_R_within,,1
+25916336,verum_acupuncture,Migraine without aura (MWoA),2.0036,mean_R_within,,1
+27688791,sham_acupuncture,"Essential hypertension (mild or moderate arterial hypertension, grade 1 or 2)",0.36604391611689324,mean_R_within,,1
+27688791,verum_acupuncture,"Essential hypertension (mild or moderate arterial hypertension, grade 1 or 2)",0.06789160281808097,mean_R_within,,1
+27812501,sham_acupuncture,Major depressive disorder (MDD),1.1036200708267976,mean_R_within,,1
+27812501,verum_acupuncture,Major depressive disorder (MDD),2.6884564926076306,mean_R_within,,1
+29951105,usual_care,Ischemic stroke,0.4569862715864125,mean_R_within,,1
+29951105,verum_acupuncture,Ischemic stroke,0.8782,mean_R_within,,1
+32807158,sham_acupuncture,Primary insomnia (PI),1.1138112395064592,mean_R_within,,1
+32807158,verum_acupuncture,Primary insomnia (PI),1.8989175604459991,mean_R_within,,1
+33013312,sham_acupuncture,Primary dysmenorrhea (PDM),0.38459167950693407,mean_R_within,,1
+33013312,verum_acupuncture,Primary dysmenorrhea (PDM),2.7345,mean_R_within,,1
+33146953,verum_acupuncture,Primary insomnia (PI),3.868227373582854,mean_R_within,,1
+35153654,verum_acupuncture,chronic tinnitus,1.1175850561528122,mean_R_within,,1
+37721727,verum_acupuncture,Internet addiction (IA),1.3123,mean_R_within,,1
+38027487,active_control,post-stroke dysphagia,-1.5338928470796598,mean_R_within,,1
+38027487,verum_acupuncture,post-stroke dysphagia,-2.1828187227347495,mean_R_within,,1
+38585348,verum_acupuncture,Subjective tinnitus (ST),1.2082,mean_R_within,,1
+38681626,sham_acupuncture,First-episode major depressive disorder (MDD),1.8224027289771236,mean_R_within,,1
+38681626,verum_acupuncture,First-episode major depressive disorder (MDD),3.5436068399452805,mean_R_within,,1
+40584525,sham_acupuncture,amnestic mild cognitive impairment (aMCI),0.14535909090909083,mean_R_within,,1
+40584525,verum_acupuncture,amnestic mild cognitive impairment (aMCI),1.0953059516116292,mean_R_within,,1
+40881782,sham_acupuncture,Bilateral basal ganglia ischemic stroke (BBGIS),0.9025832555244319,mean_R_within,,1
+40881782,verum_acupuncture,Bilateral basal ganglia ischemic stroke (BBGIS),1.61,mean_R_within,,1
+40950284,active_control,Peripheral facial paralysis (Bell's palsy),1.688627997675862,mean_R_within,,1
+40950284,verum_acupuncture,Peripheral facial paralysis (Bell's palsy),1.9006543258038937,mean_R_within,,1
+41351443,sham_acupuncture,Subjective cognitive decline (SCD),0.3769331928109755,mean_R_within,,1
+41351443,verum_acupuncture,Subjective cognitive decline (SCD),1.0714,mean_R_within,,1
+42131703,sham_acupuncture,mechanical neck pain,1.2277,mean_R_within,,1
+42131703,verum_acupuncture,mechanical neck pain,2.8949799815214043,mean_R_within,,1

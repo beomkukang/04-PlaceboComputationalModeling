@@ -1,0 +1,12 @@
+contrast_category,n_contrasts,n_studies
+correlation_clinical,322,71
+correlation_deqi,24,7
+correlation_expectancy,13,3
+deactivation,272,64
+group_comparison,441,92
+other,234,57
+sham_gt_rest,68,30
+sham_post_gt_pre,84,27
+verum_gt_rest,157,48
+verum_gt_sham,216,57
+verum_post_gt_pre,309,83

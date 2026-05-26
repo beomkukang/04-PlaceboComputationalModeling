@@ -1,0 +1,17 @@
+2026-05-26 09:31:50  ============================================================
+2026-05-26 09:31:50  STEP 1: Preprocessing (pp gray_matter,1.0,20,gray_matter,2)
+2026-05-26 09:31:50  ============================================================
+2026-05-26 09:31:50  
+2026-05-26 09:31:50    SKIP: sham_gt_rest — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: verum_gt_sham — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: verum_gt_rest — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: sham_gt_rest_penetrating — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    WARNING: sham_gt_rest_nonpenetrating has only 8 studies (recommended minimum: 10)
+2026-05-26 09:31:50    SKIP: sham_gt_rest_nonpenetrating — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: verum_post_gt_pre — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: sham_post_gt_pre — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: deactivation — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: group_comparison — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50    SKIP: correlation_clinical — already done (sentinel found). Use --force to rerun.
+2026-05-26 09:31:50  
+2026-05-26 09:31:50  Step 1 complete: 10 ok, 0 failed

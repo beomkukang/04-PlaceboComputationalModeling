@@ -1,0 +1,307 @@
+key_path,section,n_papers_present,pct_papers,example_value
+adverse_events,adverse_events,159,100.0,"[{'arm_id': 'not_reported', 'adverse_event_exact': 'not_reported', 'n_events': None, 'n_participants': None, 'severity_e"
+arms,arms,159,100.0,"[{'arm_id': 'arm_FD', 'arm_label_exact': 'Functional diarrhea', 'arm_type_coded': 'verum_acupuncture', 'n_assigned': 18,"
+clinical_behavioral_outcomes,clinical_behavioral_outcomes,159,100.0,"[{'outcome_id': 'clin_FD_defec_pre', 'arm_id': 'arm_FD', 'condition_id': 'cond_FD_pre', 'outcome_measure_exact': 'times "
+conditions,conditions,159,100.0,"[{'condition_id': 'cond_FD_pre', 'arm_id': 'arm_FD', 'condition_label_exact': 'Baseline (pre-acupuncture) resting-state "
+expectancy_blinding_credibility,expectancy_blinding_credibility,159,100.0,"[{'measure_id': 'expect_not_assessed', 'arm_id': 'not_applicable', 'condition_id': 'not_applicable', 'construct': 'expec"
+extraction_notes,extraction_notes,159,100.0,"[{'note_type': 'missing_information', 'note': 'No coordinate tables were provided in the paper. All neuroimaging results"
+extraction_notes.note,extraction_notes,159,100.0,No coordinate tables were provided in the paper. All neuroimaging results (ReHo changes and functional connectivity chan
+extraction_notes.note_type,extraction_notes,159,100.0,missing_information
+funding_conflicts_registration,funding_conflicts_registration,159,100.0,"{'funding_exact': 'National Key Basic Research Program of China (973 Program, no. 2011CB505205), the Youth Foundation of"
+funding_conflicts_registration.conflict_of_interest_exact,funding_conflicts_registration,159,100.0,The authors declare they have no conflict of interests.
+funding_conflicts_registration.data_availability_exact,funding_conflicts_registration,159,100.0,"The original contributions presented in the study are included in the article, further inquiries can be directed to the "
+funding_conflicts_registration.ethics_approval_exact,funding_conflicts_registration,159,100.0,The studies involving human participants were reviewed and approved by the Ethics Committee of the First Affiliated Hosp
+funding_conflicts_registration.funding_exact,funding_conflicts_registration,159,100.0,"National Key Basic Research Program of China (973 Program, no. 2011CB505205), the Youth Foundation of Sichuan Province ("
+funding_conflicts_registration.trial_registration_exact,funding_conflicts_registration,159,100.0,Chinese Clinical Trial Registry (www.chictr.org.cn) ChiCTR1900025799. This study was registered on 9th September 2019.
+interventions,interventions,159,100.0,"[{'intervention_id': 'int_FD_acup', 'arm_id': 'arm_FD', 'condition_id': 'not_applicable', 'procedure_label_exact': 'Acup"
+interventions.acupoints_used_exact,interventions,159,100.0,['ST25 (Tianshu)']
+interventions.acupuncture_modality,interventions,159,100.0,manual_acupuncture
+interventions.anatomical_location_exact,interventions,159,100.0,"ST25 (Tianshu), bilateral"
+interventions.arm_id,interventions,159,100.0,arm_FD
+interventions.condition_id,interventions,159,100.0,cond_tinnitus_post
+interventions.depth_exact,interventions,159,100.0,30–40 mm
+interventions.depth_mm_numeric,interventions,159,100.0,20
+interventions.deqi_intended_exact,interventions,159,100.0,"soreness, numbness, distention, and heaviness"
+interventions.electrical_frequency_exact,interventions,159,100.0,"2Hz, continuous wave"
+interventions.electrical_intensity_exact,interventions,159,100.0,"3mA, take the endurance of the subjects as the limit"
+interventions.electrical_stimulation,interventions,159,100.0,True
+interventions.intervention_id,interventions,159,100.0,int_FD_acup
+interventions.laterality_exact,interventions,159,100.0,bilateral
+interventions.manipulation_exact,interventions,159,100.0,"gently lifted, thrust, twisted, and rotated to achieve Deqi sensations; needles manually manipulated every 10 minutes fo"
+interventions.needle_retention_exact,interventions,159,100.0,30 minutes
+interventions.needle_retention_min_numeric,interventions,159,100.0,30
+interventions.needle_size_exact,interventions,159,100.0,40–50 mm in length and 0.3 mm in diameter
+interventions.needle_type_exact,interventions,159,100.0,"sterile disposable acupuncture needles (Hwato, Suzhou, China)"
+interventions.number_of_sessions_exact,interventions,159,100.0,10 sessions total
+interventions.number_of_sessions_numeric,interventions,159,100.0,10
+interventions.participant_instructions_exact,interventions,159,100.0,all patients were instructed to avoid starting other interventions; patients didn't receive other supplementary medicine
+interventions.penetration_exact,interventions,159,100.0,inserted 30–40 mm deep
+interventions.practitioner_description_exact,interventions,159,100.0,a licensed acupuncturist
+interventions.procedure_label_exact,interventions,159,100.0,Acupuncture at ST25 (Tianshu) bilaterally
+interventions.session_duration_exact,interventions,159,100.0,30 min
+interventions.session_duration_min_numeric,interventions,159,100.0,30
+interventions.sham_details,interventions,159,100.0,"{'sham_subtype_exact': 'not_applicable', 'sham_device_exact': 'not_applicable', 'sham_penetration_exact': 'not_applicabl"
+interventions.sham_details.sham_credibility_procedure_exact,interventions,159,100.0,blunt-tipped needle inserted into adhesive foam pad; NA5 penetrating operation designed to promote blinding
+interventions.sham_details.sham_deqi_intended_exact,interventions,159,100.0,did not require the 'De Qi' sensation
+interventions.sham_details.sham_device_exact,interventions,159,100.0,"sham needles with blunt tips (0.25×40 mm or 0.25×25 mm, Hwato, China)"
+interventions.sham_details.sham_location_exact,interventions,159,100.0,non-acupoints (NA1-NA7 as shown in Fig. 1B)
+interventions.sham_details.sham_manipulation_exact,interventions,159,100.0,no manipulations performed
+interventions.sham_details.sham_penetration_exact,interventions,159,100.0,did not penetrate the skin
+interventions.sham_details.sham_subtype_exact,interventions,159,100.0,non-insertive acupuncture treatment on non-acupoints using sham needles with blunt tips
+interventions.stimulation_type,interventions,159,100.0,manual acupuncture
+interventions.treatment_period_exact,interventions,159,100.0,2 weeks (5 sessions per week)
+neural_results,neural_results,159,100.0,"{'contrasts': [{'contrast_id': 'contrast_ReHo_FD_post_vs_pre', 'contrast_label_exact': 'ReHo changes in FD patients afte"
+neural_results.contrasts,neural_results,159,100.0,"[{'contrast_id': 'contrast_ReHo_FD_post_vs_pre', 'contrast_label_exact': 'ReHo changes in FD patients after acupuncture "
+neuroimaging_methods,neuroimaging_methods,159,100.0,"{'modality': 'rs-fMRI', 'scanner_manufacturer_model_exact': '3-T Siemens magnetic resonance scanner (Allegra; Siemens Me"
+neuroimaging_methods.TE_exact,neuroimaging_methods,159,100.0,TE = 30 ms (functional); TE = 2.26 ms (structural)
+neuroimaging_methods.TR_exact,neuroimaging_methods,159,100.0,TR = 2000 ms (functional); TR = 1900 ms (structural)
+neuroimaging_methods.analysis_software_exact,neuroimaging_methods,159,100.0,Statistical Parametric Mapping 5 (SPM5)
+neuroimaging_methods.coordinate_space_reported_exact,neuroimaging_methods,159,100.0,MNI (inferred from normalization to standard MNI template in SPM5)
+neuroimaging_methods.field_strength_tesla,neuroimaging_methods,159,100.0,3
+neuroimaging_methods.filtering_exact,neuroimaging_methods,159,100.0,bandpass filter (0.01 Hz < f < 0.08 Hz)
+neuroimaging_methods.global_signal_regression_exact,neuroimaging_methods,159,100.0,Nuisance covariates were regressed [including Friston 24 head motion parameters and white matter and cerebrospinal fluid
+neuroimaging_methods.modality,neuroimaging_methods,159,100.0,rs-fMRI
+neuroimaging_methods.motion_exclusion_exact,neuroimaging_methods,159,100.0,No subjects had head motions exceeding 1 mm of movement or 1° rotation in any direction
+neuroimaging_methods.multiple_comparison_correction_exact,neuroimaging_methods,159,100.0,family-wise error (FWE) correction at P < 0.05
+neuroimaging_methods.normalization_template_exact,neuroimaging_methods,159,100.0,standard MNI template in SPM5
+neuroimaging_methods.preprocessing_software_exact,neuroimaging_methods,159,100.0,Statistical Parametric Mapping 5 (SPM5)
+neuroimaging_methods.primary_neuroimaging_metrics,neuroimaging_methods,159,100.0,"['Regional homogeneity (ReHo)', 'Functional connectivity (seed-based voxelwise correlation)']"
+neuroimaging_methods.scan_duration_exact,neuroimaging_methods,159,100.0,"total volumes, 180"
+neuroimaging_methods.scanner_manufacturer_model_exact,neuroimaging_methods,159,100.0,"3-T Siemens magnetic resonance scanner (Allegra; Siemens Medical System, Germany)"
+neuroimaging_methods.sequence_exact,neuroimaging_methods,159,100.0,echo planar imaging (EPI) for functional; volumetric three-dimensional spoiled gradient recalled sequence for structural
+neuroimaging_methods.smoothing_exact,neuroimaging_methods,159,100.0,"anisotropic Gaussian kernel (full width at half-maximum (FWHM), 6 mm)"
+neuroimaging_methods.statistical_thresholds_exact,neuroimaging_methods,159,100.0,"['FWE correction at P < 0.05 (ReHo paired t-test)', 'FWE correction, P < 0.05 (functional connectivity paired t-test)']"
+neuroimaging_methods.voxel_size_exact,neuroimaging_methods,159,100.0,"30 continuous slices with a thickness of 5 mm each; field of view, 240 × 240 mm2; data matrix, 64 × 64"
+sensory_interoceptive_responses,sensory_interoceptive_responses,159,100.0,"[{'response_id': 'sens_deqi_FD', 'arm_id': 'arm_FD', 'condition_id': 'not_applicable', 'timepoint_exact': 'during acupun"
+study,study,159,100.0,"{'pmid': 'not_reported', 'doi': '10.1155/2013/975769', 'trial_registration': 'not_reported', 'title': 'Influence of Acup"
+study.article_type,study,159,100.0,Research Article
+study.blinding,study,159,100.0,"Acupuncturists were not blinded to the allocation for successfully performing acupuncture treatment. However, they were "
+study.disease_condition,study,159,100.0,Functional diarrhea (FD)
+study.doi,study,159,100.0,10.1155/2013/975769
+study.exclusion_criteria,study,159,100.0,(1) Patients had diarrhea caused by organic disorders; (2) they suffered psychosis or bleeding disorders; (3) they suffe
+study.first_author,study,159,100.0,Siyuan Zhou
+study.healthy_volunteers,study,159,100.0,True
+study.inclusion_criteria,study,159,100.0,(1) Patients were right-handed and aged between 20 and 30 years; (2) they matched the Rome III diagnosis criteria for FD
+study.journal,study,159,100.0,Evidence-Based Complementary and Alternative Medicine
+study.n_total_analyzed_clinical,study,159,100.0,36
+study.n_total_analyzed_neuroimaging,study,159,100.0,36
+study.n_total_enrolled,study,159,100.0,36
+study.n_total_randomized,study,159,100.0,90
+study.pmid,study,159,100.0,9482939
+study.population,study,159,100.0,Eighteen FD patients and eighteen age- and sex-matched right-handed healthy controls
+study.randomization,study,159,100.0,"Eligible patients were randomly assigned to acupuncture group (AG), sham-acupuncture group (SG), or waiting list group ("
+study.study_design,study,159,100.0,"Prospective pre-post fMRI study with two parallel groups (FD patients and healthy controls), both receiving active acupu"
+study.title,study,159,100.0,Influence of Acupuncture Stimulation on Cerebral Network in Functional Diarrhea
+study.trial_registration,study,159,100.0,ChiCTR1900025799
+study.year,study,159,100.0,2013
+adverse_events.adverse_event_exact,adverse_events,158,99.4,mild bruising around the acupoints
+adverse_events.arm_id,adverse_events,158,99.4,arm_tinnitus
+adverse_events.n_events,adverse_events,158,99.4,1
+adverse_events.n_participants,adverse_events,158,99.4,3
+adverse_events.relatedness_exact,adverse_events,158,99.4,unrelated to the treatment
+adverse_events.severity_exact,adverse_events,158,99.4,mild
+conditions.arm_id,conditions,158,99.4,arm_FD
+conditions.condition_id,conditions,158,99.4,cond_FD_pre
+conditions.condition_label_exact,conditions,158,99.4,Baseline (pre-acupuncture) resting-state fMRI scan - FD
+conditions.condition_type,conditions,158,99.4,pre_treatment
+conditions.dose_or_intensity_label,conditions,158,99.4,"continuous wave, 2Hz, 3mA"
+conditions.scan_context,conditions,158,99.4,Resting-state fMRI
+conditions.timepoint_exact,conditions,158,99.4,Before acupuncture treatment (baseline)
+interventions.treatment_rationale_given_exact,interventions,158,99.4,ST25 (Tianshu) are classical acupuncture points for diarrhea
+neural_results.contrasts.analysis_method_exact,neural_results,158,99.4,paired t-test (postacupuncture minus preacupuncture)
+neural_results.contrasts.analysis_scope,neural_results,158,99.4,whole_brain
+neural_results.contrasts.arm_1,neural_results,158,99.4,arm_FD
+neural_results.contrasts.arm_2,neural_results,158,99.4,arm_control
+neural_results.contrasts.condition_1,neural_results,158,99.4,cond_FD_post
+neural_results.contrasts.condition_2,neural_results,158,99.4,cond_FD_pre
+neural_results.contrasts.contrast_id,neural_results,158,99.4,contrast_ReHo_FD_post_vs_pre
+neural_results.contrasts.contrast_label_exact,neural_results,158,99.4,ReHo changes in FD patients after acupuncture (postacupuncture minus preacupuncture)
+neural_results.contrasts.contrast_type_exact,neural_results,158,99.4,within-group pre vs post
+neural_results.contrasts.coordinates_or_clusters,neural_results,158,99.4,"[{'row_id': 'ReHo_FD_dec_1', 'brain_region_exact': 'middle temporal gyrus', 'hemisphere_exact': 'not_reported', 'x': Non"
+neural_results.contrasts.correction_method_exact,neural_results,158,99.4,family-wise error (FWE) correction
+neural_results.contrasts.covariates_exact,neural_results,158,99.4,head motion parameters regressed out
+neural_results.contrasts.direction_exact,neural_results,158,99.4,both increase and decrease reported separately
+neural_results.contrasts.model_performance_results,neural_results,158,99.4,"[{'model_result_id': 'MR_01', 'model_type_exact': 'support vector regression (SVR) with linear kernel', 'features_exact'"
+neural_results.contrasts.n_analyzed,neural_results,158,99.4,18
+neural_results.contrasts.network_edges_or_connectivity_results,neural_results,158,99.4,"[{'edge_id': 'FC_FD_ACC_SMA', 'seed_or_node_1_exact': 'left ACC (anterior cingulate cortex)', 'node_2_exact': 'supplemen"
+neural_results.contrasts.neuroimaging_metric_exact,neural_results,158,99.4,Regional homogeneity (ReHo)
+neural_results.contrasts.result_level,neural_results,158,99.4,figure_only
+neural_results.contrasts.roi_definition_exact,neural_results,158,99.4,ACC area showing increased ReHo after acupuncture treatment in FD group
+neural_results.contrasts.seed_or_roi_exact,neural_results,158,99.4,left ACC (anterior cingulate cortex)
+neural_results.contrasts.statistical_model_exact,neural_results,158,99.4,paired t-test
+neural_results.contrasts.thresholding_method_exact,neural_results,158,99.4,FWE correction at P < 0.05
+neural_results.contrasts.timepoint_exact,neural_results,158,99.4,post-treatment vs baseline
+arms.arm_id,arms,157,98.7,arm_FD
+arms.arm_label_exact,arms,157,98.7,Functional diarrhea
+arms.arm_type_coded,arms,157,98.7,verum_acupuncture
+arms.dropouts,arms,157,98.7,6 excluded as acute tinnitus patients; 10 withdrew consent
+arms.n_analyzed_clinical,arms,157,98.7,18
+arms.n_assigned,arms,157,98.7,18
+arms.n_completed,arms,157,98.7,18
+arms.n_analyzed_neuroimaging,arms,156,98.1,18
+expectancy_blinding_credibility.arm_id,expectancy_blinding_credibility,152,95.6,all_arms
+expectancy_blinding_credibility.condition_id,expectancy_blinding_credibility,152,95.6,phnt_acupuncture_run
+expectancy_blinding_credibility.construct,expectancy_blinding_credibility,152,95.6,expectancy
+expectancy_blinding_credibility.instrument_name_exact,expectancy_blinding_credibility,152,95.6,James blinding index
+expectancy_blinding_credibility.measure_id,expectancy_blinding_credibility,152,95.6,expect_not_assessed
+expectancy_blinding_credibility.n_analyzed,expectancy_blinding_credibility,152,95.6,74
+expectancy_blinding_credibility.reporting_format,expectancy_blinding_credibility,152,95.6,count
+expectancy_blinding_credibility.statistical_result_exact,expectancy_blinding_credibility,152,95.6,James blinding index = .58; upper bound of 95% CI = .70 (> .5)
+expectancy_blinding_credibility.timepoint_exact,expectancy_blinding_credibility,152,95.6,baseline
+expectancy_blinding_credibility.value_exact,expectancy_blinding_credibility,152,95.6,"AG: Yes 8(29.63%), No 19(70.37%); SG: Yes 7(28.00%), No 18(72.00%); WG: Yes 2(9.10%), No 20(90.91%)"
+interventions.non_acupoint_locations_exact,interventions,151,95.0,"['NA1', 'NA2', 'NA3', 'NA4', 'NA5', 'NA6', 'NA7']"
+sensory_interoceptive_responses.arm_id,sensory_interoceptive_responses,150,94.3,arm_FD
+sensory_interoceptive_responses.between_group_difference_exact,sensory_interoceptive_responses,150,94.3,p<0.01
+sensory_interoceptive_responses.condition_id,sensory_interoceptive_responses,150,94.3,cond_tinnitus_post
+sensory_interoceptive_responses.instrument_name_exact,sensory_interoceptive_responses,150,94.3,Visual Analogue Scale (VAS)
+sensory_interoceptive_responses.item_or_subscale_exact,sensory_interoceptive_responses,150,94.3,"Deqi sensations: soreness, numbness, distention, and heaviness"
+sensory_interoceptive_responses.n_analyzed,sensory_interoceptive_responses,150,94.3,20
+sensory_interoceptive_responses.notes,sensory_interoceptive_responses,150,94.3,"Deqi was intended and described as an endpoint of manipulation, but quantitative measurement of achieved Deqi was not re"
+sensory_interoceptive_responses.p_value_exact,sensory_interoceptive_responses,150,94.3,<0.05
+sensory_interoceptive_responses.reporting_format,sensory_interoceptive_responses,150,94.3,narrative
+sensory_interoceptive_responses.response_domain,sensory_interoceptive_responses,150,94.3,deqi
+sensory_interoceptive_responses.response_id,sensory_interoceptive_responses,150,94.3,sens_deqi_FD
+sensory_interoceptive_responses.statistical_test_exact,sensory_interoceptive_responses,150,94.3,one sample t-test; REAL Vs. PHNT comparison shown in Table 1
+sensory_interoceptive_responses.timepoint_exact,sensory_interoceptive_responses,150,94.3,during acupuncture sessions
+sensory_interoceptive_responses.value_exact,sensory_interoceptive_responses,150,94.3,"soreness, numbness, distention, and heaviness (intended; achieved described as Deqi)"
+sensory_interoceptive_responses.within_group_change_exact,sensory_interoceptive_responses,150,94.3,"Comparison between different time points: F = 4.128, P = 0.007"
+clinical_behavioral_outcomes.analysis_population_exact,clinical_behavioral_outcomes,134,84.3,14 chronic tinnitus patients who completed 12 sessions
+clinical_behavioral_outcomes.arm_id,clinical_behavioral_outcomes,134,84.3,arm_FD
+clinical_behavioral_outcomes.between_group_difference_exact,clinical_behavioral_outcomes,134,84.3,"significantly more frequent defecations vs HC, P = 0.000"
+clinical_behavioral_outcomes.condition_id,clinical_behavioral_outcomes,134,84.3,cond_FD_pre
+clinical_behavioral_outcomes.effect_size_reported_exact,clinical_behavioral_outcomes,134,84.3,ES=0.770 (AG vs. SG)
+clinical_behavioral_outcomes.n_analyzed,clinical_behavioral_outcomes,134,84.3,18
+clinical_behavioral_outcomes.n_responders,clinical_behavioral_outcomes,134,84.3,23
+clinical_behavioral_outcomes.notes,clinical_behavioral_outcomes,134,84.3,Baseline comparison between FD and HC
+clinical_behavioral_outcomes.outcome_domain,clinical_behavioral_outcomes,134,84.3,symptom_severity
+clinical_behavioral_outcomes.outcome_id,clinical_behavioral_outcomes,134,84.3,clin_FD_defec_pre
+clinical_behavioral_outcomes.outcome_measure_exact,clinical_behavioral_outcomes,134,84.3,times of defecation throughout the second week
+clinical_behavioral_outcomes.p_value_exact,clinical_behavioral_outcomes,134,84.3,0.000
+clinical_behavioral_outcomes.reporting_format,clinical_behavioral_outcomes,134,84.3,mean ± SD
+clinical_behavioral_outcomes.responder_definition_exact,clinical_behavioral_outcomes,134,84.3,proportion of patients with a decrease of more than 2 points on the NRS at week 4 compared with baseline
+clinical_behavioral_outcomes.scale_name_exact,clinical_behavioral_outcomes,134,84.3,Defecation frequency (times per week)
+clinical_behavioral_outcomes.statistical_test_exact,clinical_behavioral_outcomes,134,84.3,two independent-sample t-tests or Mann-Whitney U test
+clinical_behavioral_outcomes.timepoint_exact,clinical_behavioral_outcomes,134,84.3,Baseline (pre-acupuncture)
+clinical_behavioral_outcomes.value_exact,clinical_behavioral_outcomes,134,84.3,16.17 ± 5.28
+clinical_behavioral_outcomes.within_group_change_exact,clinical_behavioral_outcomes,134,84.3,decreased from 16.17 ± 5.28 to 9.78 ± 3.75
+neural_results.contrasts.coordinates_or_clusters.atlas_label_exact,neural_results,131,82.4,dorsolateral prefrontal cortex (DLPFC)
+neural_results.contrasts.coordinates_or_clusters.brain_region_exact,neural_results,131,82.4,middle temporal gyrus
+neural_results.contrasts.coordinates_or_clusters.brodmann_area_exact,neural_results,131,82.4,BA 47
+neural_results.contrasts.coordinates_or_clusters.cluster_extent_unit_exact,neural_results,131,82.4,voxels
+neural_results.contrasts.coordinates_or_clusters.cluster_size_exact,neural_results,131,82.4,23 voxels
+neural_results.contrasts.coordinates_or_clusters.conversion_status_exact,neural_results,131,82.4,
+neural_results.contrasts.coordinates_or_clusters.coordinate_source,neural_results,131,82.4,text
+neural_results.contrasts.coordinates_or_clusters.coordinate_space_inference_note,neural_results,131,82.4,MNI likely based on SPM5 normalization to MNI template
+neural_results.contrasts.coordinates_or_clusters.coordinate_space_reported_exact,neural_results,131,82.4,MNI
+neural_results.contrasts.coordinates_or_clusters.coordinate_triplet_exact,neural_results,131,82.4,"-45, 18, 48"
+neural_results.contrasts.coordinates_or_clusters.direction_exact,neural_results,131,82.4,decrease
+neural_results.contrasts.coordinates_or_clusters.hemisphere_exact,neural_results,131,82.4,left
+neural_results.contrasts.coordinates_or_clusters.p_value_exact,neural_results,131,82.4,P < 0.05 FWE corrected
+neural_results.contrasts.coordinates_or_clusters.peak_or_cluster_level,neural_results,131,82.4,not_specified
+neural_results.contrasts.coordinates_or_clusters.row_id,neural_results,131,82.4,ReHo_FD_dec_1
+neural_results.contrasts.coordinates_or_clusters.statistic_type_exact,neural_results,131,82.4,r
+neural_results.contrasts.coordinates_or_clusters.statistic_value_exact,neural_results,131,82.4,r = −0.6688
+neural_results.contrasts.coordinates_or_clusters.x,neural_results,131,82.4,-45
+neural_results.contrasts.coordinates_or_clusters.y,neural_results,131,82.4,18
+neural_results.contrasts.coordinates_or_clusters.z,neural_results,131,82.4,48
+neural_results.contrasts.network_edges_or_connectivity_results.correction_method_exact,neural_results,100,62.9,FWE correction
+neural_results.contrasts.network_edges_or_connectivity_results.direction_exact,neural_results,100,62.9,negatively correlated (decreased functional connectivity after acupuncture)
+neural_results.contrasts.network_edges_or_connectivity_results.edge_id,neural_results,100,62.9,FC_FD_ACC_SMA
+neural_results.contrasts.network_edges_or_connectivity_results.network_name_exact,neural_results,100,62.9,homeostatic afferent processing network
+neural_results.contrasts.network_edges_or_connectivity_results.node_2_exact,neural_results,100,62.9,supplementary motor area
+neural_results.contrasts.network_edges_or_connectivity_results.p_value_exact,neural_results,100,62.9,P < 0.05 FWE corrected
+neural_results.contrasts.network_edges_or_connectivity_results.seed_or_node_1_exact,neural_results,100,62.9,left ACC (anterior cingulate cortex)
+neural_results.contrasts.network_edges_or_connectivity_results.statistic_type_exact,neural_results,100,62.9,T
+neural_results.contrasts.network_edges_or_connectivity_results.statistic_value_exact,neural_results,100,62.9,-8.03
+neural_results.contrasts.network_edges_or_connectivity_results.value_exact,neural_results,100,62.9,"T = -8.03, P = 0.0000114"
+adverse_events.source_location,adverse_events,27,17.0,No adverse events section reported in paper
+arms.source_location,arms,27,17.0,"Methods Section 2.1, Table 1, Page 2 and 4"
+conditions.source_location,conditions,27,17.0,"Figure 1(b), Methods Section 2.4, Page 2-3"
+expectancy_blinding_credibility.source_location,expectancy_blinding_credibility,27,17.0,"page 5, Table 1"
+extraction_notes.source_location,extraction_notes,27,17.0,"Results Sections 3.3 and 3.4, Figures 2 and 4, Pages 4-6"
+funding_conflicts_registration.source_location,funding_conflicts_registration,27,17.0,"Conflict of Interests and Acknowledgments sections, Page 7"
+interventions.source_location,interventions,27,17.0,"Methods Section 2.2, Page 2"
+neural_results.contrasts.source_location,neural_results,27,17.0,"Results Section 3.3, Figure 2, Page 4-5"
+neuroimaging_methods.source_location,neuroimaging_methods,27,17.0,"Methods Sections 2.4, 2.6, 2.7, Page 2-3"
+sensory_interoceptive_responses.source_location,sensory_interoceptive_responses,27,17.0,"Methods Section 2.2, Page 2"
+study.source_location,study,27,17.0,"Abstract, Introduction, Methods Section 2.1, Page 1-2"
+clinical_behavioral_outcomes.source_location,clinical_behavioral_outcomes,23,14.5,"Table 1, Page 4"
+neural_results.contrasts.coordinates_or_clusters.source_location,neural_results,22,13.8,"Results Section 3.3, Page 4"
+neural_results.contrasts.model_performance_results.features_exact,neural_results,21,13.2,"right SPL fALFF (baseline), occupation (baseline), ODI (baseline), SF-36 for physical (baseline)"
+neural_results.contrasts.model_performance_results.model_result_id,neural_results,21,13.2,MR_01
+neural_results.contrasts.model_performance_results.model_type_exact,neural_results,21,13.2,support vector regression (SVR) with linear kernel
+neural_results.contrasts.model_performance_results.performance_metric_exact,neural_results,21,13.2,Pearson correlation coefficient (r) and root mean square error (RMSE)
+neural_results.contrasts.model_performance_results.performance_value_exact,neural_results,21,13.2,"r = .420, RMSE = 9.298"
+neural_results.contrasts.model_performance_results.statistical_significance_exact,neural_results,21,13.2,P = .037
+neural_results.contrasts.model_performance_results.target_outcome_exact,neural_results,21,13.2,4-week ODI values in AG
+neural_results.contrasts.model_performance_results.validation_method_exact,neural_results,21,13.2,leave-one-out cross-validation (LOOCV)
+neural_results.contrasts.network_edges_or_connectivity_results.source_location,neural_results,15,9.4,"Results Section 3.4, Figure 4, Page 4 and 6"
+neural_results.contrasts.notes,neural_results,12,7.5,Table 8 lists two regions; however Figure 6 caption also mentions 'Right angular gyrus' as a third region with increased
+interventions.non_acupuncture_locations_exact,interventions,8,5.0,"['needle-insertion point (ankle zone 5 of the left leg, crosspoint of three-finger width above the lateral malleolus and"
+expectancy_blinding_credibility.notes,expectancy_blinding_credibility,4,2.5,"Expectancy, credibility, blinding success, and allocation guessing were not assessed or reported in this study"
+neural_results.contrasts.model_performance_results.source_location,neural_results,4,2.5,"page 5-6, Primary Outcome Prediction Results in the AG; Figure 5B"
+neuroimaging_methods.additional_details,neuroimaging_methods,4,2.5,"{'dual_wavelengths': '760 nm and 850 nm', 'sampling_rate': '7.81 Hz', 'channels': '18 channels (8 source and 8 detector "
+adverse_events.notes,adverse_events,3,1.9,Adverse events were not reported in this study
+neural_results.contrasts.narrative_result,neural_results,3,1.9,The periodic parameters of delta frequency band did not significant differ between three states (periodic power: p = 0.9
+neuroimaging_methods.additional_details.sampling_rate,neuroimaging_methods,3,1.9,7.81 Hz
+interventions.non_acupuncture_point_locations_exact,interventions,2,1.3,
+neuroimaging_methods.additional_details.channels,neuroimaging_methods,2,1.3,18 channels (8 source and 8 detector LEDs)
+neuroimaging_methods.additional_details.source_detector_distance,neuroimaging_methods,2,1.3,approximately 3 cm
+neuroimaging_methods.additional_notes,neuroimaging_methods,2,1.3,48 measurement channels; 15 light sources and 16 detectors; source-detector distance 3 cm; sampling rate 9 Hz; spatial r
+arms.n_analyzed_neuroimaging_block,arms,1,0.6,14
+arms.n_analyzed_neuroimaging_rest,arms,1,0.6,15
+conditions.scan_content,conditions,1,0.6,"third run of fMRI (Run 3), first stimulation block; 2 minutes stimulation"
+extraction_notes.note_id,extraction_notes,1,0.6,note_non_acupoints
+interventions.moxibustion_composition_exact,interventions,1,0.6,"herbal disc composed of Monkshood, Coptis chinensis, Radix aucklandiae, Carthamus tinctorius, Salvia and Angelica sinens"
+interventions.treatment_rationale_exact,interventions,1,0.6,Additional acupoints were selected according to meridian diagnosis and the patient's symptoms
+neural_results.contrasts.additional_notes,neural_results,1,0.6,"Abstract states LPFC~LPFC, RPFC~RPFC, LMC~LMC, and RMC~RMC all significantly lower in combined vs acupuncture; results s"
+neural_results.contrasts.coordinates_or_clusters.notes,neural_results,1,0.6,This row appears to be a duplicate of AD_sham_inc_01 in the original Table 2; reproduced faithfully from table
+neuroimaging_methods.additional_acquisition_parameters,neuroimaging_methods,1,0.6,"{'matrix_size_exact': '512 × 512', 'FOV_exact': '25 mm × 25 mm', 'slice_thickness_exact': '4.0 mm', 'number_of_excitatio"
+neuroimaging_methods.additional_acquisition_parameters.ASL_labeling_scheme_exact,neuroimaging_methods,1,0.6,pulsed arterial spin-labeling (PASL) approach; arterial blood water is magnetically labeled by a short radiofrequency pu
+neuroimaging_methods.additional_acquisition_parameters.FOV_exact,neuroimaging_methods,1,0.6,25 mm × 25 mm
+neuroimaging_methods.additional_acquisition_parameters.matrix_size_exact,neuroimaging_methods,1,0.6,512 × 512
+neuroimaging_methods.additional_acquisition_parameters.number_of_excitations_exact,neuroimaging_methods,1,0.6,3
+neuroimaging_methods.additional_acquisition_parameters.post_label_delay_exact,neuroimaging_methods,1,0.6,"1,500 ms"
+neuroimaging_methods.additional_acquisition_parameters.slice_thickness_exact,neuroimaging_methods,1,0.6,4.0 mm
+neuroimaging_methods.additional_details.FOV_rsfmri,neuroimaging_methods,1,0.6,240 mm × 240 mm
+neuroimaging_methods.additional_details.FOV_t1,neuroimaging_methods,1,0.6,256 mm × 256 mm
+neuroimaging_methods.additional_details.MVAR_model,neuroimaging_methods,1,0.6,multivariable autoregressive (MVAR) model; order p calculated by Akaike information criterion; coefficients obtained wit
+neuroimaging_methods.additional_details.artifact_removal,neuroimaging_methods,1,0.6,independent component analysis (ICA) for removing EOG artifacts; artifact components are automatically identified and re
+neuroimaging_methods.additional_details.channel_mapping,neuroimaging_methods,1,0.6,"Channels 1-9 signify left hemisphere; Channels 10-18 signify right hemisphere; specifically channels F1, F3, AF3, AF7, F"
+neuroimaging_methods.additional_details.correlation_method,neuroimaging_methods,1,0.6,Pearson correlation coefficients between mean BOLD time course from seed region and all other brain voxels; converted to
+neuroimaging_methods.additional_details.data_format_conversion,neuroimaging_methods,1,0.6,"raw NIRS light intensity converted to optical density signal; filtered optical density converted to oxy-Hb, deoxy-Hb, an"
+neuroimaging_methods.additional_details.detectors,neuroimaging_methods,1,0.6,8
+neuroimaging_methods.additional_details.dual_wavelengths,neuroimaging_methods,1,0.6,760 nm and 850 nm
+neuroimaging_methods.additional_details.electrode_placement,neuroimaging_methods,1,0.6,international 10-20 system
+neuroimaging_methods.additional_details.fc_computation,neuroimaging_methods,1,0.6,hemodynamic changes between pre- and post-treatment converted into correlation coefficients indicating strength of funct
+neuroimaging_methods.additional_details.first_volumes_removed,neuroimaging_methods,1,0.6,10
+neuroimaging_methods.additional_details.flip_angle_rsfmri,neuroimaging_methods,1,0.6,90°
+neuroimaging_methods.additional_details.flip_angle_t1,neuroimaging_methods,1,0.6,9°
+neuroimaging_methods.additional_details.glm_used,neuroimaging_methods,1,0.6,generalized linear model (GLM)
+neuroimaging_methods.additional_details.group_level_model,neuroimaging_methods,1,0.6,mixed effect linear models
+neuroimaging_methods.additional_details.hemoglobin_calculation,neuroimaging_methods,1,0.6,modified Beer-Lambert law
+neuroimaging_methods.additional_details.hemoglobin_conversion,neuroimaging_methods,1,0.6,modified Beer-Lambert law
+neuroimaging_methods.additional_details.matrix_rsfmri,neuroimaging_methods,1,0.6,240 × 240
+neuroimaging_methods.additional_details.matrix_t1,neuroimaging_methods,1,0.6,256 × 256
+neuroimaging_methods.additional_details.normality_test,neuroimaging_methods,1,0.6,Shapiro-Wilk test
+neuroimaging_methods.additional_details.nuisance_regressors,neuroimaging_methods,1,0.6,"Six head motion parameters, signals of the cerebrospinal fluid (CSF), and signals from white matter"
+neuroimaging_methods.additional_details.number_of_channels,neuroimaging_methods,1,0.6,32
+neuroimaging_methods.additional_details.participant_position,neuroimaging_methods,1,0.6,"supine, eyes closed, relaxed, 3-5 min rest before recording"
+neuroimaging_methods.additional_details.probe_placement,neuroimaging_methods,1,0.6,prefrontal cortex; array at the bottom coincides with the line of T3-Fpz-T4 (International 10-20 system reference points
+neuroimaging_methods.additional_details.reference,neuroimaging_methods,1,0.6,computed average reference
+neuroimaging_methods.additional_details.seed_definition,neuroimaging_methods,1,0.6,WFU Pickatlas Tool used to define the bilateral hippocampus
+neuroimaging_methods.additional_details.signal_analyzed,neuroimaging_methods,1,0.6,HbO signal alone (HbO signal changes account for 73-79% of total cortical hemoglobin concentration changes measured by f
+neuroimaging_methods.additional_details.sources,neuroimaging_methods,1,0.6,10
+neuroimaging_methods.additional_details.wavelengths,neuroimaging_methods,1,0.6,841 nm and 752 nm
+neuroimaging_methods.additional_methods,neuroimaging_methods,1,0.6,"{'eeg_system': 'international 10-20 standard electrodes system, including 60 electrodes evenly distributed along the sca"
+neuroimaging_methods.additional_methods.artifact_correction,neuroimaging_methods,1,0.6,ICA for EOG artifacts; channels with correlation >50% with EOG electrodes subtracted; artifactual channels interpolated;
+neuroimaging_methods.additional_methods.classifier,neuroimaging_methods,1,0.6,support vector machine (SVM) for acupuncture manipulation decoding
+neuroimaging_methods.additional_methods.eeg_system,neuroimaging_methods,1,0.6,"international 10-20 standard electrodes system, including 60 electrodes evenly distributed along the scalp and 4 electro"
+neuroimaging_methods.additional_methods.fooof_parameters,neuroimaging_methods,1,0.6,"peak width limits between 0.5 and 12, peak threshold of 2.0, 'fixed' background mode"
+neuroimaging_methods.additional_methods.pearson_correlation,neuroimaging_methods,1,0.6,used for aperiodic slope vs offset correlation analysis (both parameters confirmed normally distributed)
+neuroimaging_methods.additional_methods.psd_frequency_range,neuroimaging_methods,1,0.6,"0.5-45 Hz, 0.5 Hz frequency resolution"
+neuroimaging_methods.additional_methods.psd_method,neuroimaging_methods,1,0.6,Classical Welch method; Hamming window of 1 second with 50% overlap
+neuroimaging_methods.additional_methods.sampling_rate,neuroimaging_methods,1,0.6,1000 Hz
+neuroimaging_methods.additional_methods_notes,neuroimaging_methods,1,0.6,Path difference factor corrected within the range of -6 to 6; modified Beer-Lambert law used to calculate concentration 
+neuroimaging_methods.preprocessing_steps_exact,neuroimaging_methods,1,0.6,image realignment using rigid-body transformation algorithm to correct for head motion artifacts; spatial normalization 
+study.notes,study,1,0.6,"The acupuncture group dataset is from a previously published study (Wang et al., 2014). Twenty-eight right-handed subjec"

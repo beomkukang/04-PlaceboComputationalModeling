@@ -1,0 +1,20 @@
+model,variable,coefficient,p_value
+additive,Intercept,0.10713544719287461,0.8083502283194244
+additive,C(outcome_domain)[T.function],0.8034850521229743,0.09524106584096982
+additive,C(outcome_domain)[T.mood],0.5361813816103325,0.24938866817587035
+additive,C(outcome_domain)[T.pain],1.355890259598836,0.0033236218152220692
+additive,C(outcome_domain)[T.quality_of_life],0.686797693931616,0.16943517703817879
+additive,C(outcome_domain)[T.symptom_severity],0.7086339124305167,0.1145813532139136
+additive,Afferent_Input_Index,0.7049601377821709,0.02396516342294898
+additive,Cognitive_Anchoring,-0.3044444364918001,0.20432172635185064
+additive,Group Var,1.2331128524263444,0.02178879432623336
+interaction,Intercept,0.11873804316285883,0.7881368961406257
+interaction,C(outcome_domain)[T.function],0.7814699921835061,0.10528863137752938
+interaction,C(outcome_domain)[T.mood],0.499845374047305,0.2871586170451901
+interaction,C(outcome_domain)[T.pain],1.3158376736945887,0.004847836425089569
+interaction,C(outcome_domain)[T.quality_of_life],0.6556855568484296,0.19186219424773887
+interaction,C(outcome_domain)[T.symptom_severity],0.6737461302968196,0.13691756442483866
+interaction,Afferent_Input_Index,0.6549417799671876,0.043311079095959194
+interaction,Cognitive_Anchoring,-0.3165729110605073,0.1880572286914337
+interaction,Afferent_Input_Index:Cognitive_Anchoring,0.3318495843809099,0.579458042992828
+interaction,Group Var,1.2303194486291213,0.021023072154369576

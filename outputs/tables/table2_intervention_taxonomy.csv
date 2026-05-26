@@ -1,0 +1,11 @@
+arm_type,electroacupuncture,intradermal_acupuncture,laser_acupuncture,manual_acupuncture,moxibustion,non_acupuncture,other,phantom_acupuncture,scalp_acupuncture,sham_needling,unclear,visual_acupuncture,All
+active_control,0,0,0,2,0,6,2,0,0,0,0,0,10
+healthy_control,1,1,0,14,0,1,8,0,0,0,0,0,25
+medication,0,0,0,0,0,4,0,0,0,0,0,0,4
+other,1,1,0,11,0,3,2,0,0,0,0,1,19
+placebo,0,0,0,0,0,2,1,0,0,0,0,0,3
+sham_acupuncture,0,0,3,1,0,3,0,3,0,58,0,0,68
+usual_care,0,0,0,0,0,2,0,0,0,0,0,0,2
+verum_acupuncture,45,3,3,115,2,2,2,0,3,2,1,0,178
+waitlist,0,0,0,0,0,4,6,0,0,0,0,0,10
+All,47,5,6,143,2,27,21,3,3,60,1,1,319

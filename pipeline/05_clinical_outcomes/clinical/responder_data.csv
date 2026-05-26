@@ -1,0 +1,38 @@
+pmid,arm_id,arm_type,outcome_measure,responder_definition,n_responders,n_analyzed,timepoint
+30914919,arm_responder,other,HF norm (change from baseline),mean of sum values from arm and foot itch intensity at H1 using peak value in acupuncture condition,10.0,10,A1 (0–5 min after acupuncture)
+32194493,arm_acupuncture,verum_acupuncture,responder rate (≥50% reduction in number of migraine days),at least a 50% reduction in the number of migraine days,19.0,41,after 4 weeks of acupuncture treatment (end of week 8)
+35312785,not_applicable,,Responder rate (NRS decreased by more than 50% relative to baseline),Patients whose headache intensity on the NRS decreased by more than 50% relative to baseline,8.0,20,After 3 months therapy
+35464313,arm_higher_response,verum_acupuncture,SID score improvements,higher response group: greater than or equal to 2 points improvement on SID,,66,post-treatment
+35464313,arm_lower_response,verum_acupuncture,SID score improvements,lower response group: less than 2 points improvement on SID,,49,post-treatment
+35965072,arm_FD_acupuncture,verum_acupuncture,Acupuncture responder status,SID score improvement ≥ 2 points after treatment,51.0,89,post-treatment (4 weeks)
+35965072,arm_responders,verum_acupuncture,SID improvements,SID score improvement ≥ 2 points,39.0,39,post-treatment (4 weeks)
+35965072,arm_non_responders,verum_acupuncture,SID improvements,SID score improvement < 2 points,,26,post-treatment (4 weeks)
+35968386,not_applicable,,Recognition index of time during probe test,time spent with the novel object/time spent with both objects,,10,2-days post-treatment (probe test)
+35968386,not_applicable,,Recognition index of number during probe test,number of exploring the novel object / numbers of exploring both objects × 100,,10,2-days post-treatment (probe test)
+37274194,arm_MCID,other,MCID for FMA,ΔFMA-UE≥5 or ΔFMA-LE≥6,28.0,28,2-week follow-up
+37274194,arm_NMCID,other,N-MCID for FMA,ΔFMA-UE<5 or ΔFMA-LE<6,,21,2-week follow-up
+37584456,arm_training_test,verum_acupuncture,Symptom Index of Dyspepsia (SID),improvement in SID score of at least two points after treatment,51.0,89,baseline
+37584456,arm_validation,verum_acupuncture,Symptom Index of Dyspepsia (SID),improvement in SID score of at least two points after treatment,35.0,58,baseline
+37584456,arm_training_test,verum_acupuncture,Baseline SID score as predictive feature,SID improvement ≥2 points,,89,baseline
+38585348,EG,verum_acupuncture,THI scores,score decreased by ≥7 points before and after treatment was regarded as effective treatment; ≥20 points was regarded as obvious effect; disappearance of tinnitus symptoms was regarded as recovery,,34,Post-treatment
+38585348,EG,verum_acupuncture,Total effective rate of ST patients treated with electroacupuncture,score decreased by ≥7 points before and after treatment was regarded as effective treatment; ≥20 points was regarded as obvious effect; disappearance of tinnitus symptoms was regarded as recovery,30.0,34,Post-treatment
+38651018,arm_AD_real,verum_acupuncture,high responder vs low responder classification,"A patient was classified as a high responder if their SCORAD total score decreased by more than 8.7 on a scale of 0 to 10, according to the minimal clinically important difference",11.0,27,after real acupuncture treatment
+39089662,AG,verum_acupuncture,VAS for leg pain,minimal clinically important improvement: 15 mm in VAS,,25,4-week minus baseline
+39089662,AG,verum_acupuncture,ODI (oswestry disability index),minimal clinically important improvement: 7 points in ODI,,25,4-week minus baseline
+40634927,AG,verum_acupuncture,response rate,proportion of patients with a decrease of more than 2 points on the NRS at week 4 compared with baseline,23.0,27,week 4
+40634927,SG,sham_acupuncture,response rate,proportion of patients with a decrease of more than 2 points on the NRS at week 4 compared with baseline,13.0,25,week 4
+40634927,WG,waitlist,response rate,proportion of patients with a decrease of more than 2 points on the NRS at week 4 compared with baseline,3.0,22,week 4
+40847552,not_applicable,,acupuncture responder classification,"patients with a VAS score improvement of ≥21% after acupuncture treatment were classified as 'acupuncture responders', while those with an improvement of <21% were classified as 'acupuncture non-responders'",48.0,80,post-treatment
+40950284,arm_conv,active_control,Therapeutic efficacy categorization,Clinical recovery: total score of 20; markedly effective: total score of 17-19; effective: total score of 14-16; ineffective: total score < 14,,100,After three weeks of treatment
+40950284,arm_yyhat,verum_acupuncture,Therapeutic efficacy categorization,Clinical recovery: total score of 20; markedly effective: total score of 17-19; effective: total score of 14-16; ineffective: total score < 14,,102,After three weeks of treatment
+40950284,arm_conv,active_control,Perception of Treatment Effectiveness,very satisfied: 4-6 points; average: 2-4 points; dissatisfied: 0-2 points,,100,After treatment
+40950284,arm_yyhat,verum_acupuncture,Perception of Treatment Effectiveness,very satisfied: 4-6 points; average: 2-4 points; dissatisfied: 0-2 points,,102,After treatment
+40974865,BC_HF,verum_acupuncture,Positive response to acupuncture (more than 20% reduction in HFCS after treatment),more than 20 % reduction in HFCS after treatment,17.0,20,post-treatment (after 5 weeks of acupuncture)
+41069516,arm_BP,verum_acupuncture,Clinical efficacy based on H-B scale,"Total effective rate: Cured + Markedly effective + Effective (H-B grade I, II, or III); Ineffective: H-B grades IV–VI",53.0,55,After treatment (day 28)
+41591775,arm_real_acu,verum_acupuncture,≥50% Reduction in MMDs during wk 1 to 4,≥50% reduction in MMDs,,60,weeks 1 to 4
+41591775,arm_sham_acu,sham_acupuncture,≥50% Reduction in MMDs during wk 1 to 4,≥50% reduction in MMDs,,60,weeks 1 to 4
+41999225,AG,verum_acupuncture,Treatment response rate — GABRB3 rs4906902 recessive model (AG/GG vs. AA),"Simultaneous meeting of: (1) absolute improvement in VAS ≥2 points, or relative improvement in VAS ≥40%; AND (2) absolute improvement in WOMAC function ≥6 points, or relative improvement in WOMAC function ≥26%",31.0,54,after 2-week intervention
+41999225,SC,medication,Treatment response rate — GABRB3 rs4906902 genetic models,"Simultaneous meeting of: (1) absolute improvement in VAS ≥2 points, or relative improvement in VAS ≥40%; AND (2) absolute improvement in WOMAC function ≥6 points, or relative improvement in WOMAC function ≥26%",21.0,28,after 2-week intervention
+41999225,PB,placebo,Treatment response rate — GABRB3 rs4906902 genetic models,"Simultaneous meeting of: (1) absolute improvement in VAS ≥2 points, or relative improvement in VAS ≥40%; AND (2) absolute improvement in WOMAC function ≥6 points, or relative improvement in WOMAC function ≥26%",9.0,29,after 2-week intervention
+41999225,WL,waitlist,Treatment response rate — GABRB3 rs4906902 genetic models,"Simultaneous meeting of: (1) absolute improvement in VAS ≥2 points, or relative improvement in VAS ≥40%; AND (2) absolute improvement in WOMAC function ≥6 points, or relative improvement in WOMAC function ≥26%",13.0,27,after 2-week intervention
+41999225,AG,verum_acupuncture,Clinical response rate to acupuncture,"Simultaneous meeting of: (1) absolute improvement in VAS ≥2 points, or relative improvement in VAS ≥40%; AND (2) absolute improvement in WOMAC function ≥6 points, or relative improvement in WOMAC function ≥26%",31.0,54,after 2-week intervention

@@ -1,0 +1,9 @@
+finding,evidence_level,basis,sensitivity_robust
+Sham acupuncture produces detectable neural convergence,Strong,"SDM-PSI meta-analysis with >= 10 studies, FWE-corrected",Yes
+Verum > Sham neural activation difference,Moderate,"SDM-PSI contrast analysis, consistent direction",Yes
+Afferent Input Index predicts neural response magnitude,Moderate,"Meta-regression, significant after multiple comparison correction",Partial
+Cognitive Appraisal Index modulates sham response,Moderate,Component interaction model preferred by AIC/BIC,Partial
+Perturbation-neural representational alignment,Preliminary,"RSA Mantel test, significant but small effect",Not fully tested
+Sham heterogeneity by penetration depth,Moderate,Subgroup differences in afferent index and neural response,Yes
+Clinical responsiveness varies by disease domain,Preliminary,Descriptive analysis; limited n per domain,Not applicable
+Deqi bridging between afferent input and clinical outcome,Preliminary,Mediation model; indirect effect CI excludes zero,Partial

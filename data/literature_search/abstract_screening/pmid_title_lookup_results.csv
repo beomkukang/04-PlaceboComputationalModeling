@@ -1,0 +1,176 @@
+record_id,original_title,original_pmid,original_status,search_pmids_found,best_match_pmid,best_match_title,title_match_score,lookup_outcome,new_abstract_found
+DUP_00258,Acupuncture was associated with improved functional connectivity of the left hippocampal perceptual subregion in amnestic mild cognitive impairment,41806186.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01933,Understanding the multifaceted brain mechanisms of acupuncture based on neuroimaging studies: findings and insights from meta-analyses,40904730.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00618,"Corrigendum to 'Multivariate resting-state functional connectivity predicts responses to real and sham acupuncture treatment in chronic low back pain' Neuroimage Clinical, 23, 2019, 101885",31791913.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00181,Acupuncture is not a unique explanation for functional magnetic resonance imaging finding,27405901.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00101,Acupuncture and brain imaging: what do we have to consider?,23086979.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00610,Correspondence on ''functional magnetic resonance imaging activation of the brain in children: real acupoint versus sham acupoint'',21285044.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00621,Cortical activation by Yamamoto new scalp acupuncture in the treatment of patients with a stroke: a sham-controlled study using functional MRI,20923941.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00609,Correspondence on ''effect of acupuncture on the brain in children with spastic cerebral palsy using functional neuroimaging (fMRI)'',19805828.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01327,Needling sensation: explanation of incongruent conclusion drawn from acupuncture FMRI study,17309370.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01606,Retraction. New findings of the correlation between acupoints and corresponding brain cortices using functional MRI,16790551.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01061,Functional magnetic resonance imaging of real and sham acupuncture. Noninvasively measuring cortical activation from acupuncture,15825843.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01649,Somatotopic representation of acupoints in human primary somatosensory cortex: an FMRI study,16543703.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01732,The application of fMRI to basic experiments in acupuncture. The effects of stimulus points and content on cerebral activities and responses,15825845.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01519,[Progress of the application of functional magnetic resonance imaging in research on mechanism of acupuncture],15609613.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00236,Acupuncture: the search for biologic evidence with functional magnetic resonance imaging and positron emission tomography techniques,12230898.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01118,"[Hui KK, Liu J, Makris N, Gollub RL, CHen AJ, Moore CI, Kennedy DN, Rosen BR, Kwong KK: Acupuncture modulates the limbic system and subcortical gray structures of the human brain: Evidence from fMRI studies in normal subjects. Hum Brain Mapp 2000; 9: 13-25]",11203472.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_01072,Functional MRI explores mysteries of acupuncture,10539699.0,no_abstract_in_pubmed,,,,0.0,already_has_pmid_no_abstract,False
+DUP_00347,Application and exploration of fNIRS in brain function mechanism of acupuncture against insomnia,,no_pmid,,,,0.0,no_results,False
+DUP_00550,Clinical Efficacy of Electroacupuncture for Generalized Anxiety Disorder and Its Central Mechanism Based on Neuroimaging Changes,,no_pmid,,,,0.0,no_results,False
+DUP_01247,Mechanism of Acupuncture at GB34 in Modulating Brain Functional Networks with Post-Stroke Hemiplegia: An Interpretable Graph Neural Network Study,,no_pmid,,,,0.0,no_results,False
+DUP_01766,The Effect of Acupuncture Therapy on Cognitive Function in Post-COVID-19 Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Study With Multimodal Magnetic Resonance Imaging,,no_pmid,,,,0.0,no_results,False
+DUP_01767,The Effect of Acupuncture Treatment on Cognitive Functions and Brain Networks for Long COVID: a Multimodal Magnetic Resonance Imaging Study,,no_pmid,,,,0.0,no_results,False
+DUP_00184,Acupuncture Modulates Brain Connectivity and Outcomes of Pain and Vaso-occlusive Crisis in Patients with Sickle Cell Disease,,no_pmid,,,,0.0,no_results,False
+DUP_00240,Acupuncture Therapy for Insomnia: An Alternative Therapy for the Modulation of Brain Functions,,no_pmid,,,,0.0,no_results,False
+DUP_00355,Application of high-resolution magnetic resonance imaging (MRI) in the evaluation of acupuncture effects in traditional Chinese medicine,,no_pmid,40976398,40976398,Application of high-resolution magnetic resonance imaging (MRI) in the evaluation of acupuncture effects in traditional Chinese medicine.,1.0,pmid_found_with_abstract,True
+DUP_00370,Assessing the Modulatory Effects of tDCS and Acupuncture on Cerebral Blood Flow in Chronic Low Back Pain Using Arterial Spin Labeling Perfusion Imaging,,no_pmid,40149782,40149782,Assessing the Modulatory Effects of tDCS and Acupuncture on Cerebral Blood Flow in Chronic Low Back Pain Using Arterial Spin Labeling Perfusion Imaging.,1.0,pmid_found_with_abstract,True
+DUP_00579,"Comparison of two electroacupuncture regimens on symptoms and brain structures in breast cancer survivors: A randomized, controlled trial.",,no_pmid,,,,0.0,no_results,False
+DUP_00786,Effect of acupuncture treatment for upper limb on cortical activation and functional connectivity: A fNIRS study,,no_pmid,40529436,40529436,Modulation of cerebral cortex activity by acupuncture combined with continuous theta-burst stimulation in post-stroke upper limb spasticity: an fNIRS study.,0.375,no_good_match,False
+DUP_00933,Electroacupuncture Links Nociceptive and Nociplastic Pain via Brain Activation in Fibromyalgia,,no_pmid,,,,0.0,no_results,False
+DUP_01634,Selective Plasticity of Hippocampal Sub-Regions in the Amnestic Mild Cognitive Impairment After Acupuncture,,no_pmid,40842133,40842133,Selective Plasticity of Hippocampal Sub-Regions in the Amnestic Mild Cognitive Impairment After Acupuncture.,1.0,pmid_found_with_abstract,True
+DUP_00326,Analgesic effect of electroacupuncture on pain in Parkinson's disease and mechanism based on rs-fMRI,,no_pmid,,,,0.0,no_results,False
+DUP_00327,Analgesic Effect of Electroacupuncture on Relieving Pain in Parkinson's disease (PD) and the Mechanism Based on RS-fMRI,,no_pmid,,,,0.0,no_results,False
+DUP_00883,Efficacy and Mechanism Study of Acupuncture Combined With Neuromodulation Technology for Post-Stroke Aphasia Based on Multimodal Functional Magnetic Resonance Imaging,,no_pmid,,,,0.0,no_results,False
+DUP_00885,Efficacy and Olfactory Network of Electro-acupuncture for Subjective Cognitive Decline: A Multicenter Randomized Controlled Trial and fMRI Study,,no_pmid,,,,0.0,no_results,False
+DUP_00978,Evaluation of Therapeutic Effect and Brain Mechanism of Electroacupuncture in Treating Agitation Symptoms of Alzheimer's Disease,,no_pmid,,,,0.0,no_results,False
+DUP_01256,Mechanistic investigation of acupuncture treatment in patients with migraine: Evidence from brain imaging study (I),,no_pmid,,,,0.0,no_results,False
+DUP_01688,Study on Imaging Characteristics and Predictive Radiology of Brain Network Regulation by Acupuncture in Patients with Painful Temporomandibular Disorders,,no_pmid,,,,0.0,no_results,False
+DUP_01714,Temporal-Spatial Acupuncture Effects on Poststroke Sensorimotor Cortex via Yanglingquan (GB34),,no_pmid,,,,0.0,no_results,False
+DUP_01929,Uncovering the mechanisms by which acupuncture improves motor function after stroke through neuroplasticity revealed by magnetic resonance imaging techniques,,no_pmid,,,,0.0,no_results,False
+DUP_00331,Analysis of changes in connectivity of resting brain functional network before and after acupuncture combined with language rehabilitation training in patients with basal ganglia aphasia after stroke,,no_pmid,,,,0.0,no_results,False
+DUP_00561,Cognitive Training to Enhance Brain-to-brain Concordance During Acupuncture,,no_pmid,,,,0.0,no_results,False
+DUP_00613,"Corrigendum: Altered Functional Activity and Functional Connectivity of Seed Regions Based on ALFF Following Acupuncture Treatment in Patients with Stroke Sequelae with Unilateral Limb Numbness (Neuropsychiatr Dis Treat. 2023, 19, 233–245)",,no_pmid,,,,0.0,no_results,False
+DUP_00616,"Corrigendum: Modulations of static and dynamic functional connectivity among brain networks by electroacupuncture in post-stroke aphasia (Front. Neurol., (2022), 13, 956931, 10.3389/fneur.2022.956931)",,no_pmid,,,,0.0,no_results,False
+DUP_01336,Neural control of cerebral blood flow: scientific basis of scalp acupuncture in treating brain diseases,,no_pmid,37650106,37650106,Neural control of cerebral blood flow: scientific basis of scalp acupuncture in treating brain diseases.,1.0,pmid_found_with_abstract,True
+DUP_01511,Probing the flexible internal state transition and low-dimensional manifold dynamics of human brain with acupuncture,,no_pmid,,,,0.0,no_results,False
+DUP_00820,"Effects and Central Mechanism of Electroacupuncture and MRI-navigated rTMS for PSD: a fMRI-based Single-center, Randomized, Controlled, Assessor-blinded Trial",,no_pmid,,,,0.0,no_results,False
+DUP_01182,Investigating the Effects of Autonomous Sensory Meridian Response (ASMR) Stimulation on the Functional Connectivity of the Default Mode Network,,no_pmid,,,,0.0,no_results,False
+DUP_01207,Latent Characteristics and Neural Manifold of Brain Functional Network Under Acupuncture,,no_pmid,35271443,35271443,Latent Characteristics and Neural Manifold of Brain Functional Network Under Acupuncture.,1.0,pmid_found_with_abstract,True
+DUP_01569,Research on resting spontaneous brain activity and functional connectivity of acupuncture at uterine acupoints,,no_pmid,,,,0.0,no_results,False
+DUP_01684,Study on brain network function of the specific connection between Hégǔ (合谷LI4) and the facial-oral area,,no_pmid,,,,0.0,no_results,False
+DUP_01771,The Effect of Laser Acupuncture in Different Meridians on the Autonomic Nervous System and Its Brain Mechanisms,,no_pmid,,,,0.0,no_results,False
+DUP_00250,Acupuncture Treatment Modulates the Hypothalamus Functional Connectivity in Patients With Chronic Insomnia Disorder,,no_pmid,,,,0.0,no_results,False
+DUP_00335,Analysis of the differences in brain function response after acupuncture and moxibustion at Zúsānlĭ (足三里ST36) in the patients with functional dyspepsia based on fractional amplitude of low frequency fluctuation of rest functional magnetic resonance imaging,,no_pmid,,,,0.0,no_results,False
+DUP_00521,Changed ACC-DMN functional connectivity after acupuncture with deqi for functional dyspepsia treatment,,no_pmid,,,,0.0,no_results,False
+DUP_00612,"Corrigendum: Acupuncture With deqi Modulates the Hemodynamic Response and Functional Connectivity of the Prefrontal-Motor Cortical Network (Front. Neurosci., (2021), 15, (693623), 10.3389/fnins.2021.693623)",,no_pmid,,,,0.0,no_results,False
+DUP_00810,Effect of “three-tong acupuncture” on brain function of patients with spinal cord injury based on magnetic resonance technology,,no_pmid,,,,0.0,no_results,False
+DUP_00819,Effectiveness of Yamamoto's New Skull Acupuncture (YNSA) on Resting State Brain Networks,,no_pmid,,,,0.0,no_results,False
+DUP_01308,Multi-brain functional connectivity during electro-acupuncture in patient-clinician dyads: an electroencephalography (EEG) hyperscan approach,,no_pmid,,,,0.0,no_results,False
+DUP_01309,Multi-brain functional connectivity during electro-acupuncture in patientclinician dyads: An electroencephalography (EEG) hyperscan approach,,no_pmid,,,,0.0,no_results,False
+DUP_01333,Neural and behavioral correlates of patient-clinician therapeutic alliance in a longitudinal acupuncture intervention: An fMRI hyper-scanning study,,no_pmid,,,,0.0,no_results,False
+DUP_01539,Randomized Propective Study Evaluating the Impact of an Acupuncture Session in Healthy Volunteers on the Kinetics of Cerebral Activity Using the Bispectral Index (BIS),,no_pmid,,,,0.0,no_results,False
+DUP_01556,Regulated aberrant amygdala functional connectivity in premenstrual syndrome via electro-acupuncture stimulation at sanyinjiao acupointSP6,,no_pmid,33307896,33307896,Regulated aberrant amygdala functional connectivity in premenstrual syndrome via electro-acupuncture stimulation at sanyinjiao acupoint（SP6）.,1.0,pmid_found_with_abstract,True
+DUP_01624,S1 functional connectivity during rest and electro-acupuncture tracks median nerve and patient function improvement following acupuncture for carpal tunnel syndrome,,no_pmid,,,,0.0,no_results,False
+DUP_01794,The Hemodynamic Response and Functional Connectivity of the Cortical Network are Modulated by Acupuncture,,no_pmid,35958938; 34858134; 34483822,34858134,Corrigendum: Acupuncture With deqi Modulates the Hemodynamic Response and Functional Connectivity of the Prefrontal-Motor Cortical Network.,0.769,pmid_found_with_abstract,True
+DUP_00620,Corrigendum to “Multivariate resting-state functional connectivity predicts responses to real and sham acupuncture treatment in chronic low back pain” [Neuroimage Clinical 23 (2019) 101885](S2213158219302359)(10.1016/j.nicl.2019.101885),,no_pmid,,,,0.0,no_results,False
+DUP_01793,The functional connectivity of ACC subregions with the DMN participates in the efficacy of acupuncture with deqi on functional dyspepsia,,no_pmid,,,,0.0,no_results,False
+DUP_01816,The Long-Term Effects of Acupuncture on Hippocampal Functional Connectivity in aMCI with Hippocampal Atrophy: A Randomized Longitudinal fMRI Study,,no_pmid,,,,0.0,no_results,False
+DUP_00095,Acupuncture alters primary somatosensory cortex functional connectivity in carpal tunnel syndrome,,no_pmid,34777225,34777225,S1 Brain Connectivity in Carpal Tunnel Syndrome Underlies Median Nerve and Functional Improvement Following Electro-Acupuncture.,0.545,possible_match_needs_verification,False
+DUP_00098,Acupuncture analgesia for low back pain is associated with greater pressure pain-evoked activation in dorsolateral prefrontal cortex and a reduction in hyperalgesia,,no_pmid,,,,0.0,no_results,False
+DUP_00217,Acupuncture promotes sensorimotor network neuroplasticity in fibromyalgia,,no_pmid,,,,0.0,no_results,False
+DUP_00297,Amplitude changes in low frequency fluctuation in brains of primary dysmenorrheal treated by acupuncture: A resting-state fMRI study,,no_pmid,,,,0.0,no_results,False
+DUP_00440,"Brain Connectome for Migraine Patients Treated Via Acupuncture: A Randomized, Controlled Study Under Single-blind Conditions, With a Placebo Group and Magnetic Resonance Imaging (MRI)",,no_pmid,,,,0.0,no_results,False
+DUP_00503,Cerebral cortex functional connection analysis of magnetic stimulation at neiguan acupoint (PC6) based on complex network,,no_pmid,,,,0.0,no_results,False
+DUP_00619,"Corrigendum to ‘Multivariate resting-state functional connectivity predicts responses to real and sham acupuncture treatment in chronic low back pain’ Neuroimage Clinical, 23, 2019, 101885 (NeuroImage: Clinical (2019) 23, (S2213158219302359), (10.1016/j.nicl.2019.101885))",,no_pmid,,,,0.0,no_results,False
+DUP_01000,Exploring the effect on cerebral blood flow after acupuncture in elderly normal subjects using (99m)Tc-ECD imaging,,no_pmid,,,,0.0,no_results,False
+DUP_01395,Neuromechanism of acupuncture on Parkinson's disease tremor: A resting state fMRI study,,no_pmid,,,,0.0,no_results,False
+DUP_01396,Neuromodulation by electroacupuncture for migraine: An analysis using resting state functional magnetic resonance imaging,,no_pmid,,,,0.0,no_results,False
+DUP_01464,Phantom acupuncture: Dissociation of somatosensory and cognitive/affective component of acupuncture effects in functional brain connectivity,,no_pmid,,,,0.0,no_results,False
+DUP_01495,Potential Role of Acupuncture Treatment in Neuronal and Network Dysfunction in Patients With Vascular Cognitive Impairment,,no_pmid,,,,0.0,no_results,False
+DUP_01673,Structural neuroplasticity in primary somatosensory cortex is linked to altered tactile acuity after acupuncture for chronic low back pain,,no_pmid,,,,0.0,no_results,False
+DUP_01805,"The Impact of Electroacupuncture on Clinical Effect,Brain Structural and Functional Changes in Patients With Spinal Cord Injury:A Randomized Controlled Study Based on Multi-mode MRI",,no_pmid,,,,0.0,no_results,False
+DUP_01817,THE LONG-TERM EFFECTS OF ACUPUNCTURE ON HIPPOCAMPUS FUNCTIONAL CONNECTIVITY IN AMNESTIC MILD COGNITIVE IMPAIRMENT: A LONGITUDINAL FMRI STUDY,,no_pmid,,,,0.0,no_results,False
+DUP_00513,Cerebral response of healthy subjects to a somatosensory stimulaton with xingnao kaiqiao acupuncture compared to control interventions measured with resting-state functional magnetic resonance imaging,,no_pmid,,,,0.0,no_results,False
+DUP_00525,Changes in functional connectivity with acupuncture outcomes for migraine,,no_pmid,41591775; 40341810; 39340626; 36187356; 36067612,36067612,Changes in brain connectivity linked to multisensory processing of pain modulation in migraine with acupuncture treatment.,0.667,possible_match_needs_verification,False
+DUP_00555,Clinical observation on treatment of adult-attention deficit hyperactivity disorder by acupuncture refreshing brain method,,no_pmid,,,,0.0,no_results,False
+DUP_00798,Effect of electroacupuncture stimulation of acupoint of heart meridian on brain connectivity in 27 healthy volunteer subjects,,no_pmid,29071979,29071979,[Effect of Electroacupuncture Stimulation of Acupoints of Heart Meridian on Brain Connectivity in 27 Healthy Volunteer Subjects].,0.933,pmid_found_with_abstract,True
+DUP_00989,Experiment design and feasibility of BOLD and MRS multimodal fMRI in analysis of brain effect induced by acupuncture,,no_pmid,,,,0.0,no_results,False
+DUP_01194,Involvement of salience network in the expectations of sensory experience for acupuncture stimulation,,no_pmid,,,,0.0,no_results,False
+DUP_01870,The Study of Acupuncture on Vascular and Functional Neuroimaging in Parkinson's Disease Patients With Sleep Disorders,,no_pmid,,,,0.0,no_results,False
+DUP_01941,Using fMRI and sEMG to Evaluate the Effects and Mechanism on Abdominal Acupuncture Combined With Upper Limb Rehabilitation Training on Brain Plasticity of Hemiplegic Patients With Stroke,,no_pmid,,,,0.0,no_results,False
+DUP_00218,Acupuncture Regulates Emotion-cognitive Network of Chronic Insomnia Patients : A DTI-fMRI Study,,no_pmid,,,,0.0,no_results,False
+DUP_00255,"Acupuncture Treatment on Chronic Sciatica: the Efficacy, Mechanism, and Functional Neuroimaging Pain-network Study",,no_pmid,,,,0.0,no_results,False
+DUP_00285,Altered effective connectivity of resting state networks by acupuncture stimulation in stroke patients with left hemiplegia,,no_pmid,29382021,29382021,Altered effective connectivity of resting state networks by acupuncture stimulation in stroke patients with left hemiplegia: A multivariate granger analysis.,1.0,pmid_found_with_abstract,True
+DUP_00384,Basal ganglia cerebral infarction patient fMRI imaging analysis before and after acupuncture-medicine therapy,,no_pmid,,,,0.0,no_results,False
+DUP_00754,Effect of acupuncture at Zulinqi (GB41) on the amplitude of low frequency fluctuations in migraine without aura patients: A resting-state functional magnetic resonance imaging study,,no_pmid,,,,0.0,no_results,False
+DUP_00882,"Efficacy and Mechanism of Acupuncture on Patients With Chronic Sciatica Using fMRI: A Randomized, Patient-Assessor Blind, Sham-Controlled Clinical Trial",,no_pmid,30651139,30651139,"Effect and neurophysiological mechanism of acupuncture in patients with chronic sciatica: protocol for a randomized, patient-assessor blind, sham-controlled clinical trial.",0.789,pmid_found_with_abstract,True
+DUP_01170,Interaction of acupuncture treatment and manipulation laterality modulated by the default mode network,,no_pmid,28326925,28326925,Interaction of acupuncture treatment and manipulation laterality modulated by the default mode network.,1.0,pmid_found_with_abstract,True
+DUP_01872,"The Study of Brain GABA and Brain Functional Modulatory Mechanism of Chronic Insomnia Disorder Using Acupuncture at ""Combined Magical-door"" Acupoints",,no_pmid,,,,0.0,no_results,False
+DUP_01899,"To Explore the Cerebral Function Efficacy of Acupuncture and Fu's Subcutaneous Needling (FSN) in the Treatment of Chronic Tension-type Headache by Means of fMRI: a Single-blinded, Randomized Controlled Trials.",,no_pmid,,,,0.0,no_results,False
+DUP_00035,A PET/CT and fMRI randomized controlled study to identify brain network associated with acupuncture effects in reducing depression,,no_pmid,,,,0.0,no_results,False
+DUP_00079,Activation of different cerebral functional regions following acupuncture at bot H Taixi and taichong acupoints and taixi acupoint alone: An fMRI study,,no_pmid,,,,0.0,no_results,False
+DUP_00109,Acupuncture as a treatment to improve cognitive function after brain injury: A case study,,no_pmid,23210471,23210471,Acupuncture helps regain postoperative consciousness in patients with traumatic brain injury: a case study.,0.462,no_good_match,False
+DUP_00147,Acupuncture for Functional Dyspepsia: a Functional Magnetic Resonance Imaging (fMRI) Study,,no_pmid,35585920; 28338267,35585920,Neural Responses of Acupuncture for Treating Functional Dyspepsia: An fMRI Study.,0.6,possible_match_needs_verification,False
+DUP_00419,Blood oxygenation level dependent-functional magnetic resonance imaging (BOLD-fMRI) combined with diffusion-tensor imaging (DTI): A comparison of patients with hemiplegia after stroke treated with acupuncture and normal subjects,,no_pmid,,,,0.0,no_results,False
+DUP_01305,MRI-based Neuroimaging Predictors of Clinical Improvements Following Occupational Therapy (OT) or OT Puls Acupuncture and Massage Methods in Children With Cerebral Palsy,,no_pmid,,,,0.0,no_results,False
+DUP_01438,Optimization of Brain-based Mechanisms Supporting Psychosocial Aspects of Acupuncture Therapy - a Hyperscanning fMRI Study,,no_pmid,,,,0.0,no_results,False
+DUP_01871,"The Study of Brain Functional Network Modulatory Mechanism of Alzheimer's Disease Using Acupuncture at the ""Four-gate"" Acupoints",,no_pmid,,,,0.0,no_results,False
+DUP_01931,Understanding the Cognitive Benefits of Acupuncture for Stroke Recovery Through fMRI,,no_pmid,,,,0.0,no_results,False
+DUP_00050,A resting-state functional magnetic resonance imaging study on the efficacy of brain function rehabilitation in post-stroke hemiplegia using scalp acupuncture,,no_pmid,,,,0.0,no_results,False
+DUP_00080,Activation of different cerebral functional regions following acupuncture at bot h taixiand taichong acupoints and taixiacupoint alone: An fMRI study,,no_pmid,,,,0.0,no_results,False
+DUP_00121,Acupuncture Baihui activated the functional brain areas of major depressive disorder patients with regional homogeneity,,no_pmid,,,,0.0,no_results,False
+DUP_00512,Cerebral Response of Healthy Subjects to a Somatosensory Stimulation With XNKQ Acupuncture Compared to Control Interventions Measured With EEG and fMRI,,no_pmid,,,,0.0,no_results,False
+DUP_00724,Ear acupuncture and fMRI: A pilot study for assessing the speci-city of auricular points,,no_pmid,,,,0.0,no_results,False
+DUP_00318,An fMRI Study prior and post acupuncture treatment during the first 24 hours of smoking cessation,,no_pmid,,,,0.0,no_results,False
+DUP_00517,Cerebrum fMRI study on the acupucture of Five Shu Points of gall bladder meridian of Foot-Shaoyang,,no_pmid,,,,0.0,no_results,False
+DUP_01374,Neuroimaging Approaches to Deconstructing Acupuncture for Chronic Pain,,no_pmid,,,,0.0,no_results,False
+DUP_01622,Roundtable: Psychological and neurological effects of acupuncture: Brain effects of acupuncture studied through the functional magnetic resonance imaging technique,,no_pmid,,,,0.0,no_results,False
+DUP_00284,Altered brain response to acupuncture after a course of acupuncture therapy for CTS is associated with analgesia,,no_pmid,,,,0.0,no_results,False
+DUP_00515,Cerebral responses to puncturing at ST36 after acupuncture treatment in patients with functional dyspepsia,,no_pmid,,,,0.0,no_results,False
+DUP_01041,Functional brain connectivity predicts acupuncture analgesic effect in carpal tunnel syndrome patients,,no_pmid,,,,0.0,no_results,False
+DUP_01557,Regulation of cerebral regional homogeneity exerted by puncturing hao-yang acupoints for migraine patients,,no_pmid,,,,0.0,no_results,False
+DUP_01633,Scalp electroacupuncture in stroke rehabilitation research: FMRI methodological issues and solutions,,no_pmid,,,,0.0,no_results,False
+DUP_01738,The brain effects of laser acupuncture in depressed individuals: An fMRI investigation,,no_pmid,20838644,20838644,The brain effects of laser acupuncture in healthy individuals: an FMRI investigation.,0.917,pmid_found_with_abstract,True
+DUP_00037,A Physiological fMRI Study of Acupuncture and Perceptions of Pain in Chronic Low Back Pain Patients.,,no_pmid,,,,0.0,no_results,False
+DUP_00242,Acupuncture treatment attenuates excitability of spinal motor neuron and spastic muscle overactivity in patients with persistent disturbance of consciousness following traumatic brain injury,,no_pmid,,,,0.0,no_results,False
+DUP_00437,Brain circuitry subserving acupuncture relief of itch in atopic dermatitis: An fMRI study,,no_pmid,,,,0.0,no_results,False
+DUP_00461,Brain Mechanisms of Acupuncture Treatment in Chronic Low Back Pain,,no_pmid,38444878; 36166279; 34079363; 32380138; 27215046,38444878,The Emotion Regulation of Acupuncture in Chronic Low Back Pain: A Clinical Neuroimaging Protocol.,0.7,pmid_found_with_abstract,True
+DUP_00468,Brain Plasticity Underlying Back Pain Response to Different Acupuncture Methods,,no_pmid,,,,0.0,no_results,False
+DUP_00890,Efficacy of Acupuncture and Moxibustion Treatment in Patients With Quiescent Crohn's Disease:Evaluation With Functional Magnetic Resonance Imaging(fMRI),,no_pmid,,,,0.0,no_results,False
+DUP_00939,Electroacupuncture pretreatment as a novel avenue to protect brain against ischemia and reperfusion injury,,no_pmid,32508960; 22611425,22611425,Electroacupuncture Pretreatment as a Novel Avenue to Protect Brain against Ischemia and Reperfusion Injury.,1.0,pmid_found_with_abstract,True
+DUP_01520,Progress on application of fMRI in studies of meridians and acupoints,,no_pmid,,,,0.0,no_results,False
+DUP_00467,Brain Plasticity in Carpal Tunnel Syndrome and Its Response to Acupuncture,,no_pmid,17240066,17240066,Hypothalamus and amygdala response to acupuncture stimuli in Carpal Tunnel Syndrome.,0.727,pmid_found_with_abstract,True
+DUP_00506,Cerebral fMRI in observation on the therapeutic mechanism of electro-acupuncture on Shenmen and Sanyinjiao for insomnia,,no_pmid,,,,0.0,no_results,False
+DUP_01065,Functional magnetic resonance imaging studies of acupuncture mechanisms: A critique,,no_pmid,,,,0.0,no_results,False
+DUP_01583,"Response to correspondence on ""functional magnetic resonance imaging activation of the brain in children: Real acupoint versus sham acupoint""",,no_pmid,,,,0.0,no_results,False
+DUP_01592,Resting state-functional magnetic resonance imaging technology applied to a balancing acupuncture treatment for central mechanisms,,no_pmid,,,,0.0,no_results,False
+DUP_00244,Acupuncture Treatment for Migraine: a Functional Magnetic Resonance Imaging Study,,no_pmid,,,,0.0,no_results,False
+DUP_00299,An Acupuncture fMRI Study on Chronic Pain: Response Reliability and Dose Effect,,no_pmid,,,,0.0,no_results,False
+DUP_00431,Brain Activity Changes Measured by EEG and fMRI on Healthy Volunteers After Complex Somatosensory Stimulation With Acupuncture Needles,,no_pmid,,,,0.0,no_results,False
+DUP_01434,Observation with fMRI on central mechanisms of acupuncture at ST36 using reinforcing and reducing techniques,,no_pmid,,,,0.0,no_results,False
+DUP_00040,A Pilot Study on the Effect of Electroacupuncture on Functional Brain Mapping in Patients With Irritable Bowel Syndrome,,no_pmid,,,,0.0,no_results,False
+DUP_00210,Acupuncture of motor-implicated acupoints on subacute stroke patients: An fMRI evaluation study,,no_pmid,,,,0.0,no_results,False
+DUP_00312,An fMRI Study of Expectancy on Acupuncture Treatment Outcomes in Knee OA,,no_pmid,,,,0.0,no_results,False
+DUP_00354,Application of functional magnetic resonance imaging in research of acupuncture mechanism,,no_pmid,23620959,23620959,[Main influencing factors of functional magnetic resonance imaging for acupuncture mechanism research].,0.8,pmid_found_with_abstract,True
+DUP_00950,Electroacupuncturing acupoints of patients with peripheral facial paralysis: A functional MRI study,,no_pmid,,,,0.0,no_results,False
+DUP_01070,Functional MRI and acupuncture (Large intestine 4 acupoint) in patients with myofascial pain of the jaw muscles: A pilot randomized trial,,no_pmid,,,,0.0,no_results,False
+DUP_01231,Magnetic resonance imaging study of twisting or untwisting Taixi acupoint (KI3) on brain function,,no_pmid,42145811; 42113278; 42007319; 41980912; 41955931,42113278,Evaluation of a multifunctional traction device for lumbar disc herniation: a prospective randomized controlled study using magnetic resonance imaging and clinical assessment.,0.357,no_good_match,False
+DUP_01582,"Response to correspondence on ""effect of acupuncture on the brain in children with spastic cerebral palsy using functional neuroimaging (fMRI)""",,no_pmid,,,,0.0,no_results,False
+DUP_01593,Resting-state functional MRI evaluation of after-effect of acupuncture at Zusanli point,,no_pmid,,,,0.0,no_results,False
+DUP_00054,"A Spinal fMRI Study of Resting-State, Motor Task and Acupoint Stimulation",,no_pmid,,,,0.0,no_results,False
+DUP_00106,Acupuncture and the CNS: What can the brain at rest suggest?,,no_pmid,,,,0.0,no_results,False
+DUP_01023,fMRI Measurements on the Effect of Transcutaneous Electrical Nerve Stimulation (TENS) on Acupuncture Points Verses Spontaneous Normal Vaginal Delivery to Relief of Labor Pain,,no_pmid,,,,0.0,no_results,False
+DUP_01103,Hegu acupoint of patient with peripheral facial paralysis by electroacupuncture: A functional MRI study,,no_pmid,,,,0.0,no_results,False
+DUP_01306,"MRI cerebral function imaging following acupuncture at Hegu, Zusanli, Neiguan and Sanyinjiao points",,no_pmid,,,,0.0,no_results,False
+DUP_01328,Needling sensation: Explanation of incongruent conclusion drawn from acupuncture fMRI study [1],,no_pmid,,,,0.0,no_results,False
+DUP_00682,Different cerebellar responding to acupuncture at Liv3 and LI4: An fMRI study,,no_pmid,,,,0.0,no_results,False
+DUP_01025,"fMRI study of acupuncture at ""four gate points"" on normal aging people",,no_pmid,,,,0.0,no_results,False
+DUP_01676,Study of acupuncture point Liv 3 with functional MRI,,no_pmid,,,,0.0,no_results,False
+DUP_00115,Acupuncture at shenmen acupoint for brain functional MRI of patients with Alzheimer disease,,no_pmid,,,,0.0,no_results,False
+DUP_00531,Changes of brain function in different areas of cerebral cortices due to electroacupuncture at the point ST36 through MRI,,no_pmid,,,,0.0,no_results,False
+DUP_00983,Evidence from brain imaging with fMRI supporting functional specifity of acupoints in humans,,no_pmid,24657460; 14698480,14698480,Evidence from brain imaging with fMRI supporting functional specificity of acupoints in humans.,0.923,pmid_found_with_abstract,True
+DUP_01060,Functional magnetic resonance imaging of real and sham acupuncture,,no_pmid,31176295; 15825843,15825843,Functional magnetic resonance imaging of real and sham acupuncture. Noninvasively measuring cortical activation from acupuncture.,1.0,pmid_found_no_abstract,False
+DUP_01560,Relationship between cerebral function and Kuangming and Taichong acupoints detected with functional MRI,,no_pmid,,,,0.0,no_results,False
+DUP_01713,Temporal cluster for the anlaysis of the fMRI characteristics of acupuncture at Hegu acupoint,,no_pmid,,,,0.0,no_results,False
+DUP_01731,The application of fMRI to basic experiments in acupuncture,,no_pmid,15825845,15825845,The application of fMRI to basic experiments in acupuncture. The effects of stimulus points and content on cerebral activities and responses.,1.0,pmid_found_no_abstract,False
+DUP_00624,Cortical activations upon stimulation of the sensorimotor-implicated acupoints,,no_pmid,15172057,15172057,Cortical activations upon stimulation of the sensorimotor-implicated acupoints.,1.0,pmid_found_with_abstract,True
+DUP_01067,Functional magnetic resonance tomography in acupuncture research,,no_pmid,,,,0.0,no_results,False
+DUP_01293,Modulatory Effect of Acupuncture on Human Brain Activity,,no_pmid,,,,0.0,no_results,False
+DUP_00019,A functional magnetic resonance imaging study comparing brain activations during language task with activations during electrical stimulation of language-implicated acupoints,,no_pmid,,,,0.0,no_results,False
+DUP_01042,Functional Brain Imaging - Acupuncture and Osteoarthritis,,no_pmid,,,,0.0,no_results,False
+DUP_01954,Visual cortical activations on functional magnetic resonance imaging upon stimulation of vision-implicated acupoints,,no_pmid,12692460,12692460,Visual cortical activations on fMRI upon stimulation of the vision-implicated acupoints.,0.692,possible_match_needs_verification,False
+DUP_00426,Brain activation of acupuncture induced analgesia,,no_pmid,32577957; 26849399; 7648694,32577957,Purinergic signaling as a basis of acupuncture-induced analgesia.,0.333,no_good_match,False
+DUP_00201,acupuncture modulates the limbic system and subcortical gray structures of the human brain - Direct evidence by fMRI,,no_pmid,,,,0.0,no_results,False
+DUP_00031,"A neurometric analysis of brain functions after halothane anaesthesia, neuroleptanalgesia and combined acupuncture-analgesia",,no_pmid,637286,637286,"[A neurometric analysis of brain functions after halothane anaesthesia, neuroleptanalgesia and combined acupuncture-analgesia (author's transl)].",1.0,pmid_found_with_abstract,True
+DUP_00472,Brain response and Kirlian photography of the cat under acupuncture,,no_pmid,,,,0.0,no_results,False

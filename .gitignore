@@ -5,7 +5,11 @@ __pycache__/
 *.pyc
 .venv/
 
-# SDM preprocessing outputs (regenerated locally)
+# Large data (not tracked in git)
+data/pdfs/
+archive/
+
+# SDM preprocessing outputs (regenerated locally, too large for git)
 **/pp/
 **/analysis_*/
 **/sdmpsi_params.xml
@@ -14,14 +18,9 @@ __pycache__/
 **/sdm_nd.txt
 **/fwe/
 
-# Extraction logs and caches
-data_extraction/logs/
-data_extraction/raw_extractions/_failed/
-data_extraction/raw_extractions/_pre_integration/
-
 # IDE
 *.code-workspace
 .cursor/
 
-# OS
-Trash/
+# Sentinel files
+.*.done

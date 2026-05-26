@@ -1,0 +1,102 @@
+{
+  "study": {
+    "pmid": "not_reported",
+    "doi": "10.1073/pnas.0602520103",
+    "trial_registration": "not_reported",
+    "title": "New findings of the correlation between acupoints and corresponding brain cortices using functional MRI",
+    "first_author": "Cho, Z. H.",
+    "year": "1998",
+    "journal": "Proc. Natl. Acad. Sci. USA",
+    "article_type": "retraction_notice",
+    "study_design": "not_reported",
+    "randomization": "not_reported",
+    "blinding": "not_reported",
+    "n_total_enrolled": null,
+    "n_total_randomized": null,
+    "n_total_analyzed_clinical": null,
+    "n_total_analyzed_neuroimaging": null,
+    "population": "not_reported",
+    "disease_condition": "not_reported",
+    "healthy_volunteers": null,
+    "inclusion_criteria": "not_reported",
+    "exclusion_criteria": "not_reported",
+    "source_location": "Page 2, RETRACTION section"
+  },
+  "arms": [],
+  "conditions": [],
+  "interventions": [],
+  "sensory_interoceptive_responses": [],
+  "neuroimaging_methods": {
+    "modality": "fMRI",
+    "scanner_manufacturer_model_exact": "not_reported",
+    "field_strength_tesla": null,
+    "sequence_exact": "not_reported",
+    "TR_exact": "not_reported",
+    "TE_exact": "not_reported",
+    "voxel_size_exact": "not_reported",
+    "scan_duration_exact": "not_reported",
+    "preprocessing_software_exact": "not_reported",
+    "analysis_software_exact": "not_reported",
+    "normalization_template_exact": "not_reported",
+    "coordinate_space_reported_exact": "not_reported",
+    "smoothing_exact": "not_reported",
+    "motion_exclusion_exact": "not_reported",
+    "filtering_exact": "not_reported",
+    "global_signal_regression_exact": "not_reported",
+    "primary_neuroimaging_metrics": [],
+    "statistical_thresholds_exact": [],
+    "multiple_comparison_correction_exact": "not_reported",
+    "source_location": "Page 2, RETRACTION section — original article title references functional MRI; no methods details are provided in this retraction notice"
+  },
+  "neural_results": {
+    "contrasts": []
+  },
+  "clinical_behavioral_outcomes": [],
+  "expectancy_blinding_credibility": [],
+  "adverse_events": [],
+  "funding_conflicts_registration": {
+    "funding_exact": "not_reported",
+    "conflict_of_interest_exact": "not_reported",
+    "ethics_approval_exact": "not_reported",
+    "trial_registration_exact": "not_reported",
+    "data_availability_exact": "not_reported",
+    "source_location": "Page 2, RETRACTION section"
+  },
+  "extraction_notes": [
+    {
+      "note_type": "other",
+      "note": "The document is a Corrections and Retraction notice published in PNAS, July 5, 2006, vol. 103, no. 27. It does not contain the original research paper. The retraction notice states that the original article by Cho et al. (1998), PNAS 95, 2670–2673, is being retracted. No original data, methods, results tables, neuroimaging coordinates, participant details, or statistical outcomes are provided in this document. All extraction fields therefore return not_reported or null.",
+      "source_location": "Page 2, RETRACTION section"
+    },
+    {
+      "note_type": "other",
+      "note": "The retraction notice states: 'the authors reported a specific cortical correlation with a given acupoint and suggested that there could be correlation between acupoint stimulation and cortical activation, for example via increased blood flow in the visual cortex.' This is the only substantive description of the original findings available in this document.",
+      "source_location": "Page 2, RETRACTION section"
+    },
+    {
+      "note_type": "other",
+      "note": "The retraction reason given by the signing authors is: 'Having concluded that there is no point specificity, at least for pain and analgesic effects, and that we no longer agree with the results in our PNAS article, the undersigned authors are retracting the article.' Authors Z. H. Cho, S. C. Chung, H. J. Lee, E. K. Wong, and B. I. Min signed the retraction. J. P. Jones, J. B. Park, and H. J. Park are noted as not having approved this retraction.",
+      "source_location": "Page 2, RETRACTION section"
+    },
+    {
+      "note_type": "other",
+      "note": "The retraction references two preliminary observations: (1) Cho et al. (2002) J. Alter. Compl. Med. 8, 399–401; (2) Cho et al. (2006) Acta Neurol. Scand. 113, 370–377. These are cited as reporting preliminary findings leading to the conclusion of no point specificity.",
+      "source_location": "Page 2, RETRACTION section, references 1 and 2"
+    },
+    {
+      "note_type": "missing_information",
+      "note": "The original 1998 article (PNAS 95, 2670–2673) is not included in the provided PDF. All structured extraction fields relating to study design, participants, interventions, neuroimaging methods, and results require access to the original article and cannot be completed from this retraction notice alone.",
+      "source_location": "Entire document"
+    },
+    {
+      "note_type": "other",
+      "note": "The document also contains unrelated corrections for three other articles: (1) Adonai et al. (2002) on 64Cu cell labeling and PET — author name correction (Nora to Nona Adonai); (2) Wani et al. (2006) on familial hypercatabolic hypoproteinemia — text correction on page 5087; (3) Carkeet et al. (2006) on vitamin B12 absorption — Fig. 5 units correction; (4) LeGrande et al. (2006) on climate change simulations — Fig. 2a color bar label inversion. These are not acupuncture or neuroimaging studies and have not been extracted.",
+      "source_location": "Pages 1–2, CORRECTIONS section"
+    },
+    {
+      "note_type": "inference_warning",
+      "note": "The DOI recorded in the study metadata (10.1073/pnas.0602520103) is the DOI of the retraction notice itself, as printed in the document. The DOI of the original 1998 article is not provided in this retraction notice.",
+      "source_location": "Page 2, bottom of RETRACTION section"
+    }
+  ]
+}

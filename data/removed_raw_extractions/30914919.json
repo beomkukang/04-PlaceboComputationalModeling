@@ -1,0 +1,148 @@
+{
+  "study": {
+    "pmid": "not_reported",
+    "doi": "10.3389/fnins.2021.773069",
+    "trial_registration": "not_reported",
+    "title": "Corrigendum: Acupuncture With deqi Modulates the Hemodynamic Response and Functional Connectivity of the Prefrontal-Motor Cortical Network",
+    "first_author": "Si",
+    "year": "2021",
+    "journal": "Frontiers in Neuroscience",
+    "article_type": "corrigendum",
+    "study_design": "not_reported",
+    "randomization": "not_reported",
+    "blinding": "not_reported",
+    "n_total_enrolled": null,
+    "n_total_randomized": null,
+    "n_total_analyzed_clinical": null,
+    "n_total_analyzed_neuroimaging": 8,
+    "population": "not_reported",
+    "disease_condition": "not_reported",
+    "healthy_volunteers": null,
+    "inclusion_criteria": "not_reported",
+    "exclusion_criteria": "not_reported"
+  },
+  "arms": [],
+  "conditions": [],
+  "interventions": [],
+  "sensory_interoceptive_responses": [],
+  "neuroimaging_methods": {
+    "modality": "other",
+    "scanner_manufacturer_model_exact": "not_reported",
+    "field_strength_tesla": null,
+    "sequence_exact": "not_reported",
+    "TR_exact": "not_reported",
+    "TE_exact": "not_reported",
+    "voxel_size_exact": "not_reported",
+    "scan_duration_exact": "not_reported",
+    "preprocessing_software_exact": "not_reported",
+    "analysis_software_exact": "not_reported",
+    "normalization_template_exact": "not_reported",
+    "coordinate_space_reported_exact": "not_reported",
+    "smoothing_exact": "not_reported",
+    "motion_exclusion_exact": "not_reported",
+    "filtering_exact": "not_reported",
+    "global_signal_regression_exact": "not_reported",
+    "primary_neuroimaging_metrics": [
+      "HbO power change"
+    ],
+    "statistical_thresholds_exact": [
+      "alpha = 0.05",
+      "statistical power > 0.95"
+    ],
+    "multiple_comparison_correction_exact": "FDR correction for multiple comparisons"
+  },
+  "neural_results": {
+    "contrasts": [
+      {
+        "contrast_id": "C001",
+        "contrast_label_exact": "Acupuncture manipulation vs. all controls — significantly decreased acupuncture responsive channels",
+        "contrast_type_exact": "two-sample t-test, acupuncture manipulation vs. all controls",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "not_applicable",
+        "condition_2": "not_applicable",
+        "timepoint_exact": "not_reported",
+        "analysis_method_exact": "two-sample t-tests, FDR correction for multiple comparisons",
+        "neuroimaging_metric_exact": "channel-level hemodynamic response (p-value map, blue color for decrease)",
+        "analysis_scope": "ROI",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "two-sample t-tests",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "alpha = 0.05 and statistical power > 0.95",
+        "correction_method_exact": "FDR correction for multiple comparisons",
+        "direction_exact": "decrease",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [],
+        "model_performance_results": [],
+        "n_analyzed": 8
+      },
+      {
+        "contrast_id": "C002",
+        "contrast_label_exact": "Acupuncture manipulation vs. all controls — group-averaged HbO power change",
+        "contrast_type_exact": "group-averaged HbO power change mapping",
+        "arm_1": "not_applicable",
+        "arm_2": "not_applicable",
+        "condition_1": "not_applicable",
+        "condition_2": "not_applicable",
+        "timepoint_exact": "not_reported",
+        "analysis_method_exact": "group-averaged HbO power change mapping",
+        "neuroimaging_metric_exact": "HbO power change (µM)",
+        "analysis_scope": "whole_brain",
+        "seed_or_roi_exact": "not_applicable",
+        "roi_definition_exact": "not_applicable",
+        "statistical_model_exact": "not_reported",
+        "covariates_exact": "not_reported",
+        "thresholding_method_exact": "not_reported",
+        "correction_method_exact": "not_reported",
+        "direction_exact": "decrease (range approximately -0.08 to -0.16 µM based on figure colorbar)",
+        "result_level": "figure_only",
+        "coordinates_or_clusters": [],
+        "network_edges_or_connectivity_results": [],
+        "model_performance_results": [],
+        "n_analyzed": 8
+      }
+    ]
+  },
+  "clinical_behavioral_outcomes": [],
+  "expectancy_blinding_credibility": [],
+  "adverse_events": [],
+  "funding_conflicts_registration": {
+    "funding_exact": "not_reported",
+    "conflict_of_interest_exact": "not_reported",
+    "ethics_approval_exact": "not_reported",
+    "trial_registration_exact": "not_reported",
+    "data_availability_exact": "not_reported"
+  },
+  "extraction_notes": [
+    {
+      "note_type": "other",
+      "note": "This document is a corrigendum (correction notice) to the original article by Si et al. (2021) published as Front. Neurosci. 15:693623, doi: 10.3389/fnins.2021.693623. The only scientific correction is that in the title of Supplementary Figure S2A, 'Rest control' was changed to 'All controls'. The authors state this does not change the scientific conclusions of the article."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No primary data, tables, methods, or statistical results are reported in this corrigendum beyond the corrected Supplementary Figure S2. All study design, arm, intervention, and detailed neuroimaging methods must be extracted from the original article (doi: 10.3389/fnins.2021.693623), which was not provided."
+    },
+    {
+      "note_type": "figure_only",
+      "note": "Supplementary Figure S2 appears in the corrigendum as the corrected version. Panel A shows locations and p-value mapping of significantly decreased acupuncture responsive channels (n=8, two-sample t-tests, FDR correction, alpha=0.05, statistical power >0.95, blue color for decrease) for acupuncture manipulation vs. all controls. Panel B shows group-averaged HbO power change for acupuncture manipulation vs. all controls. Coordinates of channels are not readable from the figure in this PDF."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "The n_total_analyzed_neuroimaging value of 8 is inferred from the figure caption ('n = 8, the digital number for acupuncture response channel') — this appears to refer to the number of significantly responsive channels, not necessarily the number of participants. Participant N must be obtained from the original article."
+    },
+    {
+      "note_type": "inference_warning",
+      "note": "The HbO power change range (-0.08 to -0.16 µM) noted in contrast C002 is read from the colorbar in Figure S2B and is approximate due to PDF rendering resolution. This should be verified against the original article."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "fNIRS is the imaging modality used (stated in keywords: 'functional near-infrared spectroscopy'), but all acquisition and preprocessing parameters are absent from this corrigendum and must be extracted from the original article."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Sensory/deqi responses, clinical outcomes, expectancy, blinding, adverse events, funding, ethics, and trial registration information are not reported in this corrigendum."
+    }
+  ]
+}

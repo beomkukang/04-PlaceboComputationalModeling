@@ -1,0 +1,4 @@
+model,formula,n,df_model,r_squared,adj_r_squared,aic,bic
+Model 0 (null),Afferent ~ 1,96,0,0.0,0.0,142.80030826728827,145.36465645875612
+Model 1 (penetration),Afferent ~ sham_penetration_level,95,1,0.5234968156469784,0.5183731254926448,73.27172099402875,78.37947477722983
+Model 2 (multi-component),Afferent ~ sham_penetration_level + sham_skin_contact + sham_at_acupoints,94,3,0.6508231212257221,0.6391838919332461,45.997901868195015,56.17108099727503

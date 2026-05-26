@@ -1,0 +1,13 @@
+check,file,pmid,severity,detail
+pmid_coverage,study_predictors,32908491,warning,PMID 32908491 missing from study_predictors
+pmid_coverage,study_predictors,36846148,warning,PMID 36846148 missing from study_predictors
+pmid_coverage,study_predictors,37025199,warning,PMID 37025199 missing from study_predictors
+pmid_coverage,study_predictors,40329319,warning,PMID 40329319 missing from study_predictors
+pmid_coverage,study_predictors,40904730,warning,PMID 40904730 missing from study_predictors
+pmid_coverage,arm_components,32908491,warning,PMID 32908491 missing from arm_components
+pmid_coverage,arm_components,36846148,warning,PMID 36846148 missing from arm_components
+pmid_coverage,arm_components,37025199,warning,PMID 37025199 missing from arm_components
+pmid_coverage,arm_components,40329319,warning,PMID 40329319 missing from arm_components
+pmid_coverage,arm_components,40904730,warning,PMID 40904730 missing from arm_components
+sdm_coverage,sdm/correlation_deqi.txt,,info,Only 3 studies (SDM recommends ≥10)
+sdm_coverage,sdm/correlation_expectancy.txt,,info,Only 2 studies (SDM recommends ≥10)

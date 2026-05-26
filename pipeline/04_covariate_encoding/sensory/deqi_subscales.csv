@@ -1,0 +1,451 @@
+pmid,arm_id,arm_type,sensation,value,instrument
+16407533,arm_placebo,sham_acupuncture,pain,12.9 ± 2.3,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_placebo,sham_acupuncture,pain,3.5 ± 2.1,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_control,other,pain,13.2 ± 1.8,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_control,other,pain,12.8 ± 2.4,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_placebo,sham_acupuncture,pain,12.4 ± 2.5,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_placebo,sham_acupuncture,pain,2.5 ± 2.3,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_control,other,pain,11.9 ± 3.2,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_control,other,pain,12.4 ± 3,"Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)"
+16407533,arm_placebo,sham_acupuncture,pain,9.4 ± 3.9,Sensory Box 0–20 scale
+16407533,arm_placebo,sham_acupuncture,pain,8.8 ± 3.7,Sensory Box 0–20 scale
+16407533,arm_placebo,sham_acupuncture,pain,13.5 ± 2.1,Sensory Box 0–20 scale
+16407533,arm_placebo,sham_acupuncture,pain,12.9 ± 2.7,Sensory Box 0–20 scale
+16407533,arm_control,other,pain,8.9 ± 3.6,Sensory Box 0–20 scale
+16407533,arm_control,other,pain,9.2 ± 3.6,Sensory Box 0–20 scale
+16407533,arm_control,other,pain,13.6 ± 2.0,Sensory Box 0–20 scale
+16407533,arm_control,other,pain,14.3 ± 2.1,Sensory Box 0–20 scale
+17240066,arm_CTS_baseline,verum_acupuncture,maximum deqi sensation intensity,3.6±2.1,verbal analog scale for deqi sensations
+17240066,arm_CTS_baseline,verum_acupuncture,maximum deqi sensation intensity,2.9±1.6,verbal analog scale for deqi sensations
+17240066,arm_CTS_postacup,verum_acupuncture,maximum deqi sensation intensity,3.7±1.6,verbal analog scale for deqi sensations
+17240066,arm_CTS_postacup,verum_acupuncture,maximum deqi sensation intensity,2.7±1.0,verbal analog scale for deqi sensations
+17240066,arm_HC,healthy_control,maximum deqi sensation intensity,4.1±2.0,verbal analog scale for deqi sensations
+17240066,arm_HC,healthy_control,maximum deqi sensation intensity,3.3±2.0,verbal analog scale for deqi sensations
+17240066,arm_HC,healthy_control,maximum deqi sensation intensity,4.7±2.2,verbal analog scale for deqi sensations
+17240066,arm_HC,healthy_control,maximum deqi sensation intensity,3.2±2.0,verbal analog scale for deqi sensations
+17240066,arm_CTS_baseline,verum_acupuncture,sharp_pain,3.2±0.8,verbal analog scale
+17240066,arm_HC,healthy_control,sharp_pain,3.4±0.7,verbal analog scale
+17240066,arm_CTS_postacup,verum_acupuncture,sharp_pain,4.0±1.6,verbal analog scale
+17240066,arm_HC,healthy_control,sharp_pain,2.7±1.0,verbal analog scale
+17240066,arm_CTS_baseline,verum_acupuncture,aching,"VA: 80.0%, SA: 15.0%",verbal analog scale
+17240066,arm_CTS_baseline,verum_acupuncture,fullness,"VA: 33.3%, SA: 5.0%",verbal analog scale
+17240066,arm_CTS_baseline,verum_acupuncture,pain,"VA: 66.7%, SA: 0.0%",verbal analog scale
+17240066,arm_CTS_baseline,verum_acupuncture,sharp_pain,"VA: 60.0%, SA: 15.0%",verbal analog scale
+17240066,arm_CTS_baseline,verum_acupuncture,spreading,"VA: 53.3%, SA: 20.0%",verbal analog scale
+17240066,arm_HC,healthy_control,aching,"VA: 75.0%, SA: 21.4%",verbal analog scale
+17240066,arm_HC,healthy_control,soreness,"VA: 62.5%, SA: 14.3%",verbal analog scale
+17240066,arm_HC,healthy_control,pain,"VA: 75.0%, SA: 14.3%",verbal analog scale
+17240066,arm_HC,healthy_control,sharp_pain,"VA: 68.8%, SA: 14.3%",verbal analog scale
+17240066,arm_HC,healthy_control,spreading,"VA: 50.0%, SA: 14.3%",verbal analog scale
+17240066,arm_CTS_postacup,verum_acupuncture,aching,"VA: 72.7%, SA: 6.7%",verbal analog scale
+17240066,arm_CTS_postacup,verum_acupuncture,soreness,"VA: 54.5%, SA: 0.0%",verbal analog scale
+17240066,arm_CTS_postacup,verum_acupuncture,pain,"VA: 72.7%, SA: 6.7%",verbal analog scale
+17240066,arm_CTS_postacup,verum_acupuncture,spreading,"VA: 45.5%, SA: 6.7%",verbal analog scale
+17240066,arm_HC,healthy_control,aching,"VA: 90.9%, SA: 9.1%",verbal analog scale
+17240066,arm_HC,healthy_control,soreness,"VA: 81.8%, SA: 18.2%",verbal analog scale
+17240066,arm_HC,healthy_control,sharp_pain,"VA: 63.6%, SA: 18.2%",verbal analog scale
+17240066,arm_HC,healthy_control,spreading,"VA: 63.6%, SA: 9.1%",verbal analog scale
+19559684,arm_acupuncture,verum_acupuncture,"Deqi response (aching, soreness, pressure, heaviness, fullness, warmth, coolness, numbness, tingling, or dull pain); defined as total score of 3 or higher for recorded sensations other than sharp pain",71% of scans,Post-scan interview for psychophysical response
+19559684,arm_tactile,active_control,Deqi response; most tactile deqi consisted of surface tingling,24% of scans,Post-scan interview for psychophysical response
+19559684,arm_acupuncture,verum_acupuncture,sharp_pain,15% of acupuncture scans,Post-scan interview for psychophysical response
+19559684,arm_tactile,active_control,sharp_pain,2% of tactile stimulation scans,Post-scan interview for psychophysical response
+20423216,arm_acupuncture,verum_acupuncture,"De qi (distinct sensations of numbness, tingling, fullness, and/or dull ache)",10 of 15 subjects experienced distinct sensations of de qi during acupuncture; 4 subjects experienced de qi by both doctors; 6 subjects experienced de qi by only 1 of them,not_reported (psychophysical response survey)
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 1 - Physician 1 (P1),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 1 - Physician 2 (P2),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 2 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 2 - Physician 2 (P2),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 3 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 3 - Physician 2 (P2),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 4 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 4 - Physician 2 (P2),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 5 - Physician 1 (P1),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 5 - Physician 2 (P2),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 6 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 6 - Physician 2 (P2),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 7 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 7 - Physician 2 (P2),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 8 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 8 - Physician 2 (P2),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 9 - Physician 1 (P1),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 9 - Physician 2 (P2),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 10 - Physician 1 (P1),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 10 - Physician 2 (P2),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 11 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 11 - Physician 2 (P2),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 12 - Physician 1 (P1),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 12 - Physician 2 (P2),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 13 - Physician 1 (P1),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 13 - Physician 2 (P2),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 14 - Physician 1 (P1),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 14 - Physician 2 (P2),No,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 15 - Physician 1 (P1),Yes,not_reported
+20423216,arm_acupuncture,verum_acupuncture,De qi experienced by Subject 15 - Physician 2 (P2),No,not_reported
+21080967,arm_genuine_HE,verum_acupuncture,pain,higher ratings in genuine treatment compared to sham,Massachusetts General Hospital (MGH) Acupuncture Sensation Scale (MASS)
+21080967,arm_genuine_HE,verum_acupuncture,pain,higher ratings in genuine treatment compared to sham,Massachusetts General Hospital (MGH) Acupuncture Sensation Scale (MASS)
+21080967,arm_genuine_HE,verum_acupuncture,soreness,higher ratings in genuine treatment compared to sham,Massachusetts General Hospital (MGH) Acupuncture Sensation Scale (MASS)
+21080967,not_applicable,,warmth,similar ratings in both treatment groups,Massachusetts General Hospital (MGH) Acupuncture Sensation Scale (MASS)
+21080967,not_applicable,,fullness,similar ratings in both treatment groups,Massachusetts General Hospital (MGH) Acupuncture Sensation Scale (MASS)
+21080967,not_applicable,,heaviness,similar ratings in both treatment groups,Massachusetts General Hospital (MGH) Acupuncture Sensation Scale (MASS)
+21794103,arm_EA,verum_acupuncture,"deqi (obtaining qi): soreness, aching, warmth, etc.",Current amplitude set to level at which subjects indicated feeling a 'strong but not painful' sensation; deqi elicited by needle manipulation,not_reported
+22291848,arm_CV4,verum_acupuncture,soreness,not_reported_numerically; shown in Figure 3(a); no significant difference from CV12 (P > 0.05),"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV4,verum_acupuncture,fullness,not_reported_numerically; shown in Figure 3(a); no significant difference from CV12 (P > 0.05),"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV4,verum_acupuncture,fullness,not_reported_numerically as mean ± SD; shown in Figure 3(b); described as stronger for CV4 than CV12,"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV4,verum_acupuncture,numbness,not_reported_numerically; shown in Figure 3(b); no significant difference from CV12,"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV4,verum_acupuncture,heaviness,not_reported_numerically; shown in Figure 3(b); no significant difference from CV12,"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV12,verum_acupuncture,fullness,not_reported_numerically; shown in Figure 3(b); significantly lower than CV4,"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV12,verum_acupuncture,numbness,not_reported_numerically; shown in Figure 3(b); no significant difference from CV4,"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV12,verum_acupuncture,heaviness,not_reported_numerically; shown in Figure 3(b); no significant difference from CV4,"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV12,verum_acupuncture,tingling,not_reported_numerically; shown in Figure 3(b); no significant difference from CV4,"questionnaire rating sensations during EA; scale 0-10 (1-3 mild, 4-6 moderate, 7-9 strong, 10 unbearable)"
+22291848,arm_CV4,verum_acupuncture,sharp_pain,1 subject experienced sharp pain during EA at CV4,questionnaire rating sensations during EA; scale 0-10
+22291848,arm_CV12,verum_acupuncture,sharp_pain,3 subjects experienced sharp pain during EA at CV12,questionnaire rating sensations during EA; scale 0-10
+22761766,not_applicable,,sharp_pain,None of the subjects experienced sharp pain after acupuncture,10-point visual analog scale (VAS)
+22761766,not_applicable,,"prevalence of various acupuncture sensations (soreness, numbness, fullness, heaviness, throbbing, warmth, coolness and any other sensations)",The prevalence of various acupuncture sensations was expressed as the percentage of individuals in the group that reported the given sensations,questionnaire based on a 10-point visual analog scale (VAS)
+23152865,arm_A,verum_acupuncture,total NSQ score (range 0–75),Mean (SD) 14.25 (7.44); 95% CI 8.96–18.35,needle sensation questionnaire (NSQ)
+23152865,arm_B,verum_acupuncture,total NSQ score (range 0–75),Mean (SD) 12.46 (7.02); 95% CI 6.45–16.91,needle sensation questionnaire (NSQ)
+23152865,arm_C,sham_acupuncture,total NSQ score (range 0–75),Mean (SD) 4.23 (5.01); 95% CI 2.57–7.38,needle sensation questionnaire (NSQ)
+23152865,arm_D,sham_acupuncture,total NSQ score (range 0–75),Mean (SD) 3.77 (3.58); 95% CI 2.09–6.88,needle sensation questionnaire (NSQ)
+23316257,arm_acupuncture,verum_acupuncture,VAS index (composite De-qi measure),not_reported,10-point visual analogue scale (VAS); VAS index calculated to summarize full multivariate breadth and depth of De-qi sensations
+23316257,arm_acupuncture,verum_acupuncture,sharp_pain,3 experienced sharp pain only in the acupuncture run; 2 reported sharp pain during both runs,not_reported
+23316257,arm_tactile,active_control,sharp_pain,1 felt sharp pain only in the tactile run; 2 reported sharp pain during both runs,not_reported
+23316257,arm_acupuncture,verum_acupuncture,VAS index vs. number of activations/deactivations; VAS index vs. AVER-WR-RV R-value,No direct correlations shown; all P > 0.05,VAS index
+23666154,arm_real,verum_acupuncture,de-qi sensation,"In general, most subjects felt the de-qi sensation during acupuncture stimulation at the LI-4 acupoint more frequently than at other acupoints of the crus",not_reported
+23691237,arm_ST36,verum_acupuncture,numbness,not_reported_numerically; reported in Fig. 3A,MGH Acupuncture Sensation Scale (MASS)
+23691237,arm_ST36,verum_acupuncture,fullness,not_reported_numerically; reported in Fig. 3A,MGH Acupuncture Sensation Scale (MASS)
+23691237,arm_ST36,verum_acupuncture,heaviness,not_reported_numerically; reported in Fig. 3A,MGH Acupuncture Sensation Scale (MASS)
+23691237,arm_ST36,verum_acupuncture,warmth,not_reported_numerically; reported in Fig. 3A,MGH Acupuncture Sensation Scale (MASS)
+23691237,arm_ST36,verum_acupuncture,pain,not_reported_numerically; reported in Fig. 3A,MGH Acupuncture Sensation Scale (MASS)
+23691237,arm_ST36,verum_acupuncture,tingling,not_reported_numerically; reported in Fig. 3A,MGH Acupuncture Sensation Scale (MASS)
+23691237,arm_ST36,verum_acupuncture,Overall stimulus intensity,"greater for ST36 (exact values in Fig. 3B, not readable from text)",MGH Acupuncture Sensation Scale (MASS)
+23840533,arm_MA,verum_acupuncture,soreness,"not_reported (shown in Fig. 2B; higher than sensory control, p<0.001)",visual analog scale (VAS)
+23840533,arm_MA,verum_acupuncture,numbness,not_reported (shown in Fig. 2B),visual analog scale (VAS)
+23840533,arm_MA,verum_acupuncture,fullness,not_reported (shown in Fig. 2B; higher than sensory control),visual analog scale (VAS)
+23840533,arm_MA,verum_acupuncture,heaviness,not_reported (shown in Fig. 2B; higher than sensory control),visual analog scale (VAS)
+23840533,arm_MA,verum_acupuncture,pain,not_reported,visual analog scale (VAS)
+23840533,arm_EA,verum_acupuncture,fullness,not_reported (shown in Fig. 2B; higher than sensory control),visual analog scale (VAS)
+23840533,arm_EA,verum_acupuncture,heaviness,not_reported (shown in Fig. 2B; higher than sensory control),visual analog scale (VAS)
+23840533,arm_TEAS,verum_acupuncture,numbness,not_reported (shown in Fig. 2B; specifically higher than sensory control),visual analog scale (VAS)
+23840533,arm_MA,verum_acupuncture,mean intensity of all sensations,not_reported (shown in Fig. 2C; significantly higher than sensory control),visual analog scale (VAS)
+23840533,arm_EA,verum_acupuncture,mean intensity of all sensations,not_reported (shown in Fig. 2C; significantly higher than sensory control),visual analog scale (VAS)
+23840533,not_applicable,,"percentage of subjects reporting deqi feelings (soreness, numbness, fullness, heaviness, dull pain)",not_reported (shown in Fig. 2A only),visual analog scale (VAS)
+23935686,not_applicable,,typical descriptors of Deqi sensation,"soreness, numbness, distention, heaviness, and dull pain",not_reported (historical/clinical description)
+23935686,not_applicable,,acupuncturist finger feeling,fish bite the hook,not_reported
+23935686,not_applicable,,numbness and soreness correlated with acupuncture analgesia for experiment-induced thermal pain,"close correlation between acupuncture analgesia for experiment-induced thermal pain and SASS rating of numbness and soreness instead of other Deqi descriptors such as stabbing, throbbing, tingling, and heaviness",MGH Acupuncture Sensation Scale (MASS); Subjective Acupuncture Sensation Scale (SASS)
+23935686,not_applicable,,prominent components for characterizing acupuncture Deqi,"aching, soreness, and dull pain",not_reported
+23935686,not_applicable,,sharp_pain,subjects suffering from sharp pain together with acupuncture Deqi showed mostly increased signal in entire cerebrocerebellar and limbic systems,not_reported
+23935686,not_applicable,,sharp_pain,"in the deep needling group especially, there was a relatively high score of sharp pain together with Deqi sensation",not_reported
+24062782,arm_acup,verum_acupuncture,pressure,58.3%,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,pressure,8.7%,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,heaviness,19.4%,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,heaviness,4.3%,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,fullness,13.9%,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,fullness,4.3%,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,numbness,38.9%,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,numbness,0%,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,tingling,55.6%,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,tingling,13.0%,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,pressure intensity,2.01 ± 0.40,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,pressure intensity,0.11 ± 0.07,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,heaviness intensity,0.58 ± 0.23,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,heaviness intensity,0.07 ± 0.06,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,fullness intensity,0.44 ± 0.2,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,fullness intensity,0.07 ± 0.06,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,numbness intensity,1.29 ± 0.33,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,numbness intensity,0,post-scan deqi rating scale (0–10)
+24062782,arm_acup,verum_acupuncture,tingling intensity,1.61 ± 0.31,post-scan deqi rating scale (0–10)
+24062782,arm_tactile,sham_acupuncture,tingling intensity,0.35 ± 0.19,post-scan deqi rating scale (0–10)
+24459533,arm_FD,verum_acupuncture,"Deqi sensations: soreness, numbness, distention, and heaviness","soreness, numbness, distention, and heaviness (intended; achieved described as Deqi)",not_reported
+24459533,arm_HC,healthy_control,"Deqi sensations: soreness, numbness, distention, and heaviness","soreness, numbness, distention, and heaviness (intended; achieved described as Deqi)",not_reported
+24734108,arm_control,healthy_control,overall sensation intensity,4.5 ± 1.9,10-point visual analog scale (VAS)
+24734108,arm_stroke,other,overall sensation intensity,4.1 ± 1.9,10-point visual analog scale (VAS)
+24734108,arm_control,healthy_control,fullness,50% experienced the sensation of fullness,not_reported
+24734108,arm_stroke,other,fullness,85% experienced the sensation of fullness,not_reported
+24734108,not_applicable,,sharp_pain,None of the subjects experienced sharp pain among the 17 subjects,10-point visual analog scale (VAS)
+24734113,arm_stroke,verum_acupuncture,De-qi sensation overall,none experienced sharp pain; related results described in another paper [28],questionnaires to rate their experience of De-qi
+24734113,arm_stroke,verum_acupuncture,sharp_pain,none experienced the sharp pain,questionnaires to rate their experience of De-qi
+24821143,arm_verum,verum_acupuncture,soreness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,numbness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,heaviness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,fullness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,pain,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,soreness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,numbness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,heaviness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,fullness,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,pain,"reported as case counts per grade in Figure 2 (grades: None, Mild, Moderate, Severe)",post-experiment questionnaire on sensations experienced on stimulated acupoints
+24821143,arm_verum,verum_acupuncture,De-Qi sensation confirmed before connecting to electro-acupuncture machine,De-Qi sensation was elicited,not_reported
+24915066,arm_A,verum_acupuncture,overall de-qi score (mean of all sessions),8.70 ± 4.16,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,arm_B,sham_acupuncture,overall de-qi score (mean of all sessions),10.31 ± 4.26,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,arm_A,verum_acupuncture,overall de-qi score,8.61 ± 4.63,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,arm_B,sham_acupuncture,overall de-qi score,8.09 ± 4.64,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,arm_A,verum_acupuncture,overall de-qi score,9.13 ± 3.89,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,arm_B,sham_acupuncture,overall de-qi score,8.18 ± 3.70,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,arm_A,verum_acupuncture,overall de-qi score,10.62 ± 4.45,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,arm_B,sham_acupuncture,overall de-qi score,10.42 ± 4.42,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24915066,not_applicable,,overall de-qi score comparison between groups,not_reported,VAS for de-qi sensations (0–10 per component; score = sum of all component scores)
+24963329,arm_TA,verum_acupuncture,needle sensation (developing needle sensation mentioned as prerequisite for manipulation),"After developing needle sensation, twirling and lifting/thrusting were conducted.",not_reported
+24968124,arm_mci,other,soreness (percentage frequency),approximately 100% (from Fig. 2A),10-point scale for deqi sensations
+24968124,arm_hc,healthy_control,soreness (percentage frequency),approximately 100% (from Fig. 2A),10-point scale for deqi sensations
+24968124,arm_mci,other,warmth (percentage frequency),58%,10-point scale for deqi sensations
+24968124,arm_hc,healthy_control,warmth (percentage frequency),50%,10-point scale for deqi sensations
+24968124,arm_mci,other,tingling (percentage frequency),16%,10-point scale for deqi sensations
+24968124,arm_hc,healthy_control,tingling (percentage frequency),8%,10-point scale for deqi sensations
+24968124,arm_mci,other,averaged intensity of sensations,approximately similar to HC group (from Fig. 2B),"10-point scale (0 = no sensation, 1-3 = mild, 4-6 = moderate, 7-8 = strong, 9 = severe, 10 = unbearable sensation)"
+24968124,arm_hc,healthy_control,averaged intensity of sensations,approximately similar to MCI group (from Fig. 2B),"10-point scale (0 = no sensation, 1-3 = mild, 4-6 = moderate, 7-8 = strong, 9 = severe, 10 = unbearable sensation)"
+25228908,arm_verum,verum_acupuncture,"de qi sensations: aching, pressure, soreness, heaviness, fullness, warmth, cooling, numbness, tingling, and dull pain","When the volunteers felt the sensations of numbness, heaviness, distention, and soreness, representing de qi",not_reported (verbal questioning by investigator)
+25228908,arm_verum,verum_acupuncture,sharp_pain,"In the event of a sharp painful sensation, the needle position should be readjusted and the pain would disappear within a few seconds.",not_reported (verbal questioning)
+25228908,arm_verum,verum_acupuncture,warmth,"several volunteers felt the sensation of heat and perspiration during acupuncture manipulation, which indicated de qi",not_reported
+25452777,not_applicable,,feeling of 'de qi',"Following each scan, the feeling of 'de qi' was assessed and checked for in each subject by interview",interview assessment of 'de qi'
+25741269,healthy_subjects,healthy_control,MASS Index,3.15 [2.00;4.30],"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index,3.37 [2.47;4.28],"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index,1.81 [1.13;2.50],"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index,4.71 [3.53;5.89],"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index,3.59 [2.51;4.68],"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index,3.32 [2.34;4.29],"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index pairwise comparison,not_reported,"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index pairwise comparison,not_reported,"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index pairwise comparison,not_reported,"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index pairwise comparison,not_reported,"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index pairwise comparison,not_reported,"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25741269,healthy_subjects,healthy_control,MASS Index pairwise comparison,not_reported,"MGH Acupuncture Sensation Scale (MASS questionnaire Kong et al., 2007); MASS Index"
+25821486,arm_ACU,verum_acupuncture,De-qi sensations (0 being no sensation and 10 being the most intense sensation felt),not_reported,standard Likert scale
+25821486,arm_ACU,verum_acupuncture,pain,not_reported,not_reported
+25916336,arm_MWoA,verum_acupuncture,de-qi sensation,All patients reported the sensation of de-qi,not_reported
+26161117,arm_ALBP,other,pain,5.40 (S.D. = 0.98),10-point visual analog scale
+26161117,arm_ALBP,other,pain,3.47 (S.D. = 0.75),10-point visual analog scale
+26161117,arm_ALBP,other,pain,5.60 (S.D. = 1.24),10-point visual analog scale
+26161117,arm_ALBP,other,pain,4.51 (S.D. = 1.06),10-point visual analog scale
+26161117,arm_ALBP,other,soreness,not_reported (visible in Figure 5 only; ACUP bar higher than SHAM),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26161117,arm_ALBP,other,soreness,not_reported (visible in Figure 5 only; SHAM bar lower than ACUP),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26161117,arm_ALBP,other,numbness,not_reported (visible in Figure 5 only),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26161117,arm_ALBP,other,numbness,not_reported (visible in Figure 5 only),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26161117,arm_ALBP,other,heaviness,not_reported (visible in Figure 5 only),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26161117,arm_ALBP,other,heaviness,not_reported (visible in Figure 5 only),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26161117,arm_ALBP,other,fullness,not_reported (visible in Figure 5 only; ACUP bar notably higher than SHAM),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26161117,arm_ALBP,other,fullness,not_reported (visible in Figure 5 only),"10-point scale (0 = none, 1–3 = mild, 4–6 = moderate, 7–9 = strong, 10 = unbearable)"
+26839078,not_applicable,,"deqi sensation: soreness, numbness, heaviness, distention or dull pain at the site of needle placement",deqi sensation acquired in all treatment groups,not_reported
+27242492,arm_MDD,verum_acupuncture,fullness,reported as primary Deqi sensation; frequency and intensity shown in Figure 2,100-point visual analog scale (VAS)
+27242492,arm_MDD,verum_acupuncture,pain,reported as primary Deqi sensation; frequency and intensity shown in Figure 2,100-point visual analog scale (VAS)
+27242492,arm_MDD,verum_acupuncture,numbness,reported as primary Deqi sensation; frequency and intensity shown in Figure 2,100-point visual analog scale (VAS)
+27242492,arm_MDD,verum_acupuncture,soreness,reported as primary Deqi sensation; frequency and intensity shown in Figure 2,100-point visual analog scale (VAS)
+27242492,arm_MDD,verum_acupuncture,tingling,reported in Figure 2,100-point visual analog scale (VAS)
+27242492,arm_MDD,verum_acupuncture,"overall Deqi sensations including: aching, soreness, numbness, fullness, sharp or dull pain, pressure, heaviness, warmth, coolness, tingling, itching, and any others","VAS: 0 = no sensation, 10–30 = mild, 40–60 = moderate, 70–80 = strong, 90 = severe and 100 = unbearable sensation. Main Deqi sensations included fullness, dull pain, numbness, soreness, tingling and heaviness.",100-point visual analog scale (VAS)
+27242911,arm_included_studies,other,Deqi (needle sensation),82 studies required Deqi (needle sensation) during acupuncture stimulation,not_reported (requirement reported across studies)
+27242911,arm_included_studies,other,needle sensation,"41 studies used VAS (most commonly used, 68.3%)",10-point Visual Analogue Scale (VAS)
+27242911,arm_included_studies,other,needle sensation,5 studies,Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+27242911,arm_included_studies,other,needle sensation,3 studies,MASS and VAS combined
+27242911,arm_included_studies,other,needle sensation,3 studies,Subject Acupuncture Sensation Scale (SASS)
+27242911,arm_included_studies,other,needle sensation,1 study,6-point Likert scale
+27242911,arm_included_studies,other,needle sensation,1 study,Park questionnaire
+27242911,arm_included_studies,other,needle sensation,1 study,Psychophysical Rating of Needling Sensation (PRNS)
+27242911,arm_included_studies,other,needle sensation,1 study,Needle Sensation Questionnaire (NSQ)
+28053642,arm_left_gb34,verum_acupuncture,Total deqi score,13.00 ± 4.07,deqi sensation rating (12 subscales plus total)
+28053642,arm_right_gb34,verum_acupuncture,Total deqi score,16.82 ± 3.82,deqi sensation rating (12 subscales plus total)
+28053642,arm_left_gb34,verum_acupuncture,Aching score,"Median 0, range 0~4",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Aching score,"Median 0, range 0~5",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Dull pain score,"Median 0, range 0~3",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Dull pain score,"Median 0, range 0~5",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Soreness score,"Median 0, range 0~4",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Soreness score,"Median 0, range 0~5",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Warm score,"Median 0, range 0~5",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Warm score,"Median 0, range 0~4",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Cold score,"Median 0, range 0",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Cold score,"Median 0, range 0~2",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Tingling score,"Median 4.5, range 0~6",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Tingling score,"Median 5, range 2~7",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Throbbing score,"Median 0, range 0~5",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Throbbing score,"Median 0, range 0~4",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Sharp pain score,"Median 0, range 0~7",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Sharp pain score,"Median 1, range 0~7",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Heaviness score,"Median 0, range 0~7",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Heaviness score,"Median 0, range 0~5",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Numbness score,"Median 0, range 0~5",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Numbness score,"Median 0, range 0~4",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Fullness,"Median 0, range 0~7",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Fullness,"Median 0, range 0~4",deqi sensation rating
+28053642,arm_left_gb34,verum_acupuncture,Deep pressure score,"Median 0, range 0~4",deqi sensation rating
+28053642,arm_right_gb34,verum_acupuncture,Deep pressure score,"Median 0, range 0~5",deqi sensation rating
+28334999,arm_local,verum_acupuncture,characteristic deqi acupuncture sensation,manual stimulation at all locations was performed to induce characteristic deqi acupuncture sensation,not_reported
+28334999,arm_distal,verum_acupuncture,characteristic deqi acupuncture sensation,manual stimulation at all locations was performed to induce characteristic deqi acupuncture sensation,not_reported
+28443010,not_applicable,,sharp_pain,no one reported the sharp pain,questionnaire (unspecified)
+28443010,not_applicable,,De-qi experience,subjects were asked to fill questionnaires to record their experience of De-qi,questionnaire (unspecified)
+28480365,not_applicable,,needle sensation (deqi) mentioned in context of manipulation,"after developing needle sensation, twirling and lifting/thrusting manipulation conducted",not_reported
+29204113,arm_ea,verum_acupuncture,Qi sensation of acupuncture (deqi),After achieving a Qi sensation of acupuncture,not_reported
+29204113,arm_moxa,verum_acupuncture,warmth,"During moxibustion treatment, the abdomen of the patient was always warm. The patient was pleased and felt positive regarding the warm stimulation generated by moxibustion treatment, which increased the attention of the patient on the abdomen.",not_reported
+29343693,real,verum_acupuncture,Aching,"2.29±1.87, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,Aching,"0.44±0.81, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,real,verum_acupuncture,soreness,"2.04±1.70, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,soreness,"0.33±0.97, p = 0.15",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,real,verum_acupuncture,heaviness,"2.44±1.84, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,heaviness,"0.57±1.23, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,real,verum_acupuncture,fullness,"1.86±1.56, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,fullness,"0.25±0.72, p = 0.14",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,real,verum_acupuncture,tingling,"2.21±1.85, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,tingling,"0.26±0.96, p = 0.24",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,real,verum_acupuncture,pain,"1.42±1.29, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,pain,"0.28±0.72, p = 0.10",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,real,verum_acupuncture,sharp_pain,"2.06±1.79, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,sharp_pain,"0.26±0.71, p = 0.12",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,real,verum_acupuncture,MASS index,"2.88±1.80, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29343693,phnt,sham_acupuncture,MASS index,"0.61±1.30, p<0.05",in-house Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS) Index
+29563830,contra_group,verum_acupuncture,deqi sensation (general),"lifting, thrusting, and twirling approximately 180° was applied to induce the deqi sensation",not_reported
+29563830,ipsi_group,verum_acupuncture,deqi sensation (general),"lifting, thrusting, and twirling approximately 180° was applied to induce the deqi sensation",not_reported
+29904344,arm_pms_eas,verum_acupuncture,overall Deqi sensations,"Soreness, numbness, fullness, heaviness and tingling were the most commonly reported Deqi sensations (see Figure 2)","visual analog scale (VAS); includes sensations of soreness, numbness, fullness, heaviness, tingling, coolness, warmth, sharp pain, dull pain, aching and pressure"
+29904344,arm_pms_eas,verum_acupuncture,soreness,not_reported_exact_value (highest intensity per Figure 2),VAS (visual analog scale)
+29904344,arm_pms_eas,verum_acupuncture,numbness,not_reported_exact_value (among highest intensity per Figure 2),VAS (visual analog scale)
+29904344,arm_pms_eas,verum_acupuncture,fullness,not_reported_exact_value (among highest intensity per Figure 2),VAS (visual analog scale)
+29904344,arm_pms_eas,verum_acupuncture,heaviness,not_reported_exact_value (among highest intensity per Figure 2),VAS (visual analog scale)
+29904344,arm_pms_eas,verum_acupuncture,tingling,not_reported_exact_value (among highest intensity per Figure 2),VAS (visual analog scale)
+29904344,arm_pms_eas,verum_acupuncture,warmth,not_reported_exact_value (lower intensity per Figure 2),VAS (visual analog scale)
+29904344,arm_pms_eas,verum_acupuncture,sharp_pain,not_reported_exact_value (lower intensity per Figure 2),VAS (visual analog scale)
+29904344,arm_pms_eas,verum_acupuncture,pain,not_reported_exact_value (lower intensity per Figure 2),VAS (visual analog scale)
+29951105,arm_A,verum_acupuncture,"de qi (including numbness, soreness, distention, heaviness, and other sensations)",not_reported,not_reported
+30914909,arm_XNKQ,verum_acupuncture,MASS index,4.17 95%CI[3.34;5.01],Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+30914909,arm_npws,sham_acupuncture,MASS index,3.44[2.54;4.34],Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+30914909,arm_pns,sham_acupuncture,MASS index,3.52[2.65;4.39],Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+30914909,arm_npns,sham_acupuncture,MASS index,2.29[1.58;3.00],Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+30914909,not_applicable,,MASS index — factor stimulation main effect,not_reported,Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+30914909,not_applicable,,MASS index — factor location main effect,not_reported,Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+31636536,arm_REAL,verum_acupuncture,"Overall acupuncture sensation (Mass Index), soreness, tingling, and sharp pain reported as greater in REAL than PHNT (referenced from Lee et al., 2014)","Greater overall acupuncture sensation (Mass Index), soreness, tingling, and sharp pain than non-specific components (referenced from Lee et al., 2014)","Mass Index (Kong et al., 2007); acupuncture-related sensations"
+31636536,arm_PHNT,sham_acupuncture,"Deep pressure, heaviness, fullness, and numbness","Needling credibility induces parasympathetic activation and vicarious acupuncture (deqi) sensations (deep pressure, heaviness, fullness, and numbness) (Lee et al., 2014)",Vicarious acupuncture (deqi) sensations
+31636536,arm_REAL,verum_acupuncture,pain,4.74 ± 1.00/10,"VAS (0–10, 11-point visual analog scale)"
+31636536,arm_PHNT,sham_acupuncture,pain,5.54 ± 0.83,"VAS (0–10, 11-point visual analog scale)"
+31636536,arm_REAL,verum_acupuncture,pain,not_reported,"VAS (0–10, 11-point visual analog scale)"
+31636536,arm_PHNT,sham_acupuncture,pain,not_reported,"VAS (0–10, 11-point visual analog scale)"
+32377180,arm_contra,verum_acupuncture,"Deqi sensation (soreness, numbness, distention, or radiating)","Manual acupuncture was applied to achieve the Deqi sensation, which is a sensation of soreness, numbness, distention, or radiating that indicates effective needling",not_reported
+32377180,arm_ipsi,verum_acupuncture,"Deqi sensation (soreness, numbness, distention, or radiating)","Manual acupuncture was applied to achieve the Deqi sensation, which is a sensation of soreness, numbness, distention, or radiating that indicates effective needling",not_reported
+32807158,S_Acu,verum_acupuncture,soreness,1.74 ± 0.76,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,M_Acu,verum_acupuncture,soreness,2.02 ± 0.77,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,N_Acu,sham_acupuncture,soreness,1.93 ± 0.74,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,S_Acu,verum_acupuncture,numbness,1.74 ± 0.69,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,M_Acu,verum_acupuncture,numbness,1.91 ± 0.68,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,N_Acu,sham_acupuncture,numbness,1.79 ± 0.68,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,S_Acu,verum_acupuncture,heaviness,2.74 ± 0.76,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,M_Acu,verum_acupuncture,heaviness,2.98 ± 0.80,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,N_Acu,sham_acupuncture,heaviness,2.77 ± 0.78,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,S_Acu,verum_acupuncture,warmth,1.51 ± 0.74,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,M_Acu,verum_acupuncture,warmth,1.58 ± 0.79,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,N_Acu,sham_acupuncture,warmth,1.47 ± 0.74,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,S_Acu,verum_acupuncture,sharp_pain,2.74 ± 0.76,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,M_Acu,verum_acupuncture,sharp_pain,2.93 ± 0.80,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,N_Acu,sham_acupuncture,sharp_pain,2.86 ± 0.74,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,S_Acu,verum_acupuncture,pain,2.56 ± 0.67,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,M_Acu,verum_acupuncture,pain,2.65 ± 0.65,Massachusetts General Hospital acupuncture sensation scales (MASS)
+32807158,N_Acu,sham_acupuncture,pain,2.58 ± 0.66,Massachusetts General Hospital acupuncture sensation scales (MASS)
+33013312,arm_real,verum_acupuncture,"soreness, numbness, distension and heaviness","deqi was obtained (soreness, numbness, distension and heaviness)",not_reported
+33146953,not_applicable,,"soreness, numbness, heaviness, warmth, coldness, sharp pain, and dull pain",not_reported,Massachusetts General Hospital acupuncture sensation scale (MASS)
+33314799,not_applicable,,"MASS Index (weighted summation of 13 sensations including Soreness, Aching, Deep Pressure, Tingling, etc.; 0=none; 10=unbearable scale)",EA: approximately 3-4 across sessions; ML: approximately 1-2 across sessions (values from Figure 2B; exact numeric values not reported in text),MGH Acupuncture Sensation Scale (MASS)
+33384580,arm_IBS1st,verum_acupuncture,"Deqi (a sensation of soreness, numbness, fullness, and heaviness, and/or adjacent muscle twitching)",not_reported,not_reported
+33551385,arm_real_acu,verum_acupuncture,de-qi; reportedly includes tingling and heaviness and numbness,"The sense of 'de-qi' reportedly includes tingling and heaviness and numbness, and the perception of sensation induced by acupuncture stimulation is associated with time-consuming complicated processing in the central nervous system.",not_reported
+33560579,arm_effective,verum_acupuncture,significant needle reaction (Deqi),significant needle reaction (Deqi) was achieved before commencing 15-min session,not_reported (traditional subjective assessment)
+33560579,arm_sham,sham_acupuncture,Deqi absent,without achieving Deqi,not_reported
+33776442,arm_EA,verum_acupuncture,soreness,3.70±1.56 (1–6),Visual Analogue Scale (VAS)
+34108856,arm_RA,verum_acupuncture,De qi sensation,patients were responsive to acupuncture and able to attain the feeling of De qi (inclusion criterion),not_reported
+34431029,arm_TG,verum_acupuncture,"De-qi sensation (a tingling, numbness, and heaviness feelings)",De-qi sensation was triggered by the to-and-fro rotation of the needles for 10 s,not_reported
+34483822,arm_acupuncture,verum_acupuncture,"deqi index (composite MASS index calculated from VAS scores for suan, ma, zhang, tong, zouchuan, zhong)",approximately 3.5 (estimated from Figure 3; exact value not reported in text),Massachusetts General Hospital Acupuncture Sensation Scale (MASS); visual analog scale (VAS) for six deqi sensations
+34483822,arm_acupuncture,verum_acupuncture,deqi index (composite MASS index),approximately 1 (estimated from Figure 3; exact value not reported in text),Massachusetts General Hospital Acupuncture Sensation Scale (MASS); visual analog scale (VAS)
+34483822,arm_acupuncture,verum_acupuncture,deqi index (composite MASS index),approximately 1 (estimated from Figure 3; exact value not reported in text),Massachusetts General Hospital Acupuncture Sensation Scale (MASS); visual analog scale (VAS)
+34483822,arm_acupuncture,verum_acupuncture,suan (aching or soreness),not_reported,VAS for deqi sensations
+34483822,arm_acupuncture,verum_acupuncture,ma (numbness or tingling),not_reported,VAS for deqi sensations
+34483822,arm_acupuncture,verum_acupuncture,zhang (fullness/distention or pressure),not_reported,VAS for deqi sensations
+34483822,arm_acupuncture,verum_acupuncture,tong (dull pain),not_reported,VAS for deqi sensations
+34483822,arm_acupuncture,verum_acupuncture,"zouchuan (spreading, a feeling of extension from the acupuncture position to the arm)",not_reported,VAS for deqi sensations
+34483822,arm_acupuncture,verum_acupuncture,zhong (heaviness),not_reported,VAS for deqi sensations
+34671239,TA,verum_acupuncture,"Deqi sensation: soreness, numbness, distention, or radiating","Stimulation was repeated one to three times to achieve the Deqi sensation (a sensation of soreness, numbness, distention, or radiating that indicates effective needling)",not_reported
+34671239,SA,sham_acupuncture,Deqi sensation,subjects in the SA group did not experience Deqi,not_reported
+34720908,arm_IBSD,verum_acupuncture,"deqi sense with soreness, numbness, heaviness, and distention",not_reported,not_reported
+35048524,arm_cnsp,verum_acupuncture,"deqi sensation described as soreness, numbness, distention, and heaviness","deqi sensation (soreness, numbness, distention, and heaviness) was obtained",not_reported
+35115998,arm_KOA,verum_acupuncture,"de-qi sensation (soreness, numbness, fullness, and heaviness)","When the participants received de-qi sensation (soreness, numbness, fullness, and heaviness)",not_reported
+35153654,arm_tinnitus,verum_acupuncture,deqi sensation,the acupuncturist manipulated the needle within the tolerance of the subject until the subjects obtained the deqi sensation without sharp pain,not_reported
+35557556,arm_groupA,verum_acupuncture,"deqi sensation (lifting, thrusting, twirling to achieve deqi)","deqi sensation achieved via lifting and thrusting with amplitude 3–5 mm, twirling 90–180°",not_reported
+35557556,arm_groupB,active_control,"deqi sensation (lifting, thrusting, twirling to achieve deqi)","deqi sensation achieved via lifting and thrusting with amplitude 3–5 mm, twirling 90–180°",not_reported
+35832324,arm_neiguan,verum_acupuncture,"soreness, numbness, fullness, and aching",acupuncture at Neiguan obviously resulted in sensations compared to non-acupoint acupuncture,feeling questionnaires about the sensations
+36051643,VA,verum_acupuncture,"deqi sensation: soreness, numbness, heaviness, swelling, or dull pain",patients were required to obtain deqi sensation,not_reported
+36102803,arm_exp,verum_acupuncture,pain,69 ± 6 mm,Visual Analog Scale (VAS)
+36102803,arm_exp,verum_acupuncture,pain,21 ± 3 mm,Visual Analog Scale (VAS)
+36102803,arm_ctrl,waitlist,pain,61 ± 3 mm,Visual Analog Scale (VAS)
+36102803,arm_ctrl,waitlist,pain,55 ± 4 mm,Visual Analog Scale (VAS)
+36744205,arm_patients,verum_acupuncture,"Deqi sensation (soreness, numbness, distention, or radiating)","Deqi was induced throughout treatment by twirling and rotating needle sheath; described as soreness, numbness, distention, or radiating",not_reported
+36846148,not_applicable,,"Deqi: aching, pressure, heaviness, fullness, and numbness among other feelings","All participants reported their experience ('Deqi') with acupuncture stimulation. Deqi featured aching, pressure, heaviness, fullness, and numbness among other feelings",not_reported
+36890655,arm_VA,verum_acupuncture,average C-MASS ratings for all ten descriptors,not_reported,Chinese version of the modified Massachusetts General Hospital Acupuncture Sensation Scale (C-MASS)
+36890655,arm_SA,sham_acupuncture,average C-MASS ratings for all ten descriptors,not_reported,Chinese version of the modified Massachusetts General Hospital Acupuncture Sensation Scale (C-MASS)
+37206312,not_applicable,,"overall comparison among ERR, LTRei, and LTRed (seven categories: soreness, numbness, fullness, heaviness, aching, throbbing, and other sensations)","F(2,60) = 2.917, p = 0.062, η2 = 0.089",Chinese version of the modified Massachusetts General Hospital Acupuncture Sensation Scale (C-MMASS)
+37305743,arm_SA,verum_acupuncture,deqi sensation (general),causing a deqi sensation (mentioned as intended outcome of needle manipulation),not_reported
+37383656,TATG,verum_acupuncture,"De qi: soreness, dullness, numbness, heaviness, and other feelings","patients obtained De qi; a combination of sensations including soreness, dullness, numbness, heaviness, and other feelings",not_reported
+37383656,SATG,sham_acupuncture,De qi avoided,We would avoid De qi sensations in the manipulation in the SATG group,not_reported
+37408438,TA,verum_acupuncture,"Deqi sensation (soreness, numbness, distention, or radiation)","Rotating or lifting–thrusting manipulation was performed for Deqi sensation (a sensation of soreness, numbness, distention, or radiation that indicated effective needling) after needle insertion",not_reported
+37408438,SA,sham_acupuncture,Deqi sensation,"shallow acupuncture with a depth of 2 mm was performed at the five non-acupoints, without manual stimulation to yield the Deqi sensation",not_reported
+37415858,arm_REAL,verum_acupuncture,MASS index score (overall),4.32 ± 2.43,Massachusetts General Hospital Acupuncture Sensation Scale (MASS) index
+37415858,arm_PHNT,sham_acupuncture,MASS index score (overall),1.23 ± 1.18,Massachusetts General Hospital Acupuncture Sensation Scale (MASS) index
+37415858,arm_PHNT,sham_acupuncture,perceived_realness,76% (19 of 25 participants reported needling credibility),structural interview
+37721727,arm_IA,verum_acupuncture,"deqi (a complex and mixed feeling including numbness, distention, soreness, or dull pain at the needling acupoints)","deqi was elicited by lifting and thrusting; described as a complex and mixed feeling including numbness, distention, soreness, or dull pain at the needling acupoints",not_reported
+37804240,arm_SA,verum_acupuncture,deqi sensation,1.93 ± 0.27,numerical rating scale (0 = no sensation to 10 = very strong sensation)
+37804240,arm_SA,verum_acupuncture,deqi sensation,3.48 ± 0.33,numerical rating scale (0 = no sensation to 10 = very strong sensation)
+37804240,arm_SA,verum_acupuncture,deqi sensation,6.01 ± 0.33,numerical rating scale (0 = no sensation to 10 = very strong sensation)
+37804240,arm_VA,other,deqi sensation,1.39 ± 0.24,numerical rating scale (0 = no sensation to 10 = very strong sensation)
+37804240,arm_VA,other,deqi sensation,2.11 ± 0.28,numerical rating scale (0 = no sensation to 10 = very strong sensation)
+37804240,arm_VA,other,deqi sensation,3.75 ± 0.50,numerical rating scale (0 = no sensation to 10 = very strong sensation)
+37804240,arm_SA,verum_acupuncture,overall deqi sensation,3.81 ± 0.36,Korean version of the Massachusetts General Hospital Acupuncture Sensation Scale (MASS)
+38249582,not_applicable,,"Deqi sensation described as soreness, numbness, and heaviness","a soreness, numbness, and heaviness sensation",not_reported
+38585348,EG,verum_acupuncture,"de qi needling sensation described as soreness, numbness, distention, heaviness, and other sensations","de qi needling sensation (a composite of sensations including soreness, numbness, distention, heaviness, and other sensations)",not_reported
+39089662,AG,verum_acupuncture,"soreness, numbness, distension, or heaviness","Twirling, lifting, and thrusting manipulations were performed to achieve 'de qi' sensation (soreness, numbness, distension, or heaviness)",not_reported
+39499594,not_applicable,,needling sensations ('deqi' phenomenon),"the subject had some needling sensations; subjects to experience sensations such as heaviness, numbness, and distension",not_reported
+39499594,not_applicable,,heaviness,"sensations such as heaviness, numbness, and distension",not_reported
+39499594,not_applicable,,numbness,"sensations such as heaviness, numbness, and distension",not_reported
+39499594,not_applicable,,fullness,"sensations such as heaviness, numbness, and distension",not_reported
+39543627,arm_RA,verum_acupuncture,"Deqi sensation (soreness, numbness, heaviness, distension experienced by patient; heaviness, astringency, tightness felt by acupuncturist)",not_reported,not_reported
+39648209,arm_SSRIs_AIA,verum_acupuncture,pain,1 case (2.5%),not_reported
+39654647,arm_verum_acu,verum_acupuncture,Deqi (general),Several studies have demonstrated that the Deqi group exhibits significant activation in relevant brain regions compared with the non-Deqi group,not_reported
+40022556,arm_acupuncture,verum_acupuncture,"Deqi sensation characterized by feelings of pain, heaviness, numbness, swelling, or radiation",not_reported,not_reported
+40584525,arm_true,verum_acupuncture,"soreness, numbness, distension, and heaviness","subject would experience the deqi sensations such as soreness, numbness, distension, and heaviness",not_reported
+40634927,AG,verum_acupuncture,de qi sensation (achieved through manual stimulation),Acupuncturists manually stimulated the needles to achieve de qi,not_reported
+40634927,SG,sham_acupuncture,de qi sensation (not required),Sham needles did not penetrate the skin and did not require the 'De Qi' sensation,not_reported
+40642213,arm_ST36,verum_acupuncture,MASS_L (total MASS score for the left body),6.68 ± 5.88,MGH Acupuncture Sensation Scale (MASS)
+40642213,arm_ST36,verum_acupuncture,MASS_R (total MASS score for the right body),7.53 ± 50.63,MGH Acupuncture Sensation Scale (MASS)
+40642213,arm_KI4,verum_acupuncture,MASS_L (total MASS score for the left body),5.88 ± 4.69,MGH Acupuncture Sensation Scale (MASS)
+40642213,arm_KI4,verum_acupuncture,MASS_R (total MASS score for the right body),6.44 ± 5.57,MGH Acupuncture Sensation Scale (MASS)
+40642213,arm_HT7,verum_acupuncture,MASS_L (total MASS score for the left body),6.53 ± 5.34,MGH Acupuncture Sensation Scale (MASS)
+40642213,arm_HT7,verum_acupuncture,MASS_R (total MASS score for the right body),7.82 ± 5.62,MGH Acupuncture Sensation Scale (MASS)
+40642213,arm_ST36,verum_acupuncture,fullness,The sensation of fullness was significantly higher at bilateral ST36 as compared to KI4 and HT7,MGH Acupuncture Sensation Scale (MASS)
+40642213,arm_HT7,verum_acupuncture,tingling,The sensation of tingling was higher at bilateral HT7 than at ST36,MGH Acupuncture Sensation Scale (MASS)
+40642213,not_applicable,,composite deqi score excluding sharp pain,"A deqi response was defined as a total score of 3 or higher for any of the 12 sensations, excluding sharp pain",MGH Acupuncture Sensation Scale (MASS)
+40660313,not_applicable,,needling sensation (de qi),"After the acupoints obtained qi, the needles were retained for 20 min",not_reported
+40847552,arm_responders,verum_acupuncture,Deqi sensation (general),"The insertion depth and direction were determined based on the patient's treatment site, with the aim of achieving the Deqi sensation.",not_reported
+40904730,not_applicable,,"de-qi sensation (a feeling of numbness, tingling, or heaviness)",de-qi sensation was more crucial for clear activation of brain regions than needling depth or needle diameter,not_reported
+40963943,arm_TTH,other,"Composite Deqi (soreness, numbness, distension, heaviness, or other special sensations)",10 TTH patients had higher scores for composite Deqi sensation; 23 had higher acute pain scores; 3 had same scores,Composite Deqi sensation score (0–10 scale)
+40963943,arm_TTH,other,sharp_pain,23 TTH patients reported higher levels of acute pain scores compared to composite Deqi sensation,Acute pain sensation score (0–10 scale)
+40963943,arm_HC,healthy_control,"Composite Deqi (soreness, numbness, distension, heaviness, or other special sensations)",11 HCs exhibited higher scores for the composite Deqi sensation; 21 had higher acute pain scores; 4 had same scores,Composite Deqi sensation score (0–10 scale)
+40963943,arm_HC,healthy_control,sharp_pain,21 HCs experienced higher levels of acute pain scores in comparison to the composite Deqi sensation,Acute pain sensation score (0–10 scale)
+40995472,arm_female,verum_acupuncture,soreness,5.81 ± 1.47,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,soreness,3.96 ± 1.485,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,heaviness,2.667 ± 1.065,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,heaviness,4.52 ± 1.896,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,fullness,5.238 ± 1.411,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,fullness,4.88 ± 1.833,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,warmth,2.143 ± 1.558,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,warmth,2.56 ± 1.781,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,numbness,4.905 ± 1.895,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,numbness,2.4 ± 1.472,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,tingling,4.81 ± 1.601,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,tingling,2.44 ± 1.805,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,pain,3.429 ± 1.989,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,pain,2.76 ± 1.562,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,soreness,3.381 ± 1.884,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,soreness,1.44 ± 1.158,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_female,verum_acupuncture,sharp_pain,4 ± 1.643,Massachusetts Acupuncture Sensation Scale (MASS)
+40995472,arm_male,verum_acupuncture,sharp_pain,1.84 ± 1.248,Massachusetts Acupuncture Sensation Scale (MASS)
+41022570,arm_01,verum_acupuncture,"De Qi sensation described as sourness, numbness, distention, and pain","Light to moderate stimulation to produce De Qi (sourness, numbness, distention, and pain), which is considered an effective acupuncture response",not_reported
+41069516,arm_BP,verum_acupuncture,"soreness, numbness, distension, heaviness (patient-reported); tight, rough sensation under needle (acupuncturist-perceived)",Deqi was achieved (required for needle retention to proceed); specific quantitative values not reported,not_reported; Deqi defined by study criteria
+41310834,arm_acupuncture,verum_acupuncture,"pain, heaviness, numbness, swelling, or radiation","The 'Deqi' sensation, a clinical marker of effective acupuncture characterized by sensations of pain, heaviness, numbness, swelling, or radiation, was induced through needle manipulation techniques such as lifting, thrusting, twirling, and rotating.",not_reported
+41351443,AG,verum_acupuncture,"de-qi: soreness, numbness, heaviness","required to achieve de-qi (feeling of soreness, numbness, heaviness)",not_reported
+41520025,arm_EA,verum_acupuncture,pain,pre = 3.79,Multimodal Ascending Sensory Test (MAST) system; Numerical Rating Scale (NRS) 0-100
+41520025,arm_EA,verum_acupuncture,pain,post = 3.66,Multimodal Ascending Sensory Test (MAST) system; Numerical Rating Scale (NRS) 0-100
+41520025,arm_ML,sham_acupuncture,pain,pre = 3.50,Multimodal Ascending Sensory Test (MAST) system; Numerical Rating Scale (NRS) 0-100
+41520025,arm_ML,sham_acupuncture,pain,post = 3.26,Multimodal Ascending Sensory Test (MAST) system; Numerical Rating Scale (NRS) 0-100
+41591775,arm_real_acu,verum_acupuncture,"deqi sensation (distention, numbness, soreness, or radiating sensations)","deqi was intended and elicited through twirling, lifting, and thrusting",not_reported
+41591775,arm_sham_acu,sham_acupuncture,deqi omitted,Manipulation matched real acupuncture but omitted deqi,not_reported
+41602988,arm_BP_acupuncture,verum_acupuncture,"deqi sensation (numbness, distention, or heaviness) at bilateral LI4","sensation typically described by patients as numbness, distention, or heaviness",not_reported
+41657421,arm_study,verum_acupuncture,"deqi sensation (dull ache, numbness, or tingling)","mild but noticeable deqi sensation (a characteristic sensation of acupuncture, often described as a dull ache, numbness, or tingling) in the patients without causing any discomfort or pain",not_reported
+41834818,arm_tx,verum_acupuncture,deqi at scalp acupoints,deqi was achieved before connecting to device (for scalp/head acupoints),not_reported
+41999225,AG,verum_acupuncture,Deqi sensation,needle manipulation for Deqi sensation induction required; standardized procedures performed,not_reported
+42131703,VA,verum_acupuncture,deqi sensation (characteristic needling sensation),"deqi sensation elicited by rotational manipulation (180° amplitude, 2 Hz frequency) for 1 min",not_reported
+42131703,SA,sham_acupuncture,deqi sensation,no manipulation was performed to elicit the deqi sensation,not_reported

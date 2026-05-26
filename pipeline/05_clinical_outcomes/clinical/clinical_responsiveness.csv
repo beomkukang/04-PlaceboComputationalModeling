@@ -1,0 +1,39 @@
+pmid,outcome_measure,outcome_domain,scale_name,arm_id,arm_type,R_within,n,disease_condition
+24459533,mental component summary (MCS) score of the MOS 36-item Short Health Survey (SF-36),quality_of_life,MOS 36-item Short Health Survey (SF-36) - MCS,arm_FD,verum_acupuncture,-0.0611,18,Functional diarrhea (FD)
+24915066,VAS score,pain,Visual Analogue Scale (VAS) score 0–10,arm_A,verum_acupuncture,0.7341,40,migraine without aura
+25916336,VAS scores,pain,visual analogue scale (VAS),arm_MWoA,verum_acupuncture,2.0036,12,Migraine without aura (MWoA)
+26839078,Headache intensity,pain,"visual analogue scale (VAS), 0–10",VA1,verum_acupuncture,1.3533,11,Migraine without aura (MwoA)
+27688791,Bodily pain (BP),quality_of_life,SF-36,arm_LR3,verum_acupuncture,0.0678,14,"Essential hypertension (mild or moderate arterial hypertension, grade 1 or 2)"
+27812501,Montgomery-Asberg depression rating scale (MADRS),symptom_severity,Montgomery-Asberg depression rating scale (MADRS),arm_sham,sham_acupuncture,0.9136,18,Major depressive disorder (MDD)
+27857211,Crohn's Disease Activity Index (CDAI),symptom_severity,Crohn's Disease Activity Index (CDAI),EA,verum_acupuncture,0.6652,16,Crohn's disease (remission period)
+29204113,CDAI (Crohn's disease activity index),symptom_severity,CDAI,arm_ea,verum_acupuncture,0.624,18,Crohn's disease (CD) in remission
+29563830,Pain intensity (VAS),pain,visual analog scale (VAS); 0–100 mm,contra_group,verum_acupuncture,1.1755,12,Unilateral chronic shoulder pain (CSP); left-sided shoulder pain
+29951105,modified Barthel Index (MBI) score,function,modified Barthel Index (MBI),arm_A,verum_acupuncture,0.8782,11,Ischemic stroke
+30034336,Hypokinesia score,symptom_severity,"UPDRS III hypokinesia score (items 23, 24, 25, 26, 31)",SAG,sham_acupuncture,-0.0581,12,Parkinson's disease with tremor
+32807158,Athens Insomnia Scale (AIS) score,symptom_severity,Athens Insomnia Scale (AIS),M_Acu,verum_acupuncture,1.7145,43,Primary insomnia (PI)
+33013312,Visual Analog Scale (VAS) abdominal pain severity,pain,Visual Analog Scale (VAS) 0-10,arm_real,verum_acupuncture,2.7345,20,Primary dysmenorrhea (PDM)
+33146953,Athens Insomnia Scale (AIS) score,symptom_severity,Athens Insomnia Scale (AIS),arm_FPI,verum_acupuncture,2.8709,18,Primary insomnia (PI)
+34720908,Abdominal pain days,symptom_severity,IBS-SSS subscale,arm_IBSD,verum_acupuncture,0.7785,42,Diarrhea-Predominant Irritable Bowel Syndrome (IBS-D)
+35048524,NRS score,pain,Numerical Rating Scale (NRS),arm_cnsp,verum_acupuncture,3.1079,30,Chronic neck and shoulder pain (CNSP)
+35153654,tinnitus disturbance inventory (TDI),symptom_severity,tinnitus disturbance inventory (TDI),arm_tinnitus,verum_acupuncture,1.1811,14,chronic tinnitus
+35557556,McGill pain score,pain,McGill Pain Questionnaire,arm_groupA,verum_acupuncture,0.7667,15,Chronic stable angina pectoris (CSAP)
+35585920,NDSI score,symptom_severity,Nepean Dyspepsia Symptom Index (NDSI),arm_A,verum_acupuncture,1.4104,18,functional dyspepsia (FD)
+36051643,VAS scores,pain,visual analog scale (VAS),SA,sham_acupuncture,0.42,14,Primary dysmenorrhea (PDM)
+36890655,VAS (Visual Analog Scale),pain,Visual Analog Scale (VAS),arm_AG,verum_acupuncture,0.8885,60,Knee osteoarthritis (KOA) with knee pain
+37383656,NIHSS,symptom_severity,National Institutes of Health Stroke Scale,SATG,sham_acupuncture,0.3312,14,ischemic stroke with motor dysfunction
+37721727,Internet Addiction Test score,symptom_severity,Internet Addiction Test (IAT),arm_IA,verum_acupuncture,1.3123,27,Internet addiction (IA)
+38027487,Water Swallow Test (WST),function,Water Swallow Test (WST),arm_ea,verum_acupuncture,-2.1022,24,post-stroke dysphagia
+38245739,SF-MPQ score,pain,Short-Form McGill Pain Questionnaire (SF-MPQ),arm_group1,verum_acupuncture,1.3185,50,Non-menstrual migraine without aura (MWoA)
+38249582,NIHSS scores,symptom_severity,National Institute of Health Stroke Scale (NIHSS),arm_1min,verum_acupuncture,0.0431,10,Ischemic stroke with motor dysfunction
+38585348,THI scores,symptom_severity,Tinnitus Handicap Inventory (THI),EG,verum_acupuncture,1.2082,34,Subjective tinnitus (ST)
+38681626,HAMA-14 score,symptom_severity,14-item Hamilton Anxiety Scale (HAMA-14),EAS,verum_acupuncture,2.7972,14,First-episode major depressive disorder (MDD)
+40584525,MMSE score,cognition,Mini-Mental State Examination (MMSE),arm_sham,sham_acupuncture,0.2089,15,amnestic mild cognitive impairment (aMCI)
+40634927,NRS score,pain,numerical rating scale (NRS),AG,verum_acupuncture,1.7476,27,knee osteoarthritis (KOA)
+40847552,VAS (Visual Analog Scale),pain,Visual Analog Scale (VAS) (0-10),arm_nonresponders,verum_acupuncture,0.878,32,Neck pain (NP)
+40881782,FMA score,function,Fugl-Meyer Assessment (FMA),arm_IDSA,verum_acupuncture,1.61,31,Bilateral basal ganglia ischemic stroke (BBGIS)
+40950284,SAS Score,mood,Self-Rating Anxiety Scale (SAS),arm_yyhat,verum_acupuncture,1.5215,102,Peripheral facial paralysis (Bell's palsy)
+41069516,FDIP (facial disability index-physical function),function,Facial Disability Index (FDI) - physical function subscale,arm_BP,verum_acupuncture,-2.0575,55,acute Bell's palsy (BP); acute idiopathic peripheral facial paralysis
+41310834,ISI (Insomnia Severity Index),symptom_severity,Insomnia Severity Index (ISI),arm_acupuncture,verum_acupuncture,2.0053,23,Chronic insomnia disorder (CID)
+41351443,AVLT-H total score (sum of all correct responses in the five recall tests),cognition,Auditory Verbal Learning Test-Huashan version (AVLT-H),AG,verum_acupuncture,1.0714,35,Subjective cognitive decline (SCD)
+41834818,NIHSS scores,symptom_severity,National Institute of Health Stroke Scale (NIHSS),arm_tx,verum_acupuncture,1.486,28,poststroke motor dysfunction
+42131703,Visual Analog Scale (VAS) score,pain,Visual Analog Scale (VAS),SA,sham_acupuncture,1.2277,49,mechanical neck pain

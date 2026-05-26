@@ -1,0 +1,15 @@
+category,count
+decision_include_for_full_text,636
+decision_unclear,46
+decision_exclude,23
+retrieval_abstract_found,530
+retrieval_no_pmid,158
+retrieval_no_abstract_in_pubmed,17
+exclusion_reason_not_acupuncture_like_intervention,15
+exclusion_reason_not_functional_brain_imaging,4
+exclusion_reason_non_fMRI_modality_only,2
+exclusion_reason_animal_study,1
+exclusion_reason_review_meta_analysis,1
+pdf_collected_total,141
+pdf_collected_kept_for_review,141
+pdf_collected_excluded_needs_manual_check,0

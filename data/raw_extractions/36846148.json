@@ -1,0 +1,239 @@
+{
+  "study": {
+    "pmid": "36846148",
+    "doi": "10.3389/fneur.2023.1148220",
+    "trial_registration": "not_reported",
+    "title": "Corrigendum: Modulations of static and dynamic functional connectivity among brain networks by electroacupuncture in post-stroke aphasia",
+    "first_author": "Xu",
+    "year": "2023",
+    "journal": "Frontiers in Neurology",
+    "article_type": "Correction / Corrigendum",
+    "study_design": "not_reported",
+    "randomization": "not_reported",
+    "blinding": "not_reported",
+    "n_total_enrolled": null,
+    "n_total_randomized": null,
+    "n_total_analyzed_clinical": null,
+    "n_total_analyzed_neuroimaging": null,
+    "population": "Post-stroke aphasia (PSA) patients and healthy controls (HC)",
+    "disease_condition": "post-stroke aphasia",
+    "healthy_volunteers": null,
+    "inclusion_criteria": "not_reported",
+    "exclusion_criteria": "not_reported"
+  },
+  "arms": [
+    {
+      "arm_id": "arm_PSA",
+      "arm_label_exact": "PSA",
+      "arm_type_coded": "other",
+      "n_assigned": null,
+      "n_completed": null,
+      "n_analyzed_clinical": null,
+      "n_analyzed_neuroimaging": null,
+      "dropouts": "not_reported"
+    },
+    {
+      "arm_id": "arm_HC",
+      "arm_label_exact": "HC",
+      "arm_type_coded": "healthy_control",
+      "n_assigned": null,
+      "n_completed": null,
+      "n_analyzed_clinical": null,
+      "n_analyzed_neuroimaging": null,
+      "dropouts": "not_reported"
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "cond_EA_fMRI",
+      "arm_id": "arm_PSA",
+      "condition_label_exact": "EA stimulation at the HT5 and GB39 acupoints during fMRI acquisition",
+      "condition_type": "during_stimulation",
+      "timepoint_exact": "during fMRI acquisition",
+      "scan_context": "fMRI acquisition with electroacupuncture at HT5 and GB39",
+      "dose_or_intensity_label": "not_reported"
+    },
+    {
+      "condition_id": "cond_EA_fMRI_HC",
+      "arm_id": "arm_HC",
+      "condition_label_exact": "EA stimulation at the HT5 and GB39 acupoints during fMRI acquisition",
+      "condition_type": "during_stimulation",
+      "timepoint_exact": "during fMRI acquisition",
+      "scan_context": "fMRI acquisition with electroacupuncture at HT5 and GB39",
+      "dose_or_intensity_label": "not_reported"
+    }
+  ],
+  "interventions": [
+    {
+      "intervention_id": "int_EA_PSA",
+      "arm_id": "arm_PSA",
+      "condition_id": "cond_EA_fMRI",
+      "procedure_label_exact": "Electroacupuncture at HT5 and GB39",
+      "stimulation_type": "electroacupuncture",
+      "acupuncture_modality": "electroacupuncture",
+      "acupoints_used_exact": [
+        "HT5",
+        "GB39"
+      ],
+      "non_acupoint_locations_exact": [],
+      "anatomical_location_exact": "HT5: radially to the flexor carpi ulnaris tendon on the anteromedial side of the forearm, 33 mm proximal to the palmar wrist crease; GB39: 100 mm above the external malleolus tip, on the anterior fibula border",
+      "laterality_exact": "both sides",
+      "needle_type_exact": "sterile silver acupuncture needles",
+      "needle_size_exact": "0.40 × 40-mm",
+      "penetration_exact": "not_reported",
+      "depth_exact": "HT5: insertion depths ranging from 10 to 30 mm; GB39: insertion depth of 33 mm",
+      "depth_mm_numeric": null,
+      "manipulation_exact": "EA technique",
+      "deqi_intended_exact": "All participants reported their experience ('Deqi') with acupuncture stimulation. Deqi featured aching, pressure, heaviness, fullness, and numbness among other feelings",
+      "electrical_stimulation": true,
+      "electrical_frequency_exact": "2 Hz",
+      "electrical_intensity_exact": "2 mA",
+      "needle_retention_exact": "not_reported",
+      "needle_retention_min_numeric": null,
+      "session_duration_exact": "not_reported",
+      "session_duration_min_numeric": null,
+      "number_of_sessions_exact": "not_reported",
+      "number_of_sessions_numeric": null,
+      "treatment_period_exact": "not_reported",
+      "practitioner_description_exact": "A professional acupuncturist performed acupuncture",
+      "participant_instructions_exact": "not_reported",
+      "treatment_rationale_given_exact": "not_reported",
+      "sham_details": {
+        "sham_subtype_exact": "not_applicable",
+        "sham_device_exact": "not_applicable",
+        "sham_penetration_exact": "not_applicable",
+        "sham_location_exact": "not_applicable",
+        "sham_manipulation_exact": "not_applicable",
+        "sham_deqi_intended_exact": "not_applicable",
+        "sham_credibility_procedure_exact": "not_applicable"
+      }
+    },
+    {
+      "intervention_id": "int_EA_HC",
+      "arm_id": "arm_HC",
+      "condition_id": "cond_EA_fMRI_HC",
+      "procedure_label_exact": "Electroacupuncture at HT5 and GB39",
+      "stimulation_type": "electroacupuncture",
+      "acupuncture_modality": "electroacupuncture",
+      "acupoints_used_exact": [
+        "HT5",
+        "GB39"
+      ],
+      "non_acupoint_locations_exact": [],
+      "anatomical_location_exact": "HT5: radially to the flexor carpi ulnaris tendon on the anteromedial side of the forearm, 33 mm proximal to the palmar wrist crease; GB39: 100 mm above the external malleolus tip, on the anterior fibula border",
+      "laterality_exact": "both sides",
+      "needle_type_exact": "sterile silver acupuncture needles",
+      "needle_size_exact": "0.40 × 40-mm",
+      "penetration_exact": "not_reported",
+      "depth_exact": "HT5: insertion depths ranging from 10 to 30 mm; GB39: insertion depth of 33 mm",
+      "depth_mm_numeric": null,
+      "manipulation_exact": "EA technique",
+      "deqi_intended_exact": "All participants reported their experience ('Deqi') with acupuncture stimulation. Deqi featured aching, pressure, heaviness, fullness, and numbness among other feelings",
+      "electrical_stimulation": true,
+      "electrical_frequency_exact": "2 Hz",
+      "electrical_intensity_exact": "2 mA",
+      "needle_retention_exact": "not_reported",
+      "needle_retention_min_numeric": null,
+      "session_duration_exact": "not_reported",
+      "session_duration_min_numeric": null,
+      "number_of_sessions_exact": "not_reported",
+      "number_of_sessions_numeric": null,
+      "treatment_period_exact": "not_reported",
+      "practitioner_description_exact": "A professional acupuncturist performed acupuncture",
+      "participant_instructions_exact": "not_reported",
+      "treatment_rationale_given_exact": "not_reported",
+      "sham_details": {
+        "sham_subtype_exact": "not_applicable",
+        "sham_device_exact": "not_applicable",
+        "sham_penetration_exact": "not_applicable",
+        "sham_location_exact": "not_applicable",
+        "sham_manipulation_exact": "not_applicable",
+        "sham_deqi_intended_exact": "not_applicable",
+        "sham_credibility_procedure_exact": "not_applicable"
+      }
+    }
+  ],
+  "sensory_interoceptive_responses": [
+    {
+      "response_id": "resp_deqi_general",
+      "arm_id": "not_applicable",
+      "condition_id": "not_applicable",
+      "timepoint_exact": "during acupuncture stimulation",
+      "response_domain": "deqi",
+      "instrument_name_exact": "not_reported",
+      "item_or_subscale_exact": "Deqi: aching, pressure, heaviness, fullness, and numbness among other feelings",
+      "reporting_format": "narrative",
+      "value_exact": "All participants reported their experience ('Deqi') with acupuncture stimulation. Deqi featured aching, pressure, heaviness, fullness, and numbness among other feelings",
+      "n_analyzed": null,
+      "between_group_difference_exact": "not_reported",
+      "within_group_change_exact": "not_reported",
+      "statistical_test_exact": "not_reported",
+      "p_value_exact": "not_reported",
+      "notes": "Qualitative description of Deqi only; no quantitative scores reported in this corrigendum"
+    }
+  ],
+  "neuroimaging_methods": {
+    "modality": "fMRI",
+    "scanner_manufacturer_model_exact": "not_reported",
+    "field_strength_tesla": null,
+    "sequence_exact": "not_reported",
+    "TR_exact": "not_reported",
+    "TE_exact": "not_reported",
+    "voxel_size_exact": "not_reported",
+    "scan_duration_exact": "not_reported",
+    "preprocessing_software_exact": "not_reported",
+    "analysis_software_exact": "not_reported",
+    "normalization_template_exact": "not_reported",
+    "coordinate_space_reported_exact": "not_reported",
+    "smoothing_exact": "not_reported",
+    "motion_exclusion_exact": "not_reported",
+    "filtering_exact": "not_reported",
+    "global_signal_regression_exact": "not_reported",
+    "primary_neuroimaging_metrics": [],
+    "statistical_thresholds_exact": [],
+    "multiple_comparison_correction_exact": "not_reported"
+  },
+  "neural_results": {
+    "contrasts": []
+  },
+  "clinical_behavioral_outcomes": [],
+  "expectancy_blinding_credibility": [],
+  "adverse_events": [],
+  "funding_conflicts_registration": {
+    "funding_exact": "not_reported",
+    "conflict_of_interest_exact": "not_reported",
+    "ethics_approval_exact": "not_reported",
+    "trial_registration_exact": "not_reported",
+    "data_availability_exact": "not_reported"
+  },
+  "extraction_notes": [
+    {
+      "note_type": "other",
+      "note": "This document is a corrigendum to the original article (Front. Neurol. 13:956931, doi: 10.3389/fneur.2022.956931). It corrects only the description of the EA technique in the 'Stimuli and scanning procedure, Acupuncture procedures and needling sensation recording' section. Full study methods, results, neuroimaging tables, clinical outcomes, and statistical data are not reported here and must be obtained from the original article."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "No neuroimaging acquisition parameters, statistical thresholds, coordinate tables, clinical outcome data, or quantitative sensory/Deqi measures are provided in this corrigendum. All such data are in the original article."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Sample sizes (n_total_enrolled, n_total_randomized, n_analyzed) are not stated in this corrigendum and must be sourced from the original article."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "The stimulation waveform is described as 'dilatational wave' with reference to citation (23) in the original article. The full waveform specification requires access to the original article and its references."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Han's acupoint nerve stimulator model LH-202H is described as situated outside the fMRI room, with wiring details given. Needle retention duration, total scan duration, and session count are not provided in this corrigendum."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Acupoint standard cited as 'Name and Location of Acupoints' (GB/T 12346-2006). Exact depth for HT5 reported as a range (10 to 30 mm); exact depth for GB39 reported as 33 mm."
+    },
+    {
+      "note_type": "missing_information",
+      "note": "Funding, ethics approval, trial registration, and conflict of interest statements are not provided in this corrigendum. They may appear in the original article."
+    }
+  ]
+}

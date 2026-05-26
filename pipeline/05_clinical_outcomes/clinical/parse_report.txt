@@ -1,0 +1,76 @@
+Clinical Outcome Parsing Report
+========================================
+Total outcome entries:  1803
+Successfully parsed:   1181 (65.5%)
+Unparseable:           572
+Excluded (N/A):        50
+
+Unique instruments matched:    1291
+Unique instruments unmatched:  62
+
+Effect sizes computed: 227
+Studies with R_within: 38
+
+Unmatched instruments (need manual direction coding):
+  - BOLD signal intensity change (%)
+  - Biopac Systems EEG; 12 channels; α (8–13 Hz), β (13–30 Hz), θ (4–8 Hz), δ (0.5–4 Hz) bands; 10–20 electrode placement method
+  - Boston CTS questionnaire; nerve conduction studies; grip strength
+  - DST
+  - Defecation frequency (times per week)
+  - Doppler ultrasound EDV (cm/s)
+  - Doppler ultrasound RI
+  - Doppler ultrasound Vs (cm/s)
+  - Edinburgh Handedness Inventory
+  - Functional connectivity density (FCD) in C8_R
+  - Functional connectivity density (FCD) in SMA_R
+  - HR (bpm) from ECG QRS peak annotation
+  - Hospital-developed patient satisfaction questionnaire
+  - In vivo ultrasonic imaging (System FiVe, GE-Vingmed, 7.5 MHz); RF data, 2 mm window, 60% overlap; 13.2 frames/second
+  - LC-ESI-MS integrated chromatogram peak area
+  - MRI-PDFF
+  - Massachusetts General Hospital (MGH) Acupuncture Sensation Scale (MASS)
+  - Open Field Test (OFT)
+  - PLV (phase locking value)
+  - PPG-recorded HRV: HF%
+  - PPG-recorded HRV: LF/HF ratio
+  - Pearson's r
+  - PeriScan PIM II LDPI
+  - PeriScan PIM II LDPI (Perimed Company, Sweden); scanning laser wavelength 670 nm; maximum output power 1 mW; NR scanning pattern; pixel size 0.5 × 0.5 mm²; LDPI 2.5 imaging software
+  - Polysomnography (PSG)
+  - SID-based responder definition
+  - SPECT blood perfusion
+  - Sensory Box 0–20 scale
+  - Sensory Box 0–20 scale (Gracely et al., 1978a,b, 1979)
+  - Spatial two-point discrimination task; psychometric function fit (Psyphy R package)
+  - Spontaneous excitatory postsynaptic currents (sEPSC) – amplitude (pA)
+  - Spontaneous excitatory postsynaptic currents (sEPSC) – frequency (Hz)
+  - Tinnitus Evaluation Questionnaire (TEQ)
+  - VFT
+  - Viking Quest portable EMG/evoked potential systems (NICOLET, USA)
+  - Western blot (PRDX1)
+  - Western blot (p-ERK)
+  - Western blot (p-HSP27)
+  - bioelectrical impedance analysis
+  - body mass index
+  - compliance rate = (actual treatment times/total treatment times) x 100%
+  - disease duration in months
+  - expectation scale (0–20)
+  - expectation scale (0–20; 0 = very negative expectation; 20 = very positive expectation)
+  - fMRI-derived somatotopic separation distance (mm)
+  - heart rate variability (HRV)
+  - laser Doppler perfusion imaging (PIM3 system); perfusion units (PU,%)
+  - mercurial sphygmomanometer
+  - mmHg
+  - needle sensation questionnaire (NSQ); range 0–75
+  - nerve conduction studies (NCS) - median sensory nerve conduction latency
+  - numerical scale ranging from −5 (totally relaxed) to 5 (unbearable anxious)
+  - patient-recorded daily diary
+  - pure tone audiometry
+  - pure tone audiometry; average air conduction hearing threshold (250–8,000Hz; MI44, Maico)
+  - self-report
+  - serum CRP; Rayto RT-6100 diagnostic instrument and enzyme-linked immunosorbent assay kits
+  - serum IL-1β (pg/mL); Rayto RT-6100 diagnostic instrument and enzyme-linked immunosorbent assay kits
+  - serum IL-6 (pg/mL); Rayto RT-6100 diagnostic instrument and enzyme-linked immunosorbent assay kits
+  - serum TNF-α (pg/mL); Rayto RT-6100 diagnostic instrument and enzyme-linked immunosorbent assay kits
+  - surface electromyography (sEMG)
+  - two-alternative forced choice (2AFC) task
