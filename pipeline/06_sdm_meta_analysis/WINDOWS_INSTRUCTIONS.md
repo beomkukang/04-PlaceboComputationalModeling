@@ -1,5 +1,38 @@
 # Running Remaining SDM-PSI Steps on Windows
 
+## Automated PowerShell pipeline (recommended)
+
+The bash scripts (`step*.sh`, `production_sdm.sh`) require Docker, which is
+typically not available on Windows. PowerShell ports that call `sdm.bat`
+directly — no Docker — now live alongside them:
+
+| Bash (Mac/Docker) | PowerShell (Windows, no Docker) |
+|---|---|
+| `sdm_config.sh` | `sdm_config.ps1` |
+| `step1_preprocessing.sh` … `step5_meta_regression.sh` | `step1_preprocessing.ps1` … `step5_meta_regression.ps1` |
+| `production_sdm.sh` | `run_all.ps1` |
+
+```powershell
+# from pipeline\06_sdm_meta_analysis
+$env:SDM = "C:\SdmPsiGui-win64-v6.23\sdm.bat"   # or pass -Sdm to any script
+.\run_all.ps1 -DryRun     # show the full plan first
+.\run_all.ps1             # run steps 1-5 for all analyses
+```
+Each step can also run on its own (`.\step2_mean_analysis.ps1 -Analysis deactivation`),
+supports `-DryRun` / `-Force`, and uses the same sentinel files (`.<step>.done`)
+so completed work is skipped on rerun.
+
+> **Important — start at step 1.** The step-1 preprocessing outputs
+> (`pp/`, `sdmpsi_params.xml`, `analysis_*/`, `*.nii.gz`) are gitignored and are
+> **not** present in a git checkout. They must be regenerated on this machine
+> from the `*_mni.txt` / `sdm_table.txt` inputs before steps 2-5 can run.
+> `run_all.ps1` does this automatically. The status table below reflects the
+> **Mac** run; on a fresh Windows checkout nothing past the input tables exists.
+
+The hand-written commands below remain valid as a manual fallback.
+
+---
+
 ## Current status (as of 2026-05-26)
 
 All preprocessing (step 1) is complete. Mean analysis (step 2) is complete for 7/10 analyses.
@@ -38,7 +71,7 @@ Copy the entire `pipeline/06_sdm_meta_analysis/sdm_projects/` folder to the Wind
 
 ### 3. Open PowerShell and set SDM path
 ```powershell
-$SDM = "C:\SDM\SdmPsiGui-win64-v6.23\sdm.bat"
+$SDM = "C:\SdmPsiGui-win64-v6.23\sdm.bat"   # adjust to your install location
 $PROJECTS = "C:\path\to\sdm_projects"
 ```
 
@@ -182,7 +215,7 @@ cd "$PROJECTS\sham_gt_rest"
 Save as `run_remaining.ps1` in the `sdm_projects` folder:
 
 ```powershell
-$SDM = "C:\SDM\SdmPsiGui-win64-v6.23\sdm.bat"
+$SDM = "C:\SdmPsiGui-win64-v6.23\sdm.bat"   # adjust to your install location
 $THREADS = 6
 $PERMS = 5000
 $MI = 50
