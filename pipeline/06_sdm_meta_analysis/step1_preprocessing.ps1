@@ -60,6 +60,20 @@ function Invoke-Preprocessing {
         Write-SdmLog "  ERROR: Preprocessing failed for $Name"; return $false
     }
 
+    # Verify output before trusting it. SDM writes <study>_lower.nii.gz and
+    # <study>_upper.nii.gz per study; a run can exit 0 yet leave pp\ empty
+    # (e.g. interrupted/contended), so require >= n_studies of each map
+    # before stamping the sentinel -- otherwise the unit is left "not done".
+    if (-not $DryRun) {
+        $ppDir = Join-Path $dir "pp"
+        $lower = @(Get-ChildItem $ppDir -Filter "*_lower.nii.gz" -ErrorAction SilentlyContinue).Count
+        $upper = @(Get-ChildItem $ppDir -Filter "*_upper.nii.gz" -ErrorAction SilentlyContinue).Count
+        if ($lower -lt $n -or $upper -lt $n) {
+            Write-SdmLog "  ERROR: $Name -- incomplete pp output ($lower lower / $upper upper maps for $n studies). Not marking done."
+            return $false
+        }
+    }
+
     Set-SdmDone $dir $StepName
     Write-SdmLog "  DONE: $Name"
     return $true
