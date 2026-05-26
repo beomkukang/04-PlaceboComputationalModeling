@@ -107,7 +107,13 @@ function Invoke-Sdm {
             # Write back without BOM so SDM's XML parser is unaffected.
             [System.IO.File]::WriteAllText($xml, $content, (New-Object System.Text.UTF8Encoding($false)))
         }
-        & $SDM $Cmd
+        # sdm.bat forwards args to sdm_parse.exe (sdm_parse.exe %*), so each
+        # token must be a separate argument -- exactly how the bash scripts
+        # passed an unquoted command to sdm_parse. Splitting on whitespace
+        # reproduces that word-splitting (e.g. "pp gray_matter,..." -> two args,
+        # "x_mean = mi 50" -> four args).
+        $sdmArgs = $Cmd -split '\s+' | Where-Object { $_ -ne '' }
+        & $SDM @sdmArgs
         return ($LASTEXITCODE -eq 0)
     } finally {
         Pop-Location
