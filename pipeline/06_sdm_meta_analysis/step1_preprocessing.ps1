@@ -41,17 +41,18 @@ function Invoke-Preprocessing {
         Write-SdmLog "  WARNING: $Name has only $n studies (recommended minimum: $MinStudies)"
     }
 
-    if ($Force) { Remove-Item (Join-Path $dir ".$StepName.done") -Force -ErrorAction SilentlyContinue }
+    if ($Force) { Reset-SdmStep $dir $StepName $Name }   # delete pp output + sentinel, recompute
 
     if (Test-SdmDone $dir $StepName) {
         Write-SdmLog "  SKIP: $Name -- already done (sentinel found). Use -Force to rerun."
         return $true
     }
 
-    if ((Test-Path (Join-Path $dir "pp")) -and (Test-Path (Join-Path $dir "sdmpsi_params.xml"))) {
-        Write-SdmLog "  $Name -- output exists from prior run, marking done."
-        Set-SdmDone $dir $StepName
-        return $true
+    # No sentinel => the unit is not trusted as complete. Clear any fragmented
+    # pp output before rerunning so partial files can't linger.
+    if (Test-Path (Join-Path $dir "pp")) {
+        Write-SdmLog "  $Name -- no sentinel; clearing fragmented pp output before rerun."
+        Reset-SdmStep $dir $StepName $Name
     }
 
     Write-SdmLog "  Preprocessing $Name ($n studies)..."

@@ -44,7 +44,7 @@ function Invoke-FweCorrection {
         }
     }
 
-    if ($Force) { Remove-Item (Join-Path $dir ".$StepName.done") -Force -ErrorAction SilentlyContinue }
+    if ($Force) { Reset-SdmStep $dir $StepName $Name }   # delete FWE output (keeps mean_z) + sentinel
 
     $fweOutput = Join-Path $dir ("analysis_{0}_mean\corrp_tfce.nii.gz" -f $Name)
 
@@ -53,15 +53,12 @@ function Invoke-FweCorrection {
         return $true
     }
 
-    if ((Test-Path $fweOutput) -and ((Get-Item $fweOutput).Length -gt 0)) {
-        Write-SdmLog "  $Name -- output exists from prior run, marking done."
-        Set-SdmDone $dir $StepName
-        return $true
-    }
-
-    # Clean up partial FWE directory
+    # No sentinel => not trusted. Clear any fragmented FWE output, run clean.
     $fweDir = Join-Path $dir ("analysis_{0}_mean\fwe" -f $Name)
-    if (Test-Path $fweDir) { Remove-Item $fweDir -Recurse -Force -ErrorAction SilentlyContinue }
+    if ((Test-Path $fweDir) -or ((Test-Path $fweOutput) -and ((Get-Item $fweOutput).Length -gt 0))) {
+        Write-SdmLog "  $Name -- no sentinel; clearing fragmented FWE output before rerun."
+        Reset-SdmStep $dir $StepName $Name
+    }
 
     $n = Get-StudyCount $dir
     Write-SdmLog "  FWE correction: $Name ($n studies, $Permutations permutations, $NThreads threads)..."

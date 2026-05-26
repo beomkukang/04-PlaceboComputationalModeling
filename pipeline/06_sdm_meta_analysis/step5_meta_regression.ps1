@@ -62,18 +62,26 @@ if ($header -notmatch "\b$Covariate\b") {
     exit 1
 }
 
-$lmDone     = Join-Path $dir ".mr_${RegName}_lm.done"
-$permDone   = Join-Path $dir ".mr_${RegName}_perm.done"
-$threshDone = Join-Path $dir ".mr_${RegName}_threshold.done"
+$lmDone      = Join-Path $dir ".mr_${RegName}_lm.done"
+$permDone    = Join-Path $dir ".mr_${RegName}_perm.done"
+$threshDone  = Join-Path $dir ".mr_${RegName}_threshold.done"
+$regAnalysis = Join-Path $dir ("analysis_{0}" -f $RegName)
 
 if ($Force) {
+    # Truly force: drop all sub-sentinels and the whole regression analysis dir.
     Remove-Item $lmDone, $permDone, $threshDone -Force -ErrorAction SilentlyContinue
+    if (-not $DryRun) { Remove-Item $regAnalysis -Recurse -Force -ErrorAction SilentlyContinue }
 }
 
 # Sub-step 1: Linear model
 if (Test-Path $lmDone) {
     Write-SdmLog "  [1/3] Linear model -- skipping (sentinel found)."
 } else {
+    # No sentinel => not trusted. Clear any previous/partial regression output.
+    if ((-not $DryRun) -and (Test-Path $regAnalysis)) {
+        Write-SdmLog "  [1/3] no sentinel; clearing previous regression output before rerun."
+        Remove-Item $regAnalysis -Recurse -Force -ErrorAction SilentlyContinue
+    }
     Write-SdmLog "  [1/3] Linear model ($Imputations imputations)..."
     if (-not (Invoke-Sdm $dir ("{0} = mi_lm {1},0+1,{2}" -f $RegName, $Covariate, $Imputations))) {
         Write-SdmLog "  ERROR: Linear model failed"

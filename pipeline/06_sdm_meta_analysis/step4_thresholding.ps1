@@ -42,6 +42,8 @@ function Invoke-Thresholding {
         }
     }
 
+    if ($Force) { Reset-SdmStep $dir $StepName $Name }   # clear stale thresholded maps + sentinel
+
     Write-SdmLog "  Thresholding: $Name (p<$PThreshold, k>=$VoxelExtent)..."
     $cmd = "threshold analysis_{0}_mean/corrp_tfce,analysis_{0}_mean/{0}_mean_z,{1},{2}" -f $Name, $PThreshold, $VoxelExtent
     if (-not (Invoke-Sdm $dir $cmd)) {

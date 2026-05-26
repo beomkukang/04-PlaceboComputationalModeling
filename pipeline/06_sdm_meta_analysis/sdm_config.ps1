@@ -87,6 +87,36 @@ function Test-SdmDone {
     Test-Path (Join-Path $Dir ".$Step.done")
 }
 
+# Remove the output artifacts for ONE (contrast, step) plus its sentinel, so
+# the unit can be recomputed cleanly. Granular: touches only this step's output
+# and never the inputs (sdm_table.txt, *_mni.txt) or other steps' results
+# (e.g. resetting "perm" keeps the step-2 mean_z map).
+function Reset-SdmStep {
+    param([string]$Dir, [string]$Step, [string]$Name)
+    if ($DryRun) { Write-SdmLog "  [DRY-RUN] would reset '$Step' output for $Name"; return }
+
+    $analysis = Join-Path $Dir ("analysis_{0}_mean" -f $Name)
+    switch ($Step) {
+        "pp" {
+            Remove-Item (Join-Path $Dir "pp") -Recurse -Force -ErrorAction SilentlyContinue
+            Remove-Item (Join-Path $Dir "sdmpsi_params.xml") -Force -ErrorAction SilentlyContinue
+        }
+        "mi" {
+            Remove-Item $analysis -Recurse -Force -ErrorAction SilentlyContinue
+        }
+        "perm" {
+            Remove-Item (Join-Path $analysis "fwe") -Recurse -Force -ErrorAction SilentlyContinue
+            Get-ChildItem $analysis -Filter "corrp_tfce*" -ErrorAction SilentlyContinue |
+                Remove-Item -Force -ErrorAction SilentlyContinue
+        }
+        "threshold" {
+            Get-ChildItem $analysis -Filter "*tfceCorrected*" -ErrorAction SilentlyContinue |
+                Remove-Item -Force -ErrorAction SilentlyContinue
+        }
+    }
+    Remove-Item (Join-Path $Dir ".$Step.done") -Force -ErrorAction SilentlyContinue
+}
+
 # Run an SDM command in $WorkDir by calling sdm.bat directly.
 # Returns $true on success ($LASTEXITCODE -eq 0), $false otherwise.
 function Invoke-Sdm {

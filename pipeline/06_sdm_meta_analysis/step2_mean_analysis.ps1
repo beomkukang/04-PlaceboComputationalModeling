@@ -42,7 +42,7 @@ function Invoke-MeanAnalysis {
         }
     }
 
-    if ($Force) { Remove-Item (Join-Path $dir ".$StepName.done") -Force -ErrorAction SilentlyContinue }
+    if ($Force) { Reset-SdmStep $dir $StepName $Name }   # delete mean-analysis output + sentinel
 
     $meanOutput = Join-Path $dir ("analysis_{0}_mean\{0}_mean_z.nii.gz" -f $Name)
 
@@ -51,17 +51,11 @@ function Invoke-MeanAnalysis {
         return $true
     }
 
-    if ((Test-Path $meanOutput) -and ((Get-Item $meanOutput).Length -gt 0)) {
-        Write-SdmLog "  $Name -- output exists from prior run, marking done."
-        Set-SdmDone $dir $StepName
-        return $true
-    }
-
-    # Clean up any partial previous run
+    # No sentinel => not trusted. Wipe any previous/partial mean analysis, run clean.
     $analysisDir = Join-Path $dir ("analysis_{0}_mean" -f $Name)
     if (Test-Path $analysisDir) {
-        Write-SdmLog "  $Name -- cleaning up partial previous run..."
-        Remove-Item $analysisDir -Recurse -Force
+        Write-SdmLog "  $Name -- no sentinel; clearing previous mean-analysis output before rerun."
+        Reset-SdmStep $dir $StepName $Name
     }
 
     $n = Get-StudyCount $dir
