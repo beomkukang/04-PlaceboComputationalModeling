@@ -24,6 +24,9 @@
 # ==============================================================
 [CmdletBinding()]
 param(
+    [string]$Analysis,      # limit steps 1-4 to one contrast (step 5 is always sham_gt_rest)
+    [int]$Imputations,      # override step 2 / step 5 imputation count
+    [int]$Permutations,     # override step 3 / step 5 permutation count
     [switch]$DryRun,
     [switch]$Force,
     [string]$Sdm,
@@ -52,11 +55,11 @@ function Disable-KeepAwake {
     [void][Win32.Power]::SetThreadExecutionState($ES_CONTINUOUS)
 }
 
-# Flags forwarded to each step script
-$flags = @{}
-if ($DryRun) { $flags.DryRun = $true }
-if ($Force)  { $flags.Force  = $true }
-if ($Sdm)    { $flags.Sdm    = $Sdm }
+# Flags common to every step
+$common = @{}
+if ($DryRun) { $common.DryRun = $true }
+if ($Force)  { $common.Force  = $true }
+if ($Sdm)    { $common.Sdm    = $Sdm }
 
 $steps = @(
     "step1_preprocessing.ps1"
@@ -65,6 +68,23 @@ $steps = @(
     "step4_thresholding.ps1"
     "step5_meta_regression.ps1"
 )
+
+# Per-step extras -- only the params each step actually accepts, so splatting
+# never passes an unknown parameter (e.g. step 5 takes no -Analysis).
+$perStep = @{}
+foreach ($s in $steps) { $perStep[$s] = @{} }
+if ($Analysis) {
+    "step1_preprocessing.ps1","step2_mean_analysis.ps1","step3_fwe_correction.ps1","step4_thresholding.ps1" |
+        ForEach-Object { $perStep[$_].Analysis = $Analysis }
+}
+if ($Imputations) {
+    $perStep["step2_mean_analysis.ps1"].Imputations   = $Imputations
+    $perStep["step5_meta_regression.ps1"].Imputations = $Imputations
+}
+if ($Permutations) {
+    $perStep["step3_fwe_correction.ps1"].Permutations   = $Permutations
+    $perStep["step5_meta_regression.ps1"].Permutations  = $Permutations
+}
 
 $start = Get-Date
 
@@ -77,10 +97,19 @@ if (-not $NoCaffeinate) { Enable-KeepAwake; Write-Host "Keep-awake: ON (PC will 
 try {
     foreach ($step in $steps) {
         $name = [System.IO.Path]::GetFileNameWithoutExtension($step)
+
+        # Step 5 only applies to sham_gt_rest; skip it when limiting to another contrast.
+        if ($step -eq "step5_meta_regression.ps1" -and $Analysis -and $Analysis -ne "sham_gt_rest") {
+            Write-Host ""
+            Write-Host ">>> Skipping $name (only applies to sham_gt_rest; -Analysis=$Analysis)."
+            continue
+        }
+
         Write-Host ""
         Write-Host ">>> Running $name..."
         Write-Host ""
 
+        $flags = $common + $perStep[$step]
         & "$PSScriptRoot\$step" @flags
 
         if ($LASTEXITCODE -ne 0) {

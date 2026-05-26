@@ -23,8 +23,10 @@ $ProjectDir = Join-Path $ScriptDir "sdm_projects"
 $LogDir     = Join-Path $ProjectDir "logs"
 
 # --- SDM parameters (mirror sdm_config.sh) ---
-$Imputations  = 50
-$Permutations = 5000        # Publication-grade; use lower only for debugging
+# Imputations/Permutations are defaults: a step (or run_all) can override them
+# by passing -Imputations / -Permutations (e.g. tiny values for a smoke test).
+if (-not $Imputations)  { $Imputations  = 50 }
+if (-not $Permutations) { $Permutations = 5000 }   # Publication-grade
 $PThreshold   = 0.05
 $VoxelExtent  = 10
 $PpParams     = "gray_matter,1.0,20,gray_matter,2"

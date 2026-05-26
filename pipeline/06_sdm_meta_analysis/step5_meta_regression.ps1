@@ -16,7 +16,9 @@
 param(
     [switch]$DryRun,
     [switch]$Force,
-    [string]$Sdm
+    [string]$Sdm,
+    [int]$Imputations,         # override config defaults (e.g. for a quick smoke test)
+    [int]$Permutations
 )
 
 . "$PSScriptRoot\sdm_config.ps1"
