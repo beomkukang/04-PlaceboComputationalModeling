@@ -26,10 +26,31 @@
 param(
     [switch]$DryRun,
     [switch]$Force,
-    [string]$Sdm
+    [string]$Sdm,
+    [switch]$NoCaffeinate   # by default the PC is kept awake for the whole run
 )
 
 $ErrorActionPreference = "Stop"
+
+# --- Keep the machine awake for the duration (Windows "caffeinate") ---
+# Uses the Win32 SetThreadExecutionState API. The assertion lives on this
+# thread and is released automatically when the script exits; the finally
+# block clears it explicitly too. Sleep is blocked while the run is active.
+Add-Type -Namespace Win32 -Name Power -MemberDefinition @'
+[System.Runtime.InteropServices.DllImport("kernel32.dll", SetLastError = true)]
+public static extern uint SetThreadExecutionState(uint esFlags);
+'@
+$ES_CONTINUOUS       = [uint32]'0x80000000'
+$ES_SYSTEM_REQUIRED  = [uint32]'0x00000001'
+$ES_DISPLAY_REQUIRED = [uint32]'0x00000002'
+
+function Enable-KeepAwake {
+    [void][Win32.Power]::SetThreadExecutionState(
+        $ES_CONTINUOUS -bor $ES_SYSTEM_REQUIRED -bor $ES_DISPLAY_REQUIRED)
+}
+function Disable-KeepAwake {
+    [void][Win32.Power]::SetThreadExecutionState($ES_CONTINUOUS)
+}
 
 # Flags forwarded to each step script
 $flags = @{}
@@ -51,25 +72,32 @@ Write-Host "============================================================"
 Write-Host "SDM-PSI Production Pipeline"
 Write-Host "============================================================"
 
-foreach ($step in $steps) {
-    $name = [System.IO.Path]::GetFileNameWithoutExtension($step)
-    Write-Host ""
-    Write-Host ">>> Running $name..."
-    Write-Host ""
+if (-not $NoCaffeinate) { Enable-KeepAwake; Write-Host "Keep-awake: ON (PC will not sleep until the run finishes)" }
 
-    & "$PSScriptRoot\$step" @flags
-
-    if ($LASTEXITCODE -ne 0) {
+try {
+    foreach ($step in $steps) {
+        $name = [System.IO.Path]::GetFileNameWithoutExtension($step)
         Write-Host ""
-        Write-Host "ERROR: $name failed (exit $LASTEXITCODE). Fix the issue and rerun."
-        Write-Host "       Completed steps will be skipped (sentinel files)."
-        Write-Host "       Or rerun just this step: .\$step"
-        exit 1
-    }
-}
+        Write-Host ">>> Running $name..."
+        Write-Host ""
 
-$elapsed = [int]((Get-Date) - $start).TotalMinutes
-Write-Host ""
-Write-Host "============================================================"
-Write-Host "ALL STEPS COMPLETE ($elapsed minutes)"
-Write-Host "============================================================"
+        & "$PSScriptRoot\$step" @flags
+
+        if ($LASTEXITCODE -ne 0) {
+            Write-Host ""
+            Write-Host "ERROR: $name failed (exit $LASTEXITCODE). Fix the issue and rerun."
+            Write-Host "       Completed steps will be skipped (sentinel files)."
+            Write-Host "       Or rerun just this step: .\$step"
+            exit 1
+        }
+    }
+
+    $elapsed = [int]((Get-Date) - $start).TotalMinutes
+    Write-Host ""
+    Write-Host "============================================================"
+    Write-Host "ALL STEPS COMPLETE ($elapsed minutes)"
+    Write-Host "============================================================"
+}
+finally {
+    if (-not $NoCaffeinate) { Disable-KeepAwake; Write-Host "Keep-awake: released." }
+}
