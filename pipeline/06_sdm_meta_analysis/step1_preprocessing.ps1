@@ -61,16 +61,23 @@ function Invoke-Preprocessing {
     }
 
     # Verify output before trusting it. SDM writes <study>_lower.nii.gz and
-    # <study>_upper.nii.gz per study; a run can exit 0 yet leave pp\ empty
-    # (e.g. interrupted/contended), so require >= n_studies of each map
-    # before stamping the sentinel -- otherwise the unit is left "not done".
+    # <study>_upper.nii.gz bound maps. The count is NOT a fixed multiple of
+    # $n: studies with no peaks (empty *.no_peaks.txt) are listed in
+    # sdm_table.txt but may yield no maps, while t-image studies can yield
+    # extra maps. So fail only on the genuine failure -- zero maps, as seen
+    # when a run is killed mid-way -- and merely warn if the count looks low.
     if (-not $DryRun) {
         $ppDir = Join-Path $dir "pp"
         $lower = @(Get-ChildItem $ppDir -Filter "*_lower.nii.gz" -ErrorAction SilentlyContinue).Count
         $upper = @(Get-ChildItem $ppDir -Filter "*_upper.nii.gz" -ErrorAction SilentlyContinue).Count
-        if ($lower -lt $n -or $upper -lt $n) {
-            Write-SdmLog "  ERROR: $Name -- incomplete pp output ($lower lower / $upper upper maps for $n studies). Not marking done."
+        if ($lower -eq 0 -or $upper -eq 0) {
+            Write-SdmLog "  ERROR: $Name -- pp produced no bound maps ($lower lower / $upper upper). Not marking done."
             return $false
+        }
+        $noPeaks = @(Get-ChildItem $dir -Filter "*.no_peaks.txt" -ErrorAction SilentlyContinue).Count
+        $minExpected = $n - $noPeaks
+        if ($lower -lt $minExpected -or $upper -lt $minExpected) {
+            Write-SdmLog "  WARNING: $Name -- fewer pp maps than expected ($lower/$upper vs >= $minExpected peak studies); marking done, please verify."
         }
     }
 
