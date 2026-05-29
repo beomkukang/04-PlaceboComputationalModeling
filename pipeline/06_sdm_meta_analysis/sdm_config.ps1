@@ -30,7 +30,7 @@ if (-not $Permutations) { $Permutations = 5000 }   # Publication-grade
 $PThreshold   = 0.05
 $VoxelExtent  = 10
 $PpParams     = "gray_matter,1.0,20,gray_matter,2"
-$NThreads     = 6           # Use 6 of 8 cores
+if (-not $NThreads) { $NThreads = 6 }   # perm/FWE threads; override via -NThreads (fewer = less RAM)
 $MinStudies   = 10          # Warn if fewer studies than this
 
 # --- All analyses in pipeline order ---

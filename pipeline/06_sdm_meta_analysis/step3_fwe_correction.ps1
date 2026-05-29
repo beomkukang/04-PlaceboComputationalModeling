@@ -18,7 +18,8 @@ param(
     [switch]$DryRun,
     [switch]$Force,
     [string]$Sdm,
-    [int]$Permutations         # override config default (e.g. for a quick smoke test)
+    [int]$Permutations,        # override config default (e.g. for a quick smoke test)
+    [int]$NThreads             # override thread count (fewer = less RAM; avoids OOM)
 )
 
 . "$PSScriptRoot\sdm_config.ps1"

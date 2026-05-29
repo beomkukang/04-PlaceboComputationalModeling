@@ -27,6 +27,7 @@ param(
     [string]$Analysis,      # limit steps 1-4 to one contrast (step 5 is always sham_gt_rest)
     [int]$Imputations,      # override step 2 / step 5 imputation count
     [int]$Permutations,     # override step 3 / step 5 permutation count
+    [int]$NThreads,         # override step 3 / step 5 thread count (fewer = less RAM)
     [switch]$DryRun,
     [switch]$Force,
     [string]$Sdm,
@@ -84,6 +85,10 @@ if ($Imputations) {
 if ($Permutations) {
     $perStep["step3_fwe_correction.ps1"].Permutations   = $Permutations
     $perStep["step5_meta_regression.ps1"].Permutations  = $Permutations
+}
+if ($NThreads) {
+    $perStep["step3_fwe_correction.ps1"].NThreads   = $NThreads
+    $perStep["step5_meta_regression.ps1"].NThreads  = $NThreads
 }
 
 $start = Get-Date

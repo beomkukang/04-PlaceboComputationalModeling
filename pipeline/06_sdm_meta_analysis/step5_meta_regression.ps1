@@ -18,7 +18,8 @@ param(
     [switch]$Force,
     [string]$Sdm,
     [int]$Imputations,         # override config defaults (e.g. for a quick smoke test)
-    [int]$Permutations
+    [int]$Permutations,
+    [int]$NThreads             # override thread count (fewer = less RAM; avoids OOM)
 )
 
 . "$PSScriptRoot\sdm_config.ps1"
